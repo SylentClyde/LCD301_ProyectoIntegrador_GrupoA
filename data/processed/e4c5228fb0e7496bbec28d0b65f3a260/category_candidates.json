@@ -1,0 +1,12 @@
+[
+  {
+    "category": "electronica",
+    "candidate_net_cents": 10000,
+    "lines": 3
+  },
+  {
+    "category": "ropa",
+    "candidate_net_cents": 18000,
+    "lines": 4
+  }
+]

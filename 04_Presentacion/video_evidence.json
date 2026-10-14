@@ -1,0 +1,73 @@
+{
+  "mode": "demostracion guiada con slides editables y capturas reales",
+  "continuous_screen_recording": false,
+  "audio": false,
+  "duration_seconds": 142,
+  "file": "Demostracion_GrupoA.mp4",
+  "frames": [
+    {
+      "source": "frame_01.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_02.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_03.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_04.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_05.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_06.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_07.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_08.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_09.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_10.png",
+      "seconds": 8
+    },
+    {
+      "source": "frame_11.png",
+      "seconds": 10
+    },
+    {
+      "source": "frame_12.png",
+      "seconds": 10
+    },
+    {
+      "source": "frame_13.png",
+      "seconds": 10
+    },
+    {
+      "source": "frame_14.png",
+      "seconds": 10
+    },
+    {
+      "source": "frame_15.png",
+      "seconds": 10
+    },
+    {
+      "source": "cierre.png",
+      "seconds": 12
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "event_id": "EVT-ORD-CONTROL-001-CREATED",
+    "event_type": "created",
+    "order_id": "ORD-CONTROL-001",
+    "customer_id": "CUST0001",
+    "event_time": "2026-04-30T23:55:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 10000,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-001-L01",
+        "product_id": "PRD001",
+        "quantity": 2,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-001-PAID",
+    "event_type": "paid",
+    "order_id": "ORD-CONTROL-001",
+    "customer_id": "CUST0001",
+    "event_time": "2026-05-01T00:05:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 10000,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-001-L01",
+        "product_id": "PRD001",
+        "quantity": 2,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-001-REFUND-1",
+    "event_type": "refunded",
+    "order_id": "ORD-CONTROL-001",
+    "customer_id": "CUST0001",
+    "event_time": "2026-05-15T23:55:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 5000,
+    "original_payment_id": "EVT-ORD-CONTROL-001-PAID",
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-001-L01",
+        "product_id": "PRD001",
+        "quantity": 1,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": 5000
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-002-CREATED",
+    "event_type": "created",
+    "order_id": "ORD-CONTROL-002",
+    "customer_id": "CUST0002",
+    "event_time": "2026-05-31T23:55:00Z",
+    "channel": "movil",
+    "currency": "BOB",
+    "total_cents": 8500,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-002-L01",
+        "product_id": "PRD002",
+        "quantity": 3,
+        "unit_price_cents": 3000,
+        "discount_cents": 500,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-002-PAID",
+    "event_type": "paid",
+    "order_id": "ORD-CONTROL-002",
+    "customer_id": "CUST0002",
+    "event_time": "2026-06-01T00:05:00Z",
+    "channel": "movil",
+    "currency": "BOB",
+    "total_cents": 8500,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-002-L01",
+        "product_id": "PRD002",
+        "quantity": 3,
+        "unit_price_cents": 3000,
+        "discount_cents": 500,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-003-CREATED",
+    "event_type": "created",
+    "order_id": "ORD-CONTROL-003",
+    "customer_id": "CUST0003",
+    "event_time": "2026-06-30T23:55:00Z",
+    "channel": "tienda",
+    "currency": "BOB",
+    "total_cents": 7000,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-003-L01",
+        "product_id": "PRD003",
+        "quantity": 1,
+        "unit_price_cents": 7000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-003-CANCELLED",
+    "event_type": "cancelled",
+    "order_id": "ORD-CONTROL-003",
+    "customer_id": "CUST0003",
+    "event_time": "2026-07-01T00:05:00Z",
+    "channel": "tienda",
+    "currency": "BOB",
+    "total_cents": 0,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-003-L01",
+        "product_id": "PRD003",
+        "quantity": 1,
+        "unit_price_cents": 7000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-004-CREATED",
+    "event_type": "created",
+    "order_id": "ORD-CONTROL-004",
+    "customer_id": "CUST0001",
+    "event_time": "2026-07-01T10:00:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 15000,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-004-L01",
+        "product_id": "PRD001",
+        "quantity": 3,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-004-PAID",
+    "event_type": "paid",
+    "order_id": "ORD-CONTROL-004",
+    "customer_id": "CUST0001",
+    "event_time": "2026-07-01T10:10:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 15000,
+    "original_payment_id": null,
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-004-L01",
+        "product_id": "PRD001",
+        "quantity": 3,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": null
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-004-REFUND-1",
+    "event_type": "refunded",
+    "order_id": "ORD-CONTROL-004",
+    "customer_id": "CUST0001",
+    "event_time": "2026-07-06T10:00:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 5000,
+    "original_payment_id": "EVT-ORD-CONTROL-004-PAID",
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-004-L01",
+        "product_id": "PRD001",
+        "quantity": 1,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": 5000
+      }
+    ]
+  },
+  {
+    "event_id": "EVT-ORD-CONTROL-004-REFUND-2",
+    "event_type": "refunded",
+    "order_id": "ORD-CONTROL-004",
+    "customer_id": "CUST0001",
+    "event_time": "2026-07-13T10:00:00Z",
+    "channel": "web",
+    "currency": "BOB",
+    "total_cents": 5000,
+    "original_payment_id": "EVT-ORD-CONTROL-004-PAID",
+    "items": [
+      {
+        "order_line_id": "ORD-CONTROL-004-L01",
+        "product_id": "PRD001",
+        "quantity": 1,
+        "unit_price_cents": 5000,
+        "discount_cents": 0,
+        "refund_cents": 5000
+      }
+    ]
+  }
+]

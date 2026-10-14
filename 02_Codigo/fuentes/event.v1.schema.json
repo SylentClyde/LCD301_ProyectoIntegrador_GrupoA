@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://lcd301.invalid/schemas/event.v1.schema.json",
+  "title": "Evento de e-commerce v1: importes en centavos BOB",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["event_id", "event_type", "order_id", "customer_id", "event_time", "channel", "currency", "total_cents", "original_payment_id", "items"],
+  "properties": {
+    "event_id": {"type": "string", "minLength": 1, "maxLength": 100},
+    "event_type": {"enum": ["created", "paid", "cancelled", "refunded"]},
+    "order_id": {"type": "string", "minLength": 1, "maxLength": 100},
+    "customer_id": {"type": "string", "pattern": "^CUST[0-9]{4}$"},
+    "event_time": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"},
+    "channel": {"enum": ["web", "movil", "tienda"]},
+    "currency": {"const": "BOB"},
+    "total_cents": {"type": "integer", "minimum": 0},
+    "original_payment_id": {"type": ["string", "null"], "minLength": 1},
+    "items": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["order_line_id", "product_id", "quantity", "unit_price_cents", "discount_cents", "refund_cents"],
+        "properties": {
+          "order_line_id": {"type": "string", "minLength": 1},
+          "product_id": {"type": "string", "pattern": "^PRD[0-9]{3}$"},
+          "quantity": {"type": "integer", "minimum": 1},
+          "unit_price_cents": {"type": "integer", "minimum": 0},
+          "discount_cents": {"type": "integer", "minimum": 0},
+          "refund_cents": {"type": ["integer", "null"], "minimum": 1}
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"event_type": {"const": "refunded"}}},
+      "then": {
+        "properties": {
+          "original_payment_id": {"type": "string", "minLength": 1},
+          "items": {"items": {"properties": {"refund_cents": {"type": "integer", "minimum": 1}}}}
+        }
+      },
+      "else": {
+        "properties": {
+          "original_payment_id": {"type": "null"},
+          "items": {"items": {"properties": {"refund_cents": {"type": "null"}}}}
+        }
+      }
+    }
+  ]
+}

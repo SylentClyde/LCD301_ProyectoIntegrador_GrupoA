@@ -1,0 +1,30 @@
+[
+  {
+    "day": "2026-09-29",
+    "channel": "movil",
+    "candidate_net_cents": 12000,
+    "events": 2,
+    "mean_event_cents": 12000.0
+  },
+  {
+    "day": "2026-09-29",
+    "channel": "tienda",
+    "candidate_net_cents": 6000,
+    "events": 2,
+    "mean_event_cents": 6000.0
+  },
+  {
+    "day": "2026-09-29",
+    "channel": "web",
+    "candidate_net_cents": 20000,
+    "events": 2,
+    "mean_event_cents": 20000.0
+  },
+  {
+    "day": "2026-09-30",
+    "channel": "web",
+    "candidate_net_cents": -10000,
+    "events": 1,
+    "mean_event_cents": 10000.0
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "verified_at": "2026-10-09T23:48:48.406528+00:00",
+  "passed": true,
+  "checks": [
+    {
+      "name": "Registro global = hechos publicados",
+      "passed": true,
+      "details": {
+        "registry": 31007,
+        "facts": 31007
+      }
+    },
+    {
+      "name": "Todos los importes pagos/refunds reconcilian con líneas",
+      "passed": true
+    },
+    {
+      "name": "Un único pago confirmado por pedido",
+      "passed": true
+    },
+    {
+      "name": "Pendientes sin antecedente no publican hechos ni ingresos",
+      "passed": true,
+      "details": [
+        {
+          "event_id": "EVT-INVALID-036",
+          "reason": "missing_original_payment",
+          "published_id": null
+        },
+        {
+          "event_id": "EVT-INVALID-037",
+          "reason": "missing_original_payment",
+          "published_id": null
+        }
+      ]
+    },
+    {
+      "name": "Ninguna devolución excede cantidad/importe comprado",
+      "passed": true
+    },
+    {
+      "name": "Cuatro pedidos control calculados previamente",
+      "passed": true,
+      "details": {
+        "ORD-CONTROL-001": 5000,
+        "ORD-CONTROL-002": 8500,
+        "ORD-CONTROL-003": 0,
+        "ORD-CONTROL-004": 5000
+      }
+    },
+    {
+      "name": "Pedido y devolución atraviesan límite mensual sin perder referencia",
+      "passed": true,
+      "details": [
+        {
+          "order_id": "ORD-CONTROL-001",
+          "months": 2
+        },
+        {
+          "order_id": "ORD-CONTROL-004",
+          "months": 1
+        }
+      ]
+    },
+    {
+      "name": "Repetición real publica cero eventos duplicados",
+      "passed": true,
+      "details": {
+        "run_id": "e16fd192259d427c93aaa86bb2ac02e7",
+        "published_count": 0,
+        "duplicate_count": 31025
+      }
+    },
+    {
+      "name": "Unión catálogo no pierde ni acepta SKU desconocido",
+      "passed": true
+    },
+    {
+      "name": "Almacenamiento mensual real",
+      "passed": true,
+      "details": [
+        {
+          "partition": "fact_event_202604",
+          "rows": 5551
+        },
+        {
+          "partition": "fact_event_202605",
+          "rows": 5779
+        },
+        {
+          "partition": "fact_event_202606",
+          "rows": 5678
+        },
+        {
+          "partition": "fact_event_202607",
+          "rows": 5651
+        },
+        {
+          "partition": "fact_event_202608",
+          "rows": 5781
+        },
+        {
+          "partition": "fact_event_202609",
+          "rows": 2567
+        }
+      ]
+    },
+    {
+      "name": "Índices creados",
+      "passed": true,
+      "details": {
+        "counts": 53
+      }
+    },
+    {
+      "name": "Todos los KPIs concuerdan con cálculo independiente del generador",
+      "passed": true,
+      "phase": "after_delta",
+      "details": {
+        "accepted_events": 31007,
+        "gross_cents": "2804186860",
+        "refund_cents": "166021915",
+        "net_cents": "2638164945",
+        "paying_customers": 1000,
+        "paid_units": 79452,
+        "refunded_units": 4734,
+        "repeat_customers": 795,
+        "counts_by_type": {
+          "paid": 12803,
+          "created": 15003,
+          "refunded": 2001,
+          "cancelled": 1200
+        }
+      }
+    }
+  ],
+  "totals": {
+    "events": 31007,
+    "paid_orders": 12803,
+    "net_cents": "2638164945"
+  }
+}

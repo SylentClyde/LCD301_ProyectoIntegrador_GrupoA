@@ -1,0 +1,398 @@
+{
+  "seed": 301,
+  "currency": "BOB",
+  "timezone": "UTC",
+  "period": {
+    "start": "2026-04-01T00:00:00Z",
+    "end": "2026-09-30T23:59:59Z"
+  },
+  "catalog": {
+    "valid_products": 100,
+    "version": 1,
+    "invalid_rows": 1
+  },
+  "initial": {
+    "accepted_events": 31000,
+    "counts_by_type": {
+      "cancelled": 1200,
+      "created": 15000,
+      "paid": 12800,
+      "refunded": 2000
+    },
+    "gross_cents": 2804148860,
+    "refund_cents": 166011915,
+    "net_cents": 2638136945,
+    "paid_units": 79442,
+    "refunded_units": 4732,
+    "customers_created": 1000,
+    "paying_customers": 1000,
+    "repeat_customers": 795,
+    "first_event_time": "2026-04-01T00:13:53Z",
+    "last_event_time": "2026-09-28T09:51:17Z",
+    "source_record_count": 31065,
+    "schema_invalid_events": 20,
+    "business_invalid_or_pending_events": 20,
+    "duplicate_events": 25,
+    "sha256": "4169154491fdd2be74cd60cefe1d74c4e148ead48c52a8ace98400b4ffb8f6fe"
+  },
+  "delta": {
+    "accepted_events": 7,
+    "counts_by_type": {
+      "created": 3,
+      "paid": 3,
+      "refunded": 1
+    },
+    "gross_cents": 38000,
+    "refund_cents": 10000,
+    "net_cents": 28000,
+    "paid_units": 10,
+    "refunded_units": 2,
+    "customers_created": 1,
+    "paying_customers": 1,
+    "repeat_customers": 1,
+    "first_event_time": "2026-09-29T11:00:00Z",
+    "last_event_time": "2026-09-30T12:00:00Z",
+    "source_record_count": 7,
+    "sha256": "f0847c43667f861144d9558d5724622a6d4c7a35c25b55e273ea5fb6a09a3988"
+  },
+  "after_delta": {
+    "accepted_events": 31007,
+    "counts_by_type": {
+      "cancelled": 1200,
+      "created": 15003,
+      "paid": 12803,
+      "refunded": 2001
+    },
+    "gross_cents": 2804186860,
+    "refund_cents": 166021915,
+    "net_cents": 2638164945,
+    "paid_units": 79452,
+    "refunded_units": 4734,
+    "customers_created": 1000,
+    "paying_customers": 1000,
+    "repeat_customers": 795,
+    "first_event_time": "2026-04-01T00:13:53Z",
+    "last_event_time": "2026-09-30T12:00:00Z"
+  },
+  "controls": {
+    "summary": {
+      "accepted_events": 11,
+      "counts_by_type": {
+        "cancelled": 1,
+        "created": 4,
+        "paid": 3,
+        "refunded": 3
+      },
+      "gross_cents": 33500,
+      "refund_cents": 15000,
+      "net_cents": 18500,
+      "paid_units": 8,
+      "refunded_units": 3,
+      "customers_created": 3,
+      "paying_customers": 2,
+      "repeat_customers": 1,
+      "first_event_time": "2026-04-30T23:55:00Z",
+      "last_event_time": "2026-07-13T10:00:00Z"
+    },
+    "orders": {
+      "ORD-CONTROL-001": {
+        "paid_cents": 10000,
+        "refund_cents": 5000,
+        "net_cents": 5000,
+        "paid_units": 2,
+        "refund_units": 1
+      },
+      "ORD-CONTROL-002": {
+        "paid_cents": 8500,
+        "refund_cents": 0,
+        "net_cents": 8500,
+        "paid_units": 3,
+        "refund_units": 0
+      },
+      "ORD-CONTROL-003": {
+        "paid_cents": 0,
+        "refund_cents": 0,
+        "net_cents": 0,
+        "cancelled": true
+      },
+      "ORD-CONTROL-004": {
+        "paid_cents": 15000,
+        "refund_cents": 10000,
+        "net_cents": 5000,
+        "paid_units": 3,
+        "refund_units": 2,
+        "refund_events": 2
+      }
+    }
+  },
+  "invalid_cases": [
+    {
+      "case": 1,
+      "event_id": null,
+      "stage": "schema",
+      "reason": "missing_event_id"
+    },
+    {
+      "case": 2,
+      "event_id": "EVT-INVALID-002",
+      "stage": "schema",
+      "reason": "empty_items"
+    },
+    {
+      "case": 3,
+      "event_id": "EVT-INVALID-003",
+      "stage": "schema",
+      "reason": "zero_quantity"
+    },
+    {
+      "case": 4,
+      "event_id": "EVT-INVALID-004",
+      "stage": "schema",
+      "reason": "unknown_event_type"
+    },
+    {
+      "case": 5,
+      "event_id": "EVT-INVALID-005",
+      "stage": "schema",
+      "reason": "invalid_time_format"
+    },
+    {
+      "case": 6,
+      "event_id": "EVT-INVALID-006",
+      "stage": "schema",
+      "reason": "unsupported_currency"
+    },
+    {
+      "case": 7,
+      "event_id": "EVT-INVALID-007",
+      "stage": "schema",
+      "reason": "unknown_channel"
+    },
+    {
+      "case": 8,
+      "event_id": "EVT-INVALID-008",
+      "stage": "schema",
+      "reason": "fractional_total"
+    },
+    {
+      "case": 9,
+      "event_id": "EVT-INVALID-009",
+      "stage": "schema",
+      "reason": "missing_customer_id"
+    },
+    {
+      "case": 10,
+      "event_id": "EVT-INVALID-010",
+      "stage": "schema",
+      "reason": "negative_price"
+    },
+    {
+      "case": 11,
+      "event_id": "EVT-INVALID-011",
+      "stage": "schema",
+      "reason": "negative_discount"
+    },
+    {
+      "case": 12,
+      "event_id": "EVT-INVALID-012",
+      "stage": "schema",
+      "reason": "null_total"
+    },
+    {
+      "case": 13,
+      "event_id": "EVT-INVALID-013",
+      "stage": "schema",
+      "reason": "payment_reference_on_created"
+    },
+    {
+      "case": 14,
+      "event_id": "EVT-INVALID-014",
+      "stage": "schema",
+      "reason": "items_not_array"
+    },
+    {
+      "case": 15,
+      "event_id": "EVT-INVALID-015",
+      "stage": "schema",
+      "reason": "string_quantity"
+    },
+    {
+      "case": 16,
+      "event_id": "EVT-INVALID-016",
+      "stage": "schema",
+      "reason": "unknown_field"
+    },
+    {
+      "case": 17,
+      "event_id": "EVT-INVALID-017",
+      "stage": "schema",
+      "reason": "missing_product_id"
+    },
+    {
+      "case": 18,
+      "event_id": "EVT-INVALID-018",
+      "stage": "schema",
+      "reason": "negative_refund"
+    },
+    {
+      "case": 19,
+      "event_id": "EVT-INVALID-019",
+      "stage": "schema",
+      "reason": "missing_refund_reference"
+    },
+    {
+      "case": 20,
+      "event_id": "EVT-INVALID-020",
+      "stage": "schema",
+      "reason": "empty_order_id"
+    },
+    {
+      "case": 21,
+      "event_id": "EVT-INVALID-021",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 22,
+      "event_id": "EVT-INVALID-022",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 23,
+      "event_id": "EVT-INVALID-023",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 24,
+      "event_id": "EVT-INVALID-024",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 25,
+      "event_id": "EVT-INVALID-025",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 26,
+      "event_id": "EVT-INVALID-026",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 27,
+      "event_id": "EVT-INVALID-027",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 28,
+      "event_id": "EVT-INVALID-028",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 29,
+      "event_id": "EVT-INVALID-029",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 30,
+      "event_id": "EVT-INVALID-030",
+      "stage": "business",
+      "reason": "unknown_product"
+    },
+    {
+      "case": 31,
+      "event_id": "EVT-INVALID-031",
+      "stage": "business",
+      "reason": "total_mismatch"
+    },
+    {
+      "case": 32,
+      "event_id": "EVT-INVALID-032",
+      "stage": "business",
+      "reason": "total_mismatch"
+    },
+    {
+      "case": 33,
+      "event_id": "EVT-INVALID-033",
+      "stage": "business",
+      "reason": "total_mismatch"
+    },
+    {
+      "case": 34,
+      "event_id": "EVT-INVALID-034",
+      "stage": "business",
+      "reason": "total_mismatch"
+    },
+    {
+      "case": 35,
+      "event_id": "EVT-INVALID-035",
+      "stage": "business",
+      "reason": "total_mismatch"
+    },
+    {
+      "case": 36,
+      "event_id": "EVT-INVALID-036",
+      "stage": "business",
+      "reason": "payment_reference_invalid_or_pending"
+    },
+    {
+      "case": 37,
+      "event_id": "EVT-INVALID-037",
+      "stage": "business",
+      "reason": "payment_reference_invalid_or_pending"
+    },
+    {
+      "case": 38,
+      "event_id": "EVT-INVALID-038",
+      "stage": "business",
+      "reason": "refund_quantity_exceeded"
+    },
+    {
+      "case": 39,
+      "event_id": "EVT-INVALID-039",
+      "stage": "business",
+      "reason": "refund_amount_exceeded"
+    },
+    {
+      "case": 40,
+      "event_id": "EVT-INVALID-040",
+      "stage": "business",
+      "reason": "second_payment_for_order"
+    }
+  ],
+  "duplicate_event_ids": [
+    "EVT-ORD-CONTROL-001-CREATED",
+    "EVT-ORD-CONTROL-001-PAID",
+    "EVT-ORD-CONTROL-001-REFUND-1",
+    "EVT-ORD-CONTROL-002-CREATED",
+    "EVT-ORD-CONTROL-002-PAID",
+    "EVT-ORD-CONTROL-003-CREATED",
+    "EVT-ORD-CONTROL-003-CANCELLED",
+    "EVT-ORD-CONTROL-004-CREATED",
+    "EVT-ORD-CONTROL-004-PAID",
+    "EVT-ORD-CONTROL-004-REFUND-1",
+    "EVT-ORD-CONTROL-004-REFUND-2",
+    "EVT-000001-CREATED",
+    "EVT-000001-PAID",
+    "EVT-000002-CREATED",
+    "EVT-000002-PAID",
+    "EVT-000003-CREATED",
+    "EVT-000003-PAID",
+    "EVT-000004-CREATED",
+    "EVT-000004-PAID",
+    "EVT-000005-CREATED",
+    "EVT-000005-PAID",
+    "EVT-000006-CREATED",
+    "EVT-000006-PAID",
+    "EVT-000007-CREATED",
+    "EVT-000007-PAID"
+  ],
+  "note": "Los dos reembolsos con referencia inexistente pueden quedar pendientes; nunca deben publicar importes."
+}

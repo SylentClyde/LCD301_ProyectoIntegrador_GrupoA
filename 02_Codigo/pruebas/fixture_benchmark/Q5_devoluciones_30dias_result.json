@@ -1,0 +1,11 @@
+[
+  {
+    "product_id": "PRD001",
+    "product_name": "Control",
+    "category": "hogar",
+    "mature_paid_units": 2,
+    "returned_30d_units": "1",
+    "return_rate_30d": "0.50000000000000000000",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  }
+]

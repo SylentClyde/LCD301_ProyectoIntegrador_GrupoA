@@ -1,0 +1,1 @@
+{"event_id":"EVT-INVALID-002","event_type":"created","order_id":"ORD-INVALID-002","customer_id":"CUST0001","event_time":"2026-09-08T10:12:08Z","channel":"web","currency":"BOB","total_cents":41800,"original_payment_id":null,"items":[]}

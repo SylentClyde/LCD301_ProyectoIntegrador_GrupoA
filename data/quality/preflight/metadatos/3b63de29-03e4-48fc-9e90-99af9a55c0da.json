@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "",
+  "quality.original_filename" : "3b63de29-03e4-48fc-9e90-99af9a55c0da",
+  "quality.reason" : "Revisar quality.csv_reason y Provenance para el detalle tecnico",
+  "batch_id" : "",
+  "quality.at" : "2026-10-09T23:20:45.805Z",
+  "source" : "",
+  "quality.csv_reason" : ""
+}

@@ -1,0 +1,19 @@
+{
+  "reviewed_at_utc": "2026-10-10T00:05:56.552Z",
+  "pdfs": [
+    {
+      "file": "01_Documentacion/Informe_Tecnico_GrupoA.pdf",
+      "pages": 8,
+      "all_pages_rendered_and_visually_reviewed": true
+    },
+    {
+      "file": "01_Documentacion/Manual_Ejecucion_GrupoA.pdf",
+      "pages": 4,
+      "all_pages_rendered_and_visually_reviewed": true
+    }
+  ],
+  "renderer": "Poppler pdftoppm 110 dpi",
+  "issues": [],
+  "final_render_warnings": [],
+  "notes": "Tipografía monoespaciada incrustada para asegurar lectura de los comandos."
+}

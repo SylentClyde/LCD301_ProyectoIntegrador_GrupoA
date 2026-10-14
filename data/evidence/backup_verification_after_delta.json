@@ -1,0 +1,86 @@
+{
+  "verified": true,
+  "backup": "C:\\Users\\wolf1\\OneDrive\\Documents\\ChatGPT\\Document Creation\\output\\LCD301_ProyectoIntegrador_GrupoA\\data\\backups\\lcd301_20261009T234900595099Z.dump",
+  "backup_bytes": 12982037,
+  "backup_sha256": "c6757a5898f45cf793ac3f1e55cb0d13c5867f4485ffe8ce6a090310c6cf3319",
+  "consistent_snapshot": "00000008-00000015-1",
+  "restore_database": "lcd301_restore_20261009_234900595099",
+  "verified_at": "2026-10-09T23:49:26.632975+00:00",
+  "original": {
+    "event_registry": {
+      "count": 31007,
+      "sha256": "c6cc401982a0b816cca353e5ddd2f50b5b09431eab99aea799a06fdceb598f90"
+    },
+    "fact_event": {
+      "count": 31007,
+      "sha256": "880a11df897532b78378e5441e737e4f4fac6cbddcf6c04a47962006b08956af"
+    },
+    "fact_event_line": {
+      "count": 71807,
+      "sha256": "3dc46e840e39dcb15d0ef5b5af31226b84ef8f0f25f2643b01ad18866197a034"
+    },
+    "dim_product": {
+      "count": 100,
+      "sha256": "a60b67a99069da3d0314adef4db972161489aa4c36100f7ee03804287feb43ee"
+    },
+    "dim_customer": {
+      "count": 1000,
+      "sha256": "3cac8a23630139c5ca6f25ed28a5afa8c31876f5f87bb68abe4e57146413a6aa"
+    },
+    "pipeline_runs": {
+      "count": 3,
+      "sha256": "65c4b594618f6c4c913eea818262accee9e5fbb3810f2ffe499e4c5d1c39af04"
+    },
+    "pending_event": {
+      "count": 2,
+      "sha256": "f0d723693665ce6241f5af3dc94b68b44a00435fd28af99312f28672edce3a67"
+    },
+    "quality_reject": {
+      "count": 36,
+      "sha256": "8cafb755772694665d3267324a014873b6bf8d914eac53d6b2a39b67a693cf65"
+    },
+    "financial": {
+      "net_cents": "2638164945",
+      "paid_orders": 12803
+    }
+  },
+  "restored": {
+    "event_registry": {
+      "count": 31007,
+      "sha256": "c6cc401982a0b816cca353e5ddd2f50b5b09431eab99aea799a06fdceb598f90"
+    },
+    "fact_event": {
+      "count": 31007,
+      "sha256": "880a11df897532b78378e5441e737e4f4fac6cbddcf6c04a47962006b08956af"
+    },
+    "fact_event_line": {
+      "count": 71807,
+      "sha256": "3dc46e840e39dcb15d0ef5b5af31226b84ef8f0f25f2643b01ad18866197a034"
+    },
+    "dim_product": {
+      "count": 100,
+      "sha256": "a60b67a99069da3d0314adef4db972161489aa4c36100f7ee03804287feb43ee"
+    },
+    "dim_customer": {
+      "count": 1000,
+      "sha256": "3cac8a23630139c5ca6f25ed28a5afa8c31876f5f87bb68abe4e57146413a6aa"
+    },
+    "pipeline_runs": {
+      "count": 3,
+      "sha256": "65c4b594618f6c4c913eea818262accee9e5fbb3810f2ffe499e4c5d1c39af04"
+    },
+    "pending_event": {
+      "count": 2,
+      "sha256": "f0d723693665ce6241f5af3dc94b68b44a00435fd28af99312f28672edce3a67"
+    },
+    "quality_reject": {
+      "count": 36,
+      "sha256": "8cafb755772694665d3267324a014873b6bf8d914eac53d6b2a39b67a693cf65"
+    },
+    "financial": {
+      "net_cents": "2638164945",
+      "paid_orders": 12803
+    }
+  },
+  "retention_copies": 7
+}

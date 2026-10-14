@@ -1,0 +1,4 @@
+pyspark==4.0.1
+psycopg[binary]==3.2.10
+jsonschema==4.25.1
+

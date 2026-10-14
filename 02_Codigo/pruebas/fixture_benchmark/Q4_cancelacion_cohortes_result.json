@@ -1,0 +1,10 @@
+[
+  {
+    "creation_month": "2026-04-01",
+    "channel": "web",
+    "created_orders": 1,
+    "cancelled_orders": 0,
+    "cancellation_rate": "0E-20",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  }
+]

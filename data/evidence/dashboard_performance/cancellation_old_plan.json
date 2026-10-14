@@ -1,0 +1,227 @@
+[
+  {
+    "Plan": {
+      "Node Type": "Aggregate",
+      "Strategy": "Plain",
+      "Partial Mode": "Simple",
+      "Parallel Aware": false,
+      "Async Capable": false,
+      "Startup Cost": 4827.99,
+      "Total Cost": 4828.0,
+      "Plan Rows": 1,
+      "Plan Width": 16,
+      "Plans": [
+        {
+          "Node Type": "Nested Loop",
+          "Parent Relationship": "Outer",
+          "Parallel Aware": false,
+          "Async Capable": false,
+          "Join Type": "Semi",
+          "Startup Cost": 1627.24,
+          "Total Cost": 4827.98,
+          "Plan Rows": 1,
+          "Plan Width": 16,
+          "Inner Unique": false,
+          "Join Filter": "(fact_event.order_id = cl.order_id)",
+          "Plans": [
+            {
+              "Node Type": "Aggregate",
+              "Strategy": "Hashed",
+              "Partial Mode": "Simple",
+              "Parent Relationship": "Outer",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 1627.24,
+              "Total Cost": 1889.38,
+              "Plan Rows": 1,
+              "Plan Width": 179,
+              "Group Key": [
+                "fact_event.order_id"
+              ],
+              "Filter": "((min(fact_event.event_time) FILTER (WHERE (fact_event.event_type = 'created'::text)) >= '2026-04-01 00:00:00+00'::timestamp with time zone) AND (min(fact_event.event_time) FILTER (WHERE (fact_event.event_type = 'created'::text)) < '2026-10-01 00:00:00+00'::timestamp with time zone) AND (min(fact_event.channel) = 'web'::text))",
+              "Planned Partitions": 0,
+              "Plans": [
+                {
+                  "Node Type": "Append",
+                  "Parent Relationship": "Outer",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Startup Cost": 0.0,
+                  "Total Cost": 1007.1,
+                  "Plan Rows": 31007,
+                  "Plan Width": 30,
+                  "Subplans Removed": 0,
+                  "Plans": [
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202604",
+                      "Alias": "fact_event_1",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 152.51,
+                      "Plan Rows": 5551,
+                      "Plan Width": 30
+                    },
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202605",
+                      "Alias": "fact_event_2",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 158.79,
+                      "Plan Rows": 5779,
+                      "Plan Width": 30
+                    },
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202606",
+                      "Alias": "fact_event_3",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 155.78,
+                      "Plan Rows": 5678,
+                      "Plan Width": 30
+                    },
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202607",
+                      "Alias": "fact_event_4",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 155.51,
+                      "Plan Rows": 5651,
+                      "Plan Width": 30
+                    },
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202608",
+                      "Alias": "fact_event_5",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 158.81,
+                      "Plan Rows": 5781,
+                      "Plan Width": 30
+                    },
+                    {
+                      "Node Type": "Seq Scan",
+                      "Parent Relationship": "Member",
+                      "Parallel Aware": false,
+                      "Async Capable": false,
+                      "Relation Name": "fact_event_202609",
+                      "Alias": "fact_event_6",
+                      "Startup Cost": 0.0,
+                      "Total Cost": 70.67,
+                      "Plan Rows": 2567,
+                      "Plan Width": 30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Node Type": "Append",
+              "Parent Relationship": "Inner",
+              "Parallel Aware": false,
+              "Async Capable": false,
+              "Startup Cost": 0.0,
+              "Total Cost": 2907.85,
+              "Plan Rows": 7549,
+              "Plan Width": 11,
+              "Subplans Removed": 0,
+              "Plans": [
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202604",
+                  "Alias": "cl_1",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 510.88,
+                  "Plan Rows": 1342,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                },
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202605",
+                  "Alias": "cl_2",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 531.22,
+                  "Plan Rows": 1392,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                },
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202606",
+                  "Alias": "cl_3",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 531.62,
+                  "Plan Rows": 1402,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                },
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202607",
+                  "Alias": "cl_4",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 530.08,
+                  "Plan Rows": 1384,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                },
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202608",
+                  "Alias": "cl_5",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 531.15,
+                  "Plan Rows": 1398,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                },
+                {
+                  "Node Type": "Seq Scan",
+                  "Parent Relationship": "Member",
+                  "Parallel Aware": false,
+                  "Async Capable": false,
+                  "Relation Name": "fact_event_line_202609",
+                  "Alias": "cl_6",
+                  "Startup Cost": 0.0,
+                  "Total Cost": 235.16,
+                  "Plan Rows": 631,
+                  "Plan Width": 11,
+                  "Filter": "((event_type = 'created'::text) AND (category = 'ropa'::text))"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

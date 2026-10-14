@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "test_database": "lcd301_tx_61a932e1da",
+  "rollback": {
+    "registry": 0,
+    "facts": 0,
+    "lines": 0
+  },
+  "retry": {
+    "published": 3,
+    "rejected": 0,
+    "duplicate": 0,
+    "pending": 0
+  },
+  "repeat": {
+    "published": 0,
+    "rejected": 0,
+    "duplicate": 3,
+    "pending": 0
+  },
+  "financial": {
+    "net_cents": "5000",
+    "events": 3
+  },
+  "partitions": [
+    {
+      "partition": "fact_event_202604",
+      "rows": 1
+    },
+    {
+      "partition": "fact_event_202605",
+      "rows": 2
+    }
+  ],
+  "verified_at": "2026-10-09T23:46:24.451431+00:00"
+}

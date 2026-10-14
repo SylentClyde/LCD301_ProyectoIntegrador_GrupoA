@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "http_attempts": 4,
+  "retry_processor_visits": 4,
+  "maximum_retries_configured": 3,
+  "queue_at_end": 0,
+  "cause": "InvokeHTTP[id=22eb4c72-01a1-1000-623d-55fef8632855] Request Processing failed: FlowFile[filename=3b63de29-03e4-48fc-9e90-99af9a55c0da]: java.lang.IllegalArgumentException: Unexpected char 0x20 at 4 in header name: Read Timeout",
+  "request_preserved_in_quarantine": true,
+  "business_publication": false,
+  "preserved_request": {
+    "path": "data/quality/preflight/originales/3b63de29-03e4-48fc-9e90-99af9a55c0da.json",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "diagnostic": "data/quality/preflight/metadatos/3b63de29-03e4-48fc-9e90-99af9a55c0da.json"
+  }
+}

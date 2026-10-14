@@ -1,0 +1,24 @@
+{
+  "status": "static_checks_passed",
+  "docker_execution": "NOT_EXECUTED",
+  "docker_compose_config": "NOT_EXECUTED",
+  "image_pull_or_build": "NOT_EXECUTED",
+  "docker_cli_detected": false,
+  "checks": [
+    "prepare: dependencias, salud y montajes coherentes",
+    "postgres: dependencias, salud y montajes coherentes",
+    "api: dependencias, salud y montajes coherentes",
+    "nifi: dependencias, salud y montajes coherentes",
+    "dashboard: dependencias, salud y montajes coherentes",
+    "pipeline: dependencias, salud y montajes coherentes",
+    "JSON válido compatible con sintaxis YAML",
+    "Puertos de laboratorio verificados",
+    "Scripts Python con sintaxis válida",
+    "Spark 4.0.1 y Java 21 declarados",
+    "Secuencia NiFi → manifiesto cerrado → Spark, sin allow-unsealed",
+    "Credenciales de ejemplo y URL de PostgreSQL codificada"
+  ],
+  "postgres_container_image": "${POSTGRES_IMAGE:-postgres:17.11-bookworm}",
+  "local_verified_postgres_version": "17.6",
+  "compatibility_note": "El contenedor usa PostgreSQL 17.11; compatibilidad major 17 prevista, ejecución contenedorizada pendiente."
+}

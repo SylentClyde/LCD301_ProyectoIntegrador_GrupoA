@@ -1,0 +1,35 @@
+{
+  "phase": "after_delta",
+  "captures": [
+    {
+      "title": "Evolución de ingresos",
+      "file": "grafico_lineas.jpg",
+      "visibleInDOM": true
+    },
+    {
+      "title": "Ventas por categoría",
+      "file": "grafico_barras.jpg",
+      "visibleInDOM": true
+    },
+    {
+      "title": "Cuándo compran los clientes",
+      "file": "grafico_calor.jpg",
+      "visibleInDOM": true
+    },
+    {
+      "title": "Participación de canales",
+      "file": "grafico_donut.jpg",
+      "visibleInDOM": true
+    },
+    {
+      "title": "Frecuencia y valor de clientes",
+      "file": "grafico_dispersion.jpg",
+      "visibleInDOM": true
+    },
+    {
+      "title": "Distribución de tickets",
+      "file": "grafico_histograma.jpg",
+      "visibleInDOM": true
+    }
+  ]
+}

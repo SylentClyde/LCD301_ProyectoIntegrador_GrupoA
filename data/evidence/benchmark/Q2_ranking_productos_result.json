@@ -1,0 +1,1002 @@
+[
+  {
+    "category": "hogar",
+    "product_id": "PRD008",
+    "product_name": "Producto sintético 008",
+    "sold_units": 938,
+    "refunded_units": 52,
+    "gross_bob": "618596.900000000000",
+    "refund_bob": "34006.000000000000",
+    "net_bob": "584590.900000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD055",
+    "product_name": "Producto sintético 055",
+    "sold_units": 907,
+    "refunded_units": 48,
+    "gross_bob": "260095.200000000000",
+    "refund_bob": "13589.550000000000",
+    "net_bob": "246505.650000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD079",
+    "product_name": "Producto sintético 079",
+    "sold_units": 893,
+    "refunded_units": 73,
+    "gross_bob": "215934.000000000000",
+    "refund_bob": "17748.000000000000",
+    "net_bob": "198186.000000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD064",
+    "product_name": "Producto sintético 064",
+    "sold_units": 883,
+    "refunded_units": 47,
+    "gross_bob": "81159.900000000000",
+    "refund_bob": "4268.0000000000000000",
+    "net_bob": "76891.900000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD046",
+    "product_name": "Producto sintético 046",
+    "sold_units": 882,
+    "refunded_units": 48,
+    "gross_bob": "40324.800000000000",
+    "refund_bob": "2212.8000000000000000",
+    "net_bob": "38112.000000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD051",
+    "product_name": "Producto sintético 051",
+    "sold_units": 878,
+    "refunded_units": 55,
+    "gross_bob": "82714.500000000000",
+    "refund_bob": "5192.5500000000000000",
+    "net_bob": "77521.950000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD083",
+    "product_name": "Producto sintético 083",
+    "sold_units": 877,
+    "refunded_units": 66,
+    "gross_bob": "105905.300000000000",
+    "refund_bob": "7931.1500000000000000",
+    "net_bob": "97974.150000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD032",
+    "product_name": "Producto sintético 032",
+    "sold_units": 875,
+    "refunded_units": 61,
+    "gross_bob": "21516.300000000000",
+    "refund_bob": "1485.9000000000000000",
+    "net_bob": "20030.400000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD002",
+    "product_name": "Producto sintético 002",
+    "sold_units": 872,
+    "refunded_units": 49,
+    "gross_bob": "24932.500000000000",
+    "refund_bob": "1411.5000000000000000",
+    "net_bob": "23521.000000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD035",
+    "product_name": "Producto sintético 035",
+    "sold_units": 872,
+    "refunded_units": 56,
+    "gross_bob": "391403.950000000000",
+    "refund_bob": "24880.450000000000",
+    "net_bob": "366523.500000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD092",
+    "product_name": "Producto sintético 092",
+    "sold_units": 867,
+    "refunded_units": 65,
+    "gross_bob": "603038.800000000000",
+    "refund_bob": "45682.000000000000",
+    "net_bob": "557356.800000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD042",
+    "product_name": "Producto sintético 042",
+    "sold_units": 865,
+    "refunded_units": 38,
+    "gross_bob": "522600.800000000000",
+    "refund_bob": "22815.200000000000",
+    "net_bob": "499785.600000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD036",
+    "product_name": "Producto sintético 036",
+    "sold_units": 859,
+    "refunded_units": 35,
+    "gross_bob": "245325.000000000000",
+    "refund_bob": "9975.0000000000000000",
+    "net_bob": "235350.000000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD088",
+    "product_name": "Producto sintético 088",
+    "sold_units": 854,
+    "refunded_units": 57,
+    "gross_bob": "242460.000000000000",
+    "refund_bob": "16080.000000000000",
+    "net_bob": "226380.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD067",
+    "product_name": "Producto sintético 067",
+    "sold_units": 843,
+    "refunded_units": 57,
+    "gross_bob": "479482.000000000000",
+    "refund_bob": "32601.200000000000",
+    "net_bob": "446880.800000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD041",
+    "product_name": "Producto sintético 041",
+    "sold_units": 841,
+    "refunded_units": 53,
+    "gross_bob": "491908.000000000000",
+    "refund_bob": "30783.000000000000",
+    "net_bob": "461125.000000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD033",
+    "product_name": "Producto sintético 033",
+    "sold_units": 839,
+    "refunded_units": 63,
+    "gross_bob": "21393.450000000000",
+    "refund_bob": "1583.5500000000000000",
+    "net_bob": "19809.900000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD019",
+    "product_name": "Producto sintético 019",
+    "sold_units": 838,
+    "refunded_units": 57,
+    "gross_bob": "521066.700000000000",
+    "refund_bob": "36200.700000000000",
+    "net_bob": "484866.000000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD081",
+    "product_name": "Producto sintético 081",
+    "sold_units": 838,
+    "refunded_units": 48,
+    "gross_bob": "384731.600000000000",
+    "refund_bob": "22409.200000000000",
+    "net_bob": "362322.400000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD034",
+    "product_name": "Producto sintético 034",
+    "sold_units": 835,
+    "refunded_units": 37,
+    "gross_bob": "65198.200000000000",
+    "refund_bob": "2898.7000000000000000",
+    "net_bob": "62299.500000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD050",
+    "product_name": "Producto sintético 050",
+    "sold_units": 834,
+    "refunded_units": 45,
+    "gross_bob": "322140.500000000000",
+    "refund_bob": "17521.350000000000",
+    "net_bob": "304619.150000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD075",
+    "product_name": "Producto sintético 075",
+    "sold_units": 834,
+    "refunded_units": 41,
+    "gross_bob": "476934.500000000000",
+    "refund_bob": "23869.300000000000",
+    "net_bob": "453065.200000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD017",
+    "product_name": "Producto sintético 017",
+    "sold_units": 830,
+    "refunded_units": 56,
+    "gross_bob": "452073.600000000000",
+    "refund_bob": "30729.600000000000",
+    "net_bob": "421344.000000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD031",
+    "product_name": "Producto sintético 031",
+    "sold_units": 830,
+    "refunded_units": 55,
+    "gross_bob": "377882.900000000000",
+    "refund_bob": "25047.200000000000",
+    "net_bob": "352835.700000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD003",
+    "product_name": "Producto sintético 003",
+    "sold_units": 827,
+    "refunded_units": 57,
+    "gross_bob": "404635.500000000000",
+    "refund_bob": "27192.000000000000",
+    "net_bob": "377443.500000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD044",
+    "product_name": "Producto sintético 044",
+    "sold_units": 827,
+    "refunded_units": 39,
+    "gross_bob": "509726.000000000000",
+    "refund_bob": "23795.800000000000",
+    "net_bob": "485930.200000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD049",
+    "product_name": "Producto sintético 049",
+    "sold_units": 826,
+    "refunded_units": 44,
+    "gross_bob": "140904.800000000000",
+    "refund_bob": "7600.6000000000000000",
+    "net_bob": "133304.200000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD070",
+    "product_name": "Producto sintético 070",
+    "sold_units": 825,
+    "refunded_units": 47,
+    "gross_bob": "431337.500000000000",
+    "refund_bob": "24777.500000000000",
+    "net_bob": "406560.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD097",
+    "product_name": "Producto sintético 097",
+    "sold_units": 823,
+    "refunded_units": 52,
+    "gross_bob": "450489.600000000000",
+    "refund_bob": "28310.400000000000",
+    "net_bob": "422179.200000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD001",
+    "product_name": "Producto sintético 001",
+    "sold_units": 820,
+    "refunded_units": 38,
+    "gross_bob": "38855.000000000000",
+    "refund_bob": "1835.0000000000000000",
+    "net_bob": "37020.000000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD093",
+    "product_name": "Producto sintético 093",
+    "sold_units": 820,
+    "refunded_units": 47,
+    "gross_bob": "234093.900000000000",
+    "refund_bob": "13618.600000000000",
+    "net_bob": "220475.300000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD023",
+    "product_name": "Producto sintético 023",
+    "sold_units": 819,
+    "refunded_units": 57,
+    "gross_bob": "537183.400000000000",
+    "refund_bob": "37072.150000000000",
+    "net_bob": "500111.250000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD005",
+    "product_name": "Producto sintético 005",
+    "sold_units": 818,
+    "refunded_units": 64,
+    "gross_bob": "371832.000000000000",
+    "refund_bob": "28824.000000000000",
+    "net_bob": "343008.000000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD060",
+    "product_name": "Producto sintético 060",
+    "sold_units": 817,
+    "refunded_units": 52,
+    "gross_bob": "572839.500000000000",
+    "refund_bob": "35917.000000000000",
+    "net_bob": "536922.500000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD016",
+    "product_name": "Producto sintético 016",
+    "sold_units": 814,
+    "refunded_units": 36,
+    "gross_bob": "363153.800000000000",
+    "refund_bob": "15983.800000000000",
+    "net_bob": "347170.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD047",
+    "product_name": "Producto sintético 047",
+    "sold_units": 814,
+    "refunded_units": 69,
+    "gross_bob": "64092.600000000000",
+    "refund_bob": "5440.6500000000000000",
+    "net_bob": "58651.950000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD069",
+    "product_name": "Producto sintético 069",
+    "sold_units": 814,
+    "refunded_units": 60,
+    "gross_bob": "229311.200000000000",
+    "refund_bob": "16946.000000000000",
+    "net_bob": "212365.200000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD007",
+    "product_name": "Producto sintético 007",
+    "sold_units": 813,
+    "refunded_units": 47,
+    "gross_bob": "194525.000000000000",
+    "refund_bob": "11282.450000000000",
+    "net_bob": "183242.550000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD028",
+    "product_name": "Producto sintético 028",
+    "sold_units": 813,
+    "refunded_units": 49,
+    "gross_bob": "380143.800000000000",
+    "refund_bob": "22828.800000000000",
+    "net_bob": "357315.000000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD045",
+    "product_name": "Producto sintético 045",
+    "sold_units": 813,
+    "refunded_units": 47,
+    "gross_bob": "258816.600000000000",
+    "refund_bob": "15146.900000000000",
+    "net_bob": "243669.700000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD071",
+    "product_name": "Producto sintético 071",
+    "sold_units": 812,
+    "refunded_units": 47,
+    "gross_bob": "340861.550000000000",
+    "refund_bob": "20237.900000000000",
+    "net_bob": "320623.650000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD022",
+    "product_name": "Producto sintético 022",
+    "sold_units": 809,
+    "refunded_units": 49,
+    "gross_bob": "503830.600000000000",
+    "refund_bob": "31255.000000000000",
+    "net_bob": "472575.600000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD073",
+    "product_name": "Producto sintético 073",
+    "sold_units": 803,
+    "refunded_units": 34,
+    "gross_bob": "518311.200000000000",
+    "refund_bob": "22713.350000000000",
+    "net_bob": "495597.850000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD018",
+    "product_name": "Producto sintético 018",
+    "sold_units": 801,
+    "refunded_units": 40,
+    "gross_bob": "561078.100000000000",
+    "refund_bob": "28116.550000000000",
+    "net_bob": "532961.550000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD061",
+    "product_name": "Producto sintético 061",
+    "sold_units": 801,
+    "refunded_units": 39,
+    "gross_bob": "91236.000000000000",
+    "refund_bob": "4482.0000000000000000",
+    "net_bob": "86754.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD012",
+    "product_name": "Producto sintético 012",
+    "sold_units": 799,
+    "refunded_units": 36,
+    "gross_bob": "196943.600000000000",
+    "refund_bob": "8987.3000000000000000",
+    "net_bob": "187956.300000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD062",
+    "product_name": "Producto sintético 062",
+    "sold_units": 798,
+    "refunded_units": 58,
+    "gross_bob": "228045.000000000000",
+    "refund_bob": "16755.000000000000",
+    "net_bob": "211290.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD037",
+    "product_name": "Producto sintético 037",
+    "sold_units": 796,
+    "refunded_units": 46,
+    "gross_bob": "158286.150000000000",
+    "refund_bob": "9049.7000000000000000",
+    "net_bob": "149236.450000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD065",
+    "product_name": "Producto sintético 065",
+    "sold_units": 796,
+    "refunded_units": 47,
+    "gross_bob": "446486.400000000000",
+    "refund_bob": "26225.600000000000",
+    "net_bob": "420260.800000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD082",
+    "product_name": "Producto sintético 082",
+    "sold_units": 795,
+    "refunded_units": 61,
+    "gross_bob": "91434.000000000000",
+    "refund_bob": "7068.0000000000000000",
+    "net_bob": "84366.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD027",
+    "product_name": "Producto sintético 027",
+    "sold_units": 794,
+    "refunded_units": 43,
+    "gross_bob": "253087.000000000000",
+    "refund_bob": "13496.850000000000",
+    "net_bob": "239590.150000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD056",
+    "product_name": "Producto sintético 056",
+    "sold_units": 793,
+    "refunded_units": 43,
+    "gross_bob": "302411.200000000000",
+    "refund_bob": "16120.000000000000",
+    "net_bob": "286291.200000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD014",
+    "product_name": "Producto sintético 014",
+    "sold_units": 791,
+    "refunded_units": 41,
+    "gross_bob": "107272.800000000000",
+    "refund_bob": "5580.0000000000000000",
+    "net_bob": "101692.800000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD053",
+    "product_name": "Producto sintético 053",
+    "sold_units": 791,
+    "refunded_units": 68,
+    "gross_bob": "353976.400000000000",
+    "refund_bob": "31175.600000000000",
+    "net_bob": "322800.800000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD038",
+    "product_name": "Producto sintético 038",
+    "sold_units": 788,
+    "refunded_units": 46,
+    "gross_bob": "269676.000000000000",
+    "refund_bob": "15768.000000000000",
+    "net_bob": "253908.000000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD029",
+    "product_name": "Producto sintético 029",
+    "sold_units": 787,
+    "refunded_units": 51,
+    "gross_bob": "175289.400000000000",
+    "refund_bob": "11302.200000000000",
+    "net_bob": "163987.200000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD089",
+    "product_name": "Producto sintético 089",
+    "sold_units": 787,
+    "refunded_units": 39,
+    "gross_bob": "209949.150000000000",
+    "refund_bob": "10453.200000000000",
+    "net_bob": "199495.950000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD078",
+    "product_name": "Producto sintético 078",
+    "sold_units": 786,
+    "refunded_units": 28,
+    "gross_bob": "297564.700000000000",
+    "refund_bob": "10586.800000000000",
+    "net_bob": "286977.900000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD095",
+    "product_name": "Producto sintético 095",
+    "sold_units": 786,
+    "refunded_units": 49,
+    "gross_bob": "462582.000000000000",
+    "refund_bob": "28613.000000000000",
+    "net_bob": "433969.000000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD024",
+    "product_name": "Producto sintético 024",
+    "sold_units": 785,
+    "refunded_units": 31,
+    "gross_bob": "140946.750000000000",
+    "refund_bob": "5584.9500000000000000",
+    "net_bob": "135361.800000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD039",
+    "product_name": "Producto sintético 039",
+    "sold_units": 785,
+    "refunded_units": 55,
+    "gross_bob": "131454.400000000000",
+    "refund_bob": "9310.4000000000000000",
+    "net_bob": "122144.000000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD043",
+    "product_name": "Producto sintético 043",
+    "sold_units": 785,
+    "refunded_units": 53,
+    "gross_bob": "25224.600000000000",
+    "refund_bob": "1705.1000000000000000",
+    "net_bob": "23519.500000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD021",
+    "product_name": "Producto sintético 021",
+    "sold_units": 784,
+    "refunded_units": 49,
+    "gross_bob": "33714.000000000000",
+    "refund_bob": "2097.0000000000000000",
+    "net_bob": "31617.000000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD099",
+    "product_name": "Producto sintético 099",
+    "sold_units": 784,
+    "refunded_units": 18,
+    "gross_bob": "314394.750000000000",
+    "refund_bob": "7254.4500000000000000",
+    "net_bob": "307140.300000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD096",
+    "product_name": "Producto sintético 096",
+    "sold_units": 776,
+    "refunded_units": 33,
+    "gross_bob": "315808.350000000000",
+    "refund_bob": "13449.150000000000",
+    "net_bob": "302359.200000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD030",
+    "product_name": "Producto sintético 030",
+    "sold_units": 774,
+    "refunded_units": 30,
+    "gross_bob": "469904.400000000000",
+    "refund_bob": "17553.900000000000",
+    "net_bob": "452350.500000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD054",
+    "product_name": "Producto sintético 054",
+    "sold_units": 774,
+    "refunded_units": 58,
+    "gross_bob": "554035.300000000000",
+    "refund_bob": "41457.150000000000",
+    "net_bob": "512578.150000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD048",
+    "product_name": "Producto sintético 048",
+    "sold_units": 772,
+    "refunded_units": 51,
+    "gross_bob": "274240.800000000000",
+    "refund_bob": "18228.600000000000",
+    "net_bob": "256012.200000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD098",
+    "product_name": "Producto sintético 098",
+    "sold_units": 772,
+    "refunded_units": 35,
+    "gross_bob": "255650.850000000000",
+    "refund_bob": "11618.100000000000",
+    "net_bob": "244032.750000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD015",
+    "product_name": "Producto sintético 015",
+    "sold_units": 771,
+    "refunded_units": 47,
+    "gross_bob": "78067.200000000000",
+    "refund_bob": "4782.9000000000000000",
+    "net_bob": "73284.300000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD025",
+    "product_name": "Producto sintético 025",
+    "sold_units": 769,
+    "refunded_units": 49,
+    "gross_bob": "223382.000000000000",
+    "refund_bob": "14365.500000000000",
+    "net_bob": "209016.500000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD085",
+    "product_name": "Producto sintético 085",
+    "sold_units": 769,
+    "refunded_units": 34,
+    "gross_bob": "171135.900000000000",
+    "refund_bob": "7651.8000000000000000",
+    "net_bob": "163484.100000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD026",
+    "product_name": "Producto sintético 026",
+    "sold_units": 767,
+    "refunded_units": 34,
+    "gross_bob": "422177.850000000000",
+    "refund_bob": "19222.800000000000",
+    "net_bob": "402955.050000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD094",
+    "product_name": "Producto sintético 094",
+    "sold_units": 766,
+    "refunded_units": 41,
+    "gross_bob": "29854.150000000000",
+    "refund_bob": "1631.8000000000000000",
+    "net_bob": "28222.350000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD040",
+    "product_name": "Producto sintético 040",
+    "sold_units": 764,
+    "refunded_units": 59,
+    "gross_bob": "425553.200000000000",
+    "refund_bob": "33695.000000000000",
+    "net_bob": "391858.200000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD052",
+    "product_name": "Producto sintético 052",
+    "sold_units": 764,
+    "refunded_units": 56,
+    "gross_bob": "32737.500000000000",
+    "refund_bob": "2380.5000000000000000",
+    "net_bob": "30357.000000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD063",
+    "product_name": "Producto sintético 063",
+    "sold_units": 759,
+    "refunded_units": 40,
+    "gross_bob": "324855.000000000000",
+    "refund_bob": "16875.000000000000",
+    "net_bob": "307980.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD072",
+    "product_name": "Producto sintético 072",
+    "sold_units": 759,
+    "refunded_units": 52,
+    "gross_bob": "235832.400000000000",
+    "refund_bob": "16235.550000000000",
+    "net_bob": "219596.850000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD068",
+    "product_name": "Producto sintético 068",
+    "sold_units": 753,
+    "refunded_units": 50,
+    "gross_bob": "157669.050000000000",
+    "refund_bob": "10533.900000000000",
+    "net_bob": "147135.150000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD006",
+    "product_name": "Producto sintético 006",
+    "sold_units": 752,
+    "refunded_units": 36,
+    "gross_bob": "484122.700000000000",
+    "refund_bob": "22679.500000000000",
+    "net_bob": "461443.200000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD011",
+    "product_name": "Producto sintético 011",
+    "sold_units": 750,
+    "refunded_units": 46,
+    "gross_bob": "93579.850000000000",
+    "refund_bob": "5777.1000000000000000",
+    "net_bob": "87802.750000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD013",
+    "product_name": "Producto sintético 013",
+    "sold_units": 750,
+    "refunded_units": 37,
+    "gross_bob": "385747.200000000000",
+    "refund_bob": "19249.350000000000",
+    "net_bob": "366497.850000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD010",
+    "product_name": "Producto sintético 010",
+    "sold_units": 747,
+    "refunded_units": 31,
+    "gross_bob": "191430.000000000000",
+    "refund_bob": "8046.0000000000000000",
+    "net_bob": "183384.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD087",
+    "product_name": "Producto sintético 087",
+    "sold_units": 744,
+    "refunded_units": 51,
+    "gross_bob": "220757.700000000000",
+    "refund_bob": "14710.900000000000",
+    "net_bob": "206046.800000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD074",
+    "product_name": "Producto sintético 074",
+    "sold_units": 743,
+    "refunded_units": 39,
+    "gross_bob": "111492.700000000000",
+    "refund_bob": "5885.5000000000000000",
+    "net_bob": "105607.200000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD080",
+    "product_name": "Producto sintético 080",
+    "sold_units": 739,
+    "refunded_units": 43,
+    "gross_bob": "55655.500000000000",
+    "refund_bob": "3152.1000000000000000",
+    "net_bob": "52503.400000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD066",
+    "product_name": "Producto sintético 066",
+    "sold_units": 736,
+    "refunded_units": 66,
+    "gross_bob": "226151.250000000000",
+    "refund_bob": "20133.750000000000",
+    "net_bob": "206017.500000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD100",
+    "product_name": "Producto sintético 100",
+    "sold_units": 735,
+    "refunded_units": 57,
+    "gross_bob": "511965.000000000000",
+    "refund_bob": "39709.400000000000",
+    "net_bob": "472255.600000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD090",
+    "product_name": "Producto sintético 090",
+    "sold_units": 731,
+    "refunded_units": 44,
+    "gross_bob": "519200.400000000000",
+    "refund_bob": "30950.400000000000",
+    "net_bob": "488250.000000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD057",
+    "product_name": "Producto sintético 057",
+    "sold_units": 726,
+    "refunded_units": 35,
+    "gross_bob": "81277.000000000000",
+    "refund_bob": "3986.5000000000000000",
+    "net_bob": "77290.500000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD084",
+    "product_name": "Producto sintético 084",
+    "sold_units": 723,
+    "refunded_units": 39,
+    "gross_bob": "428312.500000000000",
+    "refund_bob": "23206.750000000000",
+    "net_bob": "405105.750000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD076",
+    "product_name": "Producto sintético 076",
+    "sold_units": 713,
+    "refunded_units": 66,
+    "gross_bob": "114100.350000000000",
+    "refund_bob": "10452.650000000000",
+    "net_bob": "103647.700000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD004",
+    "product_name": "Producto sintético 004",
+    "sold_units": 707,
+    "refunded_units": 30,
+    "gross_bob": "377936.400000000000",
+    "refund_bob": "15989.400000000000",
+    "net_bob": "361947.000000000000"
+  },
+  {
+    "category": "deportes",
+    "product_id": "PRD020",
+    "product_name": "Producto sintético 020",
+    "sold_units": 700,
+    "refunded_units": 41,
+    "gross_bob": "218076.300000000000",
+    "refund_bob": "12671.250000000000",
+    "net_bob": "205405.050000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD086",
+    "product_name": "Producto sintético 086",
+    "sold_units": 698,
+    "refunded_units": 36,
+    "gross_bob": "33958.350000000000",
+    "refund_bob": "1718.7000000000000000",
+    "net_bob": "32239.650000000000"
+  },
+  {
+    "category": "electronica",
+    "product_id": "PRD091",
+    "product_name": "Producto sintético 091",
+    "sold_units": 694,
+    "refunded_units": 60,
+    "gross_bob": "423958.500000000000",
+    "refund_bob": "37055.250000000000",
+    "net_bob": "386903.250000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD059",
+    "product_name": "Producto sintético 059",
+    "sold_units": 692,
+    "refunded_units": 54,
+    "gross_bob": "8585.2000000000000000",
+    "refund_bob": "674.0500000000000000",
+    "net_bob": "7911.1500000000000000"
+  },
+  {
+    "category": "belleza",
+    "product_id": "PRD009",
+    "product_name": "Producto sintético 009",
+    "sold_units": 687,
+    "refunded_units": 42,
+    "gross_bob": "419286.300000000000",
+    "refund_bob": "25678.500000000000",
+    "net_bob": "393607.800000000000"
+  },
+  {
+    "category": "hogar",
+    "product_id": "PRD058",
+    "product_name": "Producto sintético 058",
+    "sold_units": 678,
+    "refunded_units": 30,
+    "gross_bob": "454043.600000000000",
+    "refund_bob": "19887.450000000000",
+    "net_bob": "434156.150000000000"
+  },
+  {
+    "category": "ropa",
+    "product_id": "PRD077",
+    "product_name": "Producto sintético 077",
+    "sold_units": 675,
+    "refunded_units": 44,
+    "gross_bob": "266512.500000000000",
+    "refund_bob": "17491.500000000000",
+    "net_bob": "249021.000000000000"
+  }
+]

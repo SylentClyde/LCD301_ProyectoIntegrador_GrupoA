@@ -1,0 +1,46 @@
+{
+  "verified_at_utc": "2026-10-09T23:41:22.634104+00:00",
+  "suite": "test_dashboard.DashboardTests",
+  "command": "unittest.defaultTestLoader.discover(test_dashboard.py)",
+  "runtime_dependencies": "tmp/lcd301_runtime/python",
+  "sandbox_execution": "extended_permissions_for_runtime_access",
+  "tests_run": 8,
+  "duration_seconds": 1.183,
+  "exit_code": 0,
+  "status": "passed",
+  "tests": [
+    {
+      "name": "test_dashboard.DashboardTests.test_db_outage_is_visible_without_fake_metrics",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_default_period_follows_new_published_boundaries",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_drilldown_and_filter_reset",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_filters_are_parameterized",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_layout_and_callback_graph_can_load_without_db",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_manual_period_is_preserved_when_extent_changes",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_partial_refund_and_order_grain",
+      "status": "passed"
+    },
+    {
+      "name": "test_dashboard.DashboardTests.test_refresh_does_not_clear_a_users_drilldown",
+      "status": "passed"
+    }
+  ],
+  "scope": "Unit fixtures, database-outage mocks and automatic/manual period boundaries. Actual PostgreSQL and NiFi integration verified separately."
+}

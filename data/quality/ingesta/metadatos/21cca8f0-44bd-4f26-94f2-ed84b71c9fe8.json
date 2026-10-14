@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "[/items/0: required property 'product_id' not found]",
+  "quality.original_filename" : "71a47bc0-fd69-4174-a845-25455e7462aa",
+  "quality.reason" : "[/items/0: required property 'product_id' not found]",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:26:35.140Z",
+  "source" : "rest_api",
+  "quality.csv_reason" : ""
+}

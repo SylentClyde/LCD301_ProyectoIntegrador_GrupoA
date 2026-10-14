@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "[/original_payment_id: null found, string expected, /items/1/refund_cents: null found, integer expected, /items/2/refund_cents: null found, integer expected]",
+  "quality.original_filename" : "71a47bc0-fd69-4174-a845-25455e7462aa",
+  "quality.reason" : "[/original_payment_id: null found, string expected, /items/1/refund_cents: null found, integer expected, /items/2/refund_cents: null found, integer expected]",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:27:26.804Z",
+  "source" : "rest_api",
+  "quality.csv_reason" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "verified_at_utc": "2026-10-09T23:59:54.341024+00:00",
+  "checks": [
+    "Salud HTTP 200 y conteo persistido positivo",
+    "Seis tipos de gráfico y reconciliación de ingreso neto contra fact_event",
+    "Filtros de canal y categoría aplicados a consultas y visualizaciones",
+    "Recorrido categoría → producto → pedido → eventos y limpieza de selección",
+    "Publicación en registros/s, latencia y ejecuciones leídas de tablas reales"
+  ],
+  "persisted_events": 31007,
+  "net_bob": 26381649.45,
+  "cutoff_utc": "2026-09-30T12:00:00+00:00",
+  "drilldown": {
+    "category": "ropa",
+    "product_id": "PRD032",
+    "order_id": "ORD-012466",
+    "event_count": 3
+  },
+  "operational": {
+    "recent_runs": 3,
+    "publication_chart_traces": 1,
+    "latency_chart_traces": 1,
+    "nifi_queue_traces": 1
+  },
+  "nifi_queue_available": true,
+  "status": "passed"
+}

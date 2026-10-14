@@ -1,0 +1,6 @@
+.env
+docker_evidence
+__pycache__
+*.pyc
+static_validation.json
+

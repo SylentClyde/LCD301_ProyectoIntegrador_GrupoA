@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "api_base_url": "http://127.0.0.1:18080",
+  "initial_records": 31065,
+  "delta_records": 7,
+  "deterministic_replay": true,
+  "invalid_query_status": 422,
+  "initial_batch_id": "api-initial-6c8c8853a7e2-000000-031065",
+  "delta_batch_id": "api-delta-81c0aa5c561e-000000-000007",
+  "postgresql_kpis": "not_requested",
+  "http_checks": [
+    {
+      "path": "/health",
+      "status": 200
+    },
+    {
+      "path": "/events?cursor=0&limit=1000",
+      "status": 200
+    },
+    {
+      "path": "/events?cursor=0&limit=1000",
+      "status": 200
+    },
+    {
+      "path": "/events?cursor=0&limit=50000",
+      "status": 200
+    },
+    {
+      "path": "/events/delta?cursor=0&limit=50000",
+      "status": 200
+    },
+    {
+      "path": "/schema/event.v1",
+      "status": 200
+    },
+    {
+      "path": "/events?cursor=-1",
+      "status": 422
+    },
+    {
+      "path": "/events?limit=50001",
+      "status": 422
+    },
+    {
+      "path": "/events?dataset=unknown",
+      "status": 422
+    }
+  ]
+}

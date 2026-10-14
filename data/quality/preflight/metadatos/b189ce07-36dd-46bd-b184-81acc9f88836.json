@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "",
+  "quality.original_filename" : "catalogo_productos_invalido.csv",
+  "quality.reason" : "Revisar quality.csv_reason y Provenance para el detalle tecnico",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:20:46.843Z",
+  "source" : "catalog_csv",
+  "quality.csv_reason" : "Fila 2: precio inválido"
+}

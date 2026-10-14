@@ -1,0 +1,37 @@
+{
+  "generator": "generar_datos.py",
+  "seed": 301,
+  "synthetic_only": true,
+  "files": [
+    {
+      "name": "catalogo_productos.csv",
+      "bytes": 5350,
+      "sha256": "d84bbaec9142faeac5766b6af12e61a1f194a938259c8370affbb85beea77f46"
+    },
+    {
+      "name": "catalogo_productos_invalido.csv",
+      "bytes": 120,
+      "sha256": "535e99dbc22f15caa2cb2aa098de64052a6625c62ba04346c236fe493726ae45"
+    },
+    {
+      "name": "control_events.json",
+      "bytes": 6117,
+      "sha256": "7203d87e48715004af9aea09cbdcf0862ff3de70e3f61ebfec861133e015a9c8"
+    },
+    {
+      "name": "events_delta.json",
+      "bytes": 3792,
+      "sha256": "81c0aa5c561ebec87999de9d9638bb4cd62bb48aaa50384656a6b0072562e63b"
+    },
+    {
+      "name": "events_initial.json",
+      "bytes": 26111248,
+      "sha256": "6c8c8853a7e2e9feb8859e91da8c547c5e8f6f2f0c7809e4220bddb5d680ffec"
+    },
+    {
+      "name": "expected.json",
+      "bytes": 9714,
+      "sha256": "72b5284b54ec22096e1b196af65a09dadead1df556e0ddec9b65d6458c6474e4"
+    }
+  ]
+}

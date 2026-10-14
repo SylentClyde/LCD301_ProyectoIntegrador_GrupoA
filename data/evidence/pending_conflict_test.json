@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "test_database": "lcd301_pending_9b5e302a77",
+  "first": {
+    "published": 0,
+    "rejected": 0,
+    "duplicate": 0,
+    "pending": 1
+  },
+  "conflict": {
+    "published": 0,
+    "rejected": 1,
+    "duplicate": 0,
+    "pending": 1
+  },
+  "resolved": {
+    "published": 2,
+    "rejected": 0,
+    "duplicate": 0,
+    "pending": 0
+  },
+  "first_version_preserved": true,
+  "first_ingestion_timestamp_preserved": true,
+  "financial": {
+    "events": 2,
+    "net_cents": "10000"
+  },
+  "verified_at": "2026-10-09T23:46:23.669952+00:00"
+}

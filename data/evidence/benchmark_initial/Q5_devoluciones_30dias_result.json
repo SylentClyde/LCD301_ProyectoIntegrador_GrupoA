@@ -1,0 +1,902 @@
+[
+  {
+    "product_id": "PRD076",
+    "product_name": "Producto sintético 076",
+    "category": "electronica",
+    "mature_paid_units": 680,
+    "returned_30d_units": "65",
+    "return_rate_30d": "0.09558823529411764706",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD091",
+    "product_name": "Producto sintético 091",
+    "category": "electronica",
+    "mature_paid_units": 620,
+    "returned_30d_units": "59",
+    "return_rate_30d": "0.09516129032258064516",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD053",
+    "product_name": "Producto sintético 053",
+    "category": "hogar",
+    "mature_paid_units": 727,
+    "returned_30d_units": "64",
+    "return_rate_30d": "0.08803301237964236589",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD066",
+    "product_name": "Producto sintético 066",
+    "category": "electronica",
+    "mature_paid_units": 662,
+    "returned_30d_units": "57",
+    "return_rate_30d": "0.08610271903323262840",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD047",
+    "product_name": "Producto sintético 047",
+    "category": "ropa",
+    "mature_paid_units": 756,
+    "returned_30d_units": "63",
+    "return_rate_30d": "0.08333333333333333333",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD082",
+    "product_name": "Producto sintético 082",
+    "category": "ropa",
+    "mature_paid_units": 741,
+    "returned_30d_units": "61",
+    "return_rate_30d": "0.08232118758434547908",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD079",
+    "product_name": "Producto sintético 079",
+    "category": "belleza",
+    "mature_paid_units": 815,
+    "returned_30d_units": "67",
+    "return_rate_30d": "0.08220858895705521472",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD059",
+    "product_name": "Producto sintético 059",
+    "category": "belleza",
+    "mature_paid_units": 632,
+    "returned_30d_units": "50",
+    "return_rate_30d": "0.07911392405063291139",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD100",
+    "product_name": "Producto sintético 100",
+    "category": "deportes",
+    "mature_paid_units": 679,
+    "returned_30d_units": "53",
+    "return_rate_30d": "0.07805596465390279823",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD005",
+    "product_name": "Producto sintético 005",
+    "category": "deportes",
+    "mature_paid_units": 748,
+    "returned_30d_units": "58",
+    "return_rate_30d": "0.07754010695187165775",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD083",
+    "product_name": "Producto sintético 083",
+    "category": "hogar",
+    "mature_paid_units": 787,
+    "returned_30d_units": "61",
+    "return_rate_30d": "0.07750952986022871665",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD062",
+    "product_name": "Producto sintético 062",
+    "category": "ropa",
+    "mature_paid_units": 720,
+    "returned_30d_units": "55",
+    "return_rate_30d": "0.07638888888888888889",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD033",
+    "product_name": "Producto sintético 033",
+    "category": "hogar",
+    "mature_paid_units": 792,
+    "returned_30d_units": "60",
+    "return_rate_30d": "0.07575757575757575758",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD039",
+    "product_name": "Producto sintético 039",
+    "category": "belleza",
+    "mature_paid_units": 732,
+    "returned_30d_units": "55",
+    "return_rate_30d": "0.07513661202185792350",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD054",
+    "product_name": "Producto sintético 054",
+    "category": "belleza",
+    "mature_paid_units": 708,
+    "returned_30d_units": "53",
+    "return_rate_30d": "0.07485875706214689266",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD092",
+    "product_name": "Producto sintético 092",
+    "category": "ropa",
+    "mature_paid_units": 776,
+    "returned_30d_units": "58",
+    "return_rate_30d": "0.07474226804123711340",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD072",
+    "product_name": "Producto sintético 072",
+    "category": "ropa",
+    "mature_paid_units": 682,
+    "returned_30d_units": "50",
+    "return_rate_30d": "0.07331378299120234604",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD052",
+    "product_name": "Producto sintético 052",
+    "category": "ropa",
+    "mature_paid_units": 725,
+    "returned_30d_units": "53",
+    "return_rate_30d": "0.07310344827586206897",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD023",
+    "product_name": "Producto sintético 023",
+    "category": "hogar",
+    "mature_paid_units": 741,
+    "returned_30d_units": "54",
+    "return_rate_30d": "0.07287449392712550607",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD048",
+    "product_name": "Producto sintético 048",
+    "category": "hogar",
+    "mature_paid_units": 700,
+    "returned_30d_units": "51",
+    "return_rate_30d": "0.07285714285714285714",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD032",
+    "product_name": "Producto sintético 032",
+    "category": "ropa",
+    "mature_paid_units": 804,
+    "returned_30d_units": "58",
+    "return_rate_30d": "0.07213930348258706468",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD017",
+    "product_name": "Producto sintético 017",
+    "category": "ropa",
+    "mature_paid_units": 770,
+    "returned_30d_units": "55",
+    "return_rate_30d": "0.07142857142857142857",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD019",
+    "product_name": "Producto sintético 019",
+    "category": "belleza",
+    "mature_paid_units": 794,
+    "returned_30d_units": "56",
+    "return_rate_30d": "0.07052896725440806045",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD040",
+    "product_name": "Producto sintético 040",
+    "category": "deportes",
+    "mature_paid_units": 692,
+    "returned_30d_units": "48",
+    "return_rate_30d": "0.06936416184971098266",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD069",
+    "product_name": "Producto sintético 069",
+    "category": "belleza",
+    "mature_paid_units": 750,
+    "returned_30d_units": "52",
+    "return_rate_30d": "0.06933333333333333333",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD088",
+    "product_name": "Producto sintético 088",
+    "category": "hogar",
+    "mature_paid_units": 785,
+    "returned_30d_units": "54",
+    "return_rate_30d": "0.06878980891719745223",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD003",
+    "product_name": "Producto sintético 003",
+    "category": "hogar",
+    "mature_paid_units": 746,
+    "returned_30d_units": "51",
+    "return_rate_30d": "0.06836461126005361930",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD097",
+    "product_name": "Producto sintético 097",
+    "category": "ropa",
+    "mature_paid_units": 752,
+    "returned_30d_units": "51",
+    "return_rate_30d": "0.06781914893617021277",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD087",
+    "product_name": "Producto sintético 087",
+    "category": "ropa",
+    "mature_paid_units": 706,
+    "returned_30d_units": "47",
+    "return_rate_30d": "0.06657223796033994334",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD067",
+    "product_name": "Producto sintético 067",
+    "category": "ropa",
+    "mature_paid_units": 784,
+    "returned_30d_units": "52",
+    "return_rate_30d": "0.06632653061224489796",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD025",
+    "product_name": "Producto sintético 025",
+    "category": "deportes",
+    "mature_paid_units": 710,
+    "returned_30d_units": "47",
+    "return_rate_30d": "0.06619718309859154930",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD095",
+    "product_name": "Producto sintético 095",
+    "category": "deportes",
+    "mature_paid_units": 712,
+    "returned_30d_units": "47",
+    "return_rate_30d": "0.06601123595505617978",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD035",
+    "product_name": "Producto sintético 035",
+    "category": "deportes",
+    "mature_paid_units": 794,
+    "returned_30d_units": "52",
+    "return_rate_30d": "0.06549118387909319899",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD031",
+    "product_name": "Producto sintético 031",
+    "category": "electronica",
+    "mature_paid_units": 765,
+    "returned_30d_units": "50",
+    "return_rate_30d": "0.06535947712418300654",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD077",
+    "product_name": "Producto sintético 077",
+    "category": "ropa",
+    "mature_paid_units": 612,
+    "returned_30d_units": "40",
+    "return_rate_30d": "0.06535947712418300654",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD041",
+    "product_name": "Producto sintético 041",
+    "category": "electronica",
+    "mature_paid_units": 735,
+    "returned_30d_units": "47",
+    "return_rate_30d": "0.06394557823129251701",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD060",
+    "product_name": "Producto sintético 060",
+    "category": "deportes",
+    "mature_paid_units": 767,
+    "returned_30d_units": "49",
+    "return_rate_30d": "0.06388526727509778357",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD029",
+    "product_name": "Producto sintético 029",
+    "category": "belleza",
+    "mature_paid_units": 753,
+    "returned_30d_units": "48",
+    "return_rate_30d": "0.06374501992031872510",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD038",
+    "product_name": "Producto sintético 038",
+    "category": "hogar",
+    "mature_paid_units": 723,
+    "returned_30d_units": "46",
+    "return_rate_30d": "0.06362378976486860304",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD022",
+    "product_name": "Producto sintético 022",
+    "category": "ropa",
+    "mature_paid_units": 756,
+    "returned_30d_units": "48",
+    "return_rate_30d": "0.06349206349206349206",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD009",
+    "product_name": "Producto sintético 009",
+    "category": "belleza",
+    "mature_paid_units": 616,
+    "returned_30d_units": "39",
+    "return_rate_30d": "0.06331168831168831169",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD015",
+    "product_name": "Producto sintético 015",
+    "category": "deportes",
+    "mature_paid_units": 712,
+    "returned_30d_units": "45",
+    "return_rate_30d": "0.06320224719101123596",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD068",
+    "product_name": "Producto sintético 068",
+    "category": "hogar",
+    "mature_paid_units": 698,
+    "returned_30d_units": "44",
+    "return_rate_30d": "0.06303724928366762178",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD051",
+    "product_name": "Producto sintético 051",
+    "category": "electronica",
+    "mature_paid_units": 802,
+    "returned_30d_units": "50",
+    "return_rate_30d": "0.06234413965087281796",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD090",
+    "product_name": "Producto sintético 090",
+    "category": "deportes",
+    "mature_paid_units": 658,
+    "returned_30d_units": "41",
+    "return_rate_30d": "0.06231003039513677812",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD011",
+    "product_name": "Producto sintético 011",
+    "category": "electronica",
+    "mature_paid_units": 677,
+    "returned_30d_units": "42",
+    "return_rate_30d": "0.06203840472673559823",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD037",
+    "product_name": "Producto sintético 037",
+    "category": "ropa",
+    "mature_paid_units": 740,
+    "returned_30d_units": "45",
+    "return_rate_30d": "0.06081081081081081081",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD028",
+    "product_name": "Producto sintético 028",
+    "category": "hogar",
+    "mature_paid_units": 760,
+    "returned_30d_units": "46",
+    "return_rate_30d": "0.06052631578947368421",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD002",
+    "product_name": "Producto sintético 002",
+    "category": "ropa",
+    "mature_paid_units": 783,
+    "returned_30d_units": "47",
+    "return_rate_30d": "0.06002554278416347382",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD043",
+    "product_name": "Producto sintético 043",
+    "category": "hogar",
+    "mature_paid_units": 736,
+    "returned_30d_units": "44",
+    "return_rate_30d": "0.05978260869565217391",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD080",
+    "product_name": "Producto sintético 080",
+    "category": "deportes",
+    "mature_paid_units": 690,
+    "returned_30d_units": "41",
+    "return_rate_30d": "0.05942028985507246377",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD007",
+    "product_name": "Producto sintético 007",
+    "category": "ropa",
+    "mature_paid_units": 746,
+    "returned_30d_units": "44",
+    "return_rate_30d": "0.05898123324396782842",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD021",
+    "product_name": "Producto sintético 021",
+    "category": "electronica",
+    "mature_paid_units": 738,
+    "returned_30d_units": "43",
+    "return_rate_30d": "0.05826558265582655827",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD045",
+    "product_name": "Producto sintético 045",
+    "category": "deportes",
+    "mature_paid_units": 776,
+    "returned_30d_units": "44",
+    "return_rate_30d": "0.05670103092783505155",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD020",
+    "product_name": "Producto sintético 020",
+    "category": "deportes",
+    "mature_paid_units": 637,
+    "returned_30d_units": "36",
+    "return_rate_30d": "0.05651491365777080063",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD027",
+    "product_name": "Producto sintético 027",
+    "category": "ropa",
+    "mature_paid_units": 726,
+    "returned_30d_units": "41",
+    "return_rate_30d": "0.05647382920110192837",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD094",
+    "product_name": "Producto sintético 094",
+    "category": "belleza",
+    "mature_paid_units": 712,
+    "returned_30d_units": "40",
+    "return_rate_30d": "0.05617977528089887640",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD081",
+    "product_name": "Producto sintético 081",
+    "category": "electronica",
+    "mature_paid_units": 766,
+    "returned_30d_units": "43",
+    "return_rate_30d": "0.05613577023498694517",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD064",
+    "product_name": "Producto sintético 064",
+    "category": "belleza",
+    "mature_paid_units": 803,
+    "returned_30d_units": "45",
+    "return_rate_30d": "0.05603985056039850560",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD056",
+    "product_name": "Producto sintético 056",
+    "category": "electronica",
+    "mature_paid_units": 732,
+    "returned_30d_units": "41",
+    "return_rate_30d": "0.05601092896174863388",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD008",
+    "product_name": "Producto sintético 008",
+    "category": "hogar",
+    "mature_paid_units": 869,
+    "returned_30d_units": "48",
+    "return_rate_30d": "0.05523590333716915995",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD018",
+    "product_name": "Producto sintético 018",
+    "category": "hogar",
+    "mature_paid_units": 727,
+    "returned_30d_units": "40",
+    "return_rate_30d": "0.05502063273727647868",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD049",
+    "product_name": "Producto sintético 049",
+    "category": "belleza",
+    "mature_paid_units": 764,
+    "returned_30d_units": "42",
+    "return_rate_30d": "0.05497382198952879581",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD074",
+    "product_name": "Producto sintético 074",
+    "category": "belleza",
+    "mature_paid_units": 699,
+    "returned_30d_units": "38",
+    "return_rate_30d": "0.05436337625178826896",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD046",
+    "product_name": "Producto sintético 046",
+    "category": "electronica",
+    "mature_paid_units": 810,
+    "returned_30d_units": "44",
+    "return_rate_30d": "0.05432098765432098765",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD065",
+    "product_name": "Producto sintético 065",
+    "category": "deportes",
+    "mature_paid_units": 738,
+    "returned_30d_units": "40",
+    "return_rate_30d": "0.05420054200542005420",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD055",
+    "product_name": "Producto sintético 055",
+    "category": "deportes",
+    "mature_paid_units": 861,
+    "returned_30d_units": "46",
+    "return_rate_30d": "0.05342624854819976771",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD075",
+    "product_name": "Producto sintético 075",
+    "category": "deportes",
+    "mature_paid_units": 755,
+    "returned_30d_units": "40",
+    "return_rate_30d": "0.05298013245033112583",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD071",
+    "product_name": "Producto sintético 071",
+    "category": "electronica",
+    "mature_paid_units": 741,
+    "returned_30d_units": "39",
+    "return_rate_30d": "0.05263157894736842105",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD057",
+    "product_name": "Producto sintético 057",
+    "category": "ropa",
+    "mature_paid_units": 670,
+    "returned_30d_units": "35",
+    "return_rate_30d": "0.05223880597014925373",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD093",
+    "product_name": "Producto sintético 093",
+    "category": "hogar",
+    "mature_paid_units": 737,
+    "returned_30d_units": "38",
+    "return_rate_30d": "0.05156037991858887381",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD084",
+    "product_name": "Producto sintético 084",
+    "category": "belleza",
+    "mature_paid_units": 661,
+    "returned_30d_units": "34",
+    "return_rate_30d": "0.05143721633888048411",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD070",
+    "product_name": "Producto sintético 070",
+    "category": "deportes",
+    "mature_paid_units": 743,
+    "returned_30d_units": "38",
+    "return_rate_30d": "0.05114401076716016151",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD044",
+    "product_name": "Producto sintético 044",
+    "category": "belleza",
+    "mature_paid_units": 743,
+    "returned_30d_units": "37",
+    "return_rate_30d": "0.04979811574697173620",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD014",
+    "product_name": "Producto sintético 014",
+    "category": "belleza",
+    "mature_paid_units": 728,
+    "returned_30d_units": "36",
+    "return_rate_30d": "0.04945054945054945055",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD086",
+    "product_name": "Producto sintético 086",
+    "category": "electronica",
+    "mature_paid_units": 657,
+    "returned_30d_units": "32",
+    "return_rate_30d": "0.04870624048706240487",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD034",
+    "product_name": "Producto sintético 034",
+    "category": "belleza",
+    "mature_paid_units": 769,
+    "returned_30d_units": "37",
+    "return_rate_30d": "0.04811443433029908973",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD006",
+    "product_name": "Producto sintético 006",
+    "category": "electronica",
+    "mature_paid_units": 687,
+    "returned_30d_units": "33",
+    "return_rate_30d": "0.04803493449781659389",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD050",
+    "product_name": "Producto sintético 050",
+    "category": "deportes",
+    "mature_paid_units": 772,
+    "returned_30d_units": "37",
+    "return_rate_30d": "0.04792746113989637306",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD013",
+    "product_name": "Producto sintético 013",
+    "category": "hogar",
+    "mature_paid_units": 689,
+    "returned_30d_units": "33",
+    "return_rate_30d": "0.04789550072568940493",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD061",
+    "product_name": "Producto sintético 061",
+    "category": "electronica",
+    "mature_paid_units": 734,
+    "returned_30d_units": "35",
+    "return_rate_30d": "0.04768392370572207084",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD063",
+    "product_name": "Producto sintético 063",
+    "category": "hogar",
+    "mature_paid_units": 716,
+    "returned_30d_units": "34",
+    "return_rate_30d": "0.04748603351955307263",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD001",
+    "product_name": "Producto sintético 001",
+    "category": "electronica",
+    "mature_paid_units": 745,
+    "returned_30d_units": "35",
+    "return_rate_30d": "0.04697986577181208054",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD026",
+    "product_name": "Producto sintético 026",
+    "category": "electronica",
+    "mature_paid_units": 704,
+    "returned_30d_units": "33",
+    "return_rate_30d": "0.04687500000000000000",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD089",
+    "product_name": "Producto sintético 089",
+    "category": "belleza",
+    "mature_paid_units": 730,
+    "returned_30d_units": "34",
+    "return_rate_30d": "0.04657534246575342466",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD042",
+    "product_name": "Producto sintético 042",
+    "category": "ropa",
+    "mature_paid_units": 797,
+    "returned_30d_units": "37",
+    "return_rate_30d": "0.04642409033877038896",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD096",
+    "product_name": "Producto sintético 096",
+    "category": "electronica",
+    "mature_paid_units": 703,
+    "returned_30d_units": "32",
+    "return_rate_30d": "0.04551920341394025605",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD012",
+    "product_name": "Producto sintético 012",
+    "category": "ropa",
+    "mature_paid_units": 710,
+    "returned_30d_units": "32",
+    "return_rate_30d": "0.04507042253521126761",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD004",
+    "product_name": "Producto sintético 004",
+    "category": "belleza",
+    "mature_paid_units": 655,
+    "returned_30d_units": "29",
+    "return_rate_30d": "0.04427480916030534351",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD036",
+    "product_name": "Producto sintético 036",
+    "category": "electronica",
+    "mature_paid_units": 809,
+    "returned_30d_units": "35",
+    "return_rate_30d": "0.04326328800988875155",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD024",
+    "product_name": "Producto sintético 024",
+    "category": "belleza",
+    "mature_paid_units": 731,
+    "returned_30d_units": "31",
+    "return_rate_30d": "0.04240766073871409029",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD058",
+    "product_name": "Producto sintético 058",
+    "category": "hogar",
+    "mature_paid_units": 624,
+    "returned_30d_units": "26",
+    "return_rate_30d": "0.04166666666666666667",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD085",
+    "product_name": "Producto sintético 085",
+    "category": "deportes",
+    "mature_paid_units": 699,
+    "returned_30d_units": "29",
+    "return_rate_30d": "0.04148783977110157368",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD098",
+    "product_name": "Producto sintético 098",
+    "category": "hogar",
+    "mature_paid_units": 706,
+    "returned_30d_units": "29",
+    "return_rate_30d": "0.04107648725212464589",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD016",
+    "product_name": "Producto sintético 016",
+    "category": "electronica",
+    "mature_paid_units": 744,
+    "returned_30d_units": "29",
+    "return_rate_30d": "0.03897849462365591398",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD078",
+    "product_name": "Producto sintético 078",
+    "category": "hogar",
+    "mature_paid_units": 720,
+    "returned_30d_units": "28",
+    "return_rate_30d": "0.03888888888888888889",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD073",
+    "product_name": "Producto sintético 073",
+    "category": "hogar",
+    "mature_paid_units": 730,
+    "returned_30d_units": "28",
+    "return_rate_30d": "0.03835616438356164384",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD010",
+    "product_name": "Producto sintético 010",
+    "category": "deportes",
+    "mature_paid_units": 681,
+    "returned_30d_units": "25",
+    "return_rate_30d": "0.03671071953010279001",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD030",
+    "product_name": "Producto sintético 030",
+    "category": "deportes",
+    "mature_paid_units": 723,
+    "returned_30d_units": "26",
+    "return_rate_30d": "0.03596127247579529737",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "product_id": "PRD099",
+    "product_name": "Producto sintético 099",
+    "category": "belleza",
+    "mature_paid_units": 709,
+    "returned_30d_units": "16",
+    "return_rate_30d": "0.02256699576868829337",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  }
+]

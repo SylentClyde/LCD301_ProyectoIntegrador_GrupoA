@@ -1,0 +1,747 @@
+[
+  {
+    "event_id": "EVT-INVALID-034",
+    "reason": "line_total_mismatch",
+    "payload": {
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/a6b1bee8-03a2-40e8-ae7d-701878a47801.jsonl",
+      "event_id": "EVT-INVALID-034",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-034",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41801,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD021",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:26:34.607Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/a6b1bee8-03a2-40e8-ae7d-701878a47801.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:27:04.105198+00:00",
+      "computed_total": 41800
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-032",
+    "reason": "line_total_mismatch",
+    "payload": {
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/5056bd4e-11bd-4487-9d4a-e27fc1480854.jsonl",
+      "event_id": "EVT-INVALID-032",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-032",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41801,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD021",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:24:46.209Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/5056bd4e-11bd-4487-9d4a-e27fc1480854.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:25:04.424265+00:00",
+      "computed_total": 41800
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-035",
+    "reason": "line_total_mismatch",
+    "payload": {
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/5a46a05c-ab5e-4452-83d2-f49e08ddb6af.jsonl",
+      "event_id": "EVT-INVALID-035",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-035",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41801,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD021",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:24:09.685Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/5a46a05c-ab5e-4452-83d2-f49e08ddb6af.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:24:22.854659+00:00",
+      "computed_total": 41800
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-031",
+    "reason": "line_total_mismatch",
+    "payload": {
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/e8549bdb-a30c-403b-82f0-4b57ab98a559.jsonl",
+      "event_id": "EVT-INVALID-031",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-031",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41801,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD021",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:25:26.074Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/e8549bdb-a30c-403b-82f0-4b57ab98a559.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:25:44.239213+00:00",
+      "computed_total": 41800
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-033",
+    "reason": "line_total_mismatch",
+    "payload": {
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/46005756-93d4-42c0-b122-51be4add6254.jsonl",
+      "event_id": "EVT-INVALID-033",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-033",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41801,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD021",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:24:04.075Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/46005756-93d4-42c0-b122-51be4add6254.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:24:16.985672+00:00",
+      "computed_total": 41800
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-024",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-024",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/e8549bdb-a30c-403b-82f0-4b57ab98a559.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-024",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:25:27.289Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/e8549bdb-a30c-403b-82f0-4b57ab98a559.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:25:44.239213+00:00",
+      "computed_total": 41800,
+      "payload_hash": "975910234c3e0b582e89b138803535b6ddca08868fd29fae644413f7b4c0c7c7"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-027",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-027",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/97363db2-45fd-43f6-9ae1-1333d170861d.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-027",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:26:16.603Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/97363db2-45fd-43f6-9ae1-1333d170861d.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:26:41.390514+00:00",
+      "computed_total": 41800,
+      "payload_hash": "c58e1605b6c68ee831d3b8a52cfa7c3db4ea0aeb2cf85ca0fe8f0fca97b0de63"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-028",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-028",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/396d03dc-650e-4d0b-8b15-00be7682bcb2.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-028",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:26:24.167Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/396d03dc-650e-4d0b-8b15-00be7682bcb2.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:26:49.294898+00:00",
+      "computed_total": 41800,
+      "payload_hash": "d07bec123f57e7561263136e455347eeb31c01db4b3a27190ff7196ef70c6a7f"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-029",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-029",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/d49a22ec-5a57-4edb-8339-072cdaa609a1.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-029",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:25:38.049Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/d49a22ec-5a57-4edb-8339-072cdaa609a1.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:26:03.950587+00:00",
+      "computed_total": 41800,
+      "payload_hash": "2b9533d76a876aa90298dd9170a955512f17bf0fc0a3cf14d7467ba2c1684100"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-022",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-022",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/8e0974c9-975d-4dce-a7d3-78a51e7b25dc.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-022",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:25:38.031Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/8e0974c9-975d-4dce-a7d3-78a51e7b25dc.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:25:57.686090+00:00",
+      "computed_total": 41800,
+      "payload_hash": "47f04a4c20645400e2d36dcef7c12403855ad59c6f3ed99cfbd8523796fa25b1"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-030",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-030",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/0ced714e-8bed-4af2-b2c9-fb627e7d3248.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-030",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:25:52.496Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/0ced714e-8bed-4af2-b2c9-fb627e7d3248.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:26:16.494931+00:00",
+      "computed_total": 41800,
+      "payload_hash": "a7d3d2bd64358e434edf210f86fc10f298ae3b9d9316816d77147532009fbf53"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-021",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-021",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/46005756-93d4-42c0-b122-51be4add6254.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-021",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:24:02.772Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/46005756-93d4-42c0-b122-51be4add6254.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:24:16.985672+00:00",
+      "computed_total": 41800,
+      "payload_hash": "7074af0221587616b94d071c5a603032bd50e1e2db144214907fc596d2de576c"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-023",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-023",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/8861df1c-c6bf-4efa-b3c5-7c1b8662d15e.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-023",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:26:05.399Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/8861df1c-c6bf-4efa-b3c5-7c1b8662d15e.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:26:29.055195+00:00",
+      "computed_total": 41800,
+      "payload_hash": "221616dfc56a4eabe7a10372cd901e5422a565104591d966b6f208cfe6ee4fb7"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-025",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-025",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/a6b1bee8-03a2-40e8-ae7d-701878a47801.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-025",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:26:34.594Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/a6b1bee8-03a2-40e8-ae7d-701878a47801.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:27:04.105198+00:00",
+      "computed_total": 41800,
+      "payload_hash": "0684ce8cd94ffc34262cb999ba05ba682fc77721f824934f55d6653cf79cc228"
+    }
+  },
+  {
+    "event_id": "EVT-INVALID-026",
+    "reason": "unknown_product",
+    "payload": {
+      "event_id": "EVT-INVALID-026",
+      "file_key": "C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/1399c6aa-3770-4025-b88b-7229ef585088.jsonl",
+      "event_type": "created",
+      "order_id": "ORD-INVALID-026",
+      "customer_id": "CUST0001",
+      "event_time": "2026-09-08T10:12:08.000000Z",
+      "channel": "web",
+      "currency": "BOB",
+      "original_payment_id": null,
+      "total_cents": 41800,
+      "items": [
+        {
+          "order_line_id": "ORD-000001-L01",
+          "product_id": "PRD999",
+          "quantity": 2,
+          "unit_price_cents": 4500,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L02",
+          "product_id": "PRD043",
+          "quantity": 4,
+          "unit_price_cents": 3400,
+          "discount_cents": 0,
+          "refund_cents": null
+        },
+        {
+          "order_line_id": "ORD-000001-L03",
+          "product_id": "PRD046",
+          "quantity": 4,
+          "unit_price_cents": 4800,
+          "discount_cents": 0,
+          "refund_cents": null
+        }
+      ],
+      "ingested_at": "2026-10-09T23:24:32.593Z",
+      "batch_id": "base",
+      "_corrupt_record": null,
+      "source_file": "file:///C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document%20Creation/output/LCD301_ProyectoIntegrador_GrupoA/data/landing/events/base/1399c6aa-3770-4025-b88b-7229ef585088.jsonl",
+      "parsed_time": "2026-09-08 06:12:08",
+      "file_ingested_at": "2026-10-09T23:24:51.150372+00:00",
+      "computed_total": 41800,
+      "payload_hash": "39e16836774b17b47b60120a3d51e28fc6ded97f6a97ac7d0657322ad978ec23"
+    }
+  }
+]

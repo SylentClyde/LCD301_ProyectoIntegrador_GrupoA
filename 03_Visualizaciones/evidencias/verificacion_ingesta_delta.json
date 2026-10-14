@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "batch_id": "delta",
+  "input_events": 7,
+  "landing_events": 7,
+  "schema_rejected_events": 0,
+  "catalog_rejections": 0,
+  "all_occurrences_reconciled": true,
+  "payloads_unchanged_except_metadata": true,
+  "closed_manifest_hashes_verified": true
+}

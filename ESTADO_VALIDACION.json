@@ -1,0 +1,38 @@
+{
+  "verified_at_utc": "2026-10-14T20:00:13.259637+00:00",
+  "team": "Grupo A",
+  "scenario": "E-commerce: ventas, devoluciones y clientes",
+  "local_delivery_ready": true,
+  "runtime": "Windows nativo; Spark local[2]",
+  "published_events": 31007,
+  "paid_orders": 12803,
+  "net_cents": 2638164945,
+  "checks": {
+    "rest_and_csv_ingestion": "PASS",
+    "nifi_validation_quarantine_retry_backpressure": "PASS",
+    "spark_batch_transformations_aggregation_routing": "PASS",
+    "transaction_rollback_idempotence_pending_conflicts": "PASS",
+    "partitioned_postgresql_source_reconciliation": "PASS",
+    "six_sql_analyses_with_five_repetitions_and_plans": "PASS",
+    "business_and_operational_dashboard_integration": "PASS",
+    "six_visualizations_filters_drilldown_auto_update": "PASS",
+    "backup_restoration_hashes_and_financial_totals": "PASS",
+    "pdf_and_slides_visual_review": "PASS",
+    "mp4_decode_and_visual_review": "PASS",
+    "docker_compose_static_validation": "PASS",
+    "docker_runtime": "NOT_EXECUTED",
+    "cloud_sync_shared_link_instructor_access": "PENDING"
+  },
+  "backup_sha256": "c6757a5898f45cf793ac3f1e55cb0d13c5867f4485ffe8ce6a090310c6cf3319",
+  "video": {
+    "mode": "demostracion guiada con slides editables y capturas reales",
+    "audio": false,
+    "continuous_screen_recording": false
+  },
+  "limitations": [
+    "Datos sintéticos académicos, moneda BOB, tiempos de negocio UTC.",
+    "Procesamiento batch y lectura del panel cada 15 segundos.",
+    "Docker suministrado; no probado en ejecución.",
+    "No hay un enlace externo de visualización verificado."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "processors": 20,
+  "connections": 30,
+  "invalid": [],
+  "all_stopped_or_disabled": true,
+  "failure_routes_preserved": true
+}

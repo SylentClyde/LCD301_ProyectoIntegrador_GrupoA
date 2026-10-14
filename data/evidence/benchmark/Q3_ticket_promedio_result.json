@@ -1,0 +1,23 @@
+[
+  {
+    "channel": "movil",
+    "paid_orders": 4274,
+    "gross_bob": "9411524.600000000000",
+    "average_ticket_bob": "2202.0413196069256000",
+    "median_ticket_bob": 1971.0
+  },
+  {
+    "channel": "tienda",
+    "paid_orders": 1950,
+    "gross_bob": "4218622.100000000000",
+    "average_ticket_bob": "2163.3959487179487200",
+    "median_ticket_bob": 1963.0
+  },
+  {
+    "channel": "web",
+    "paid_orders": 6579,
+    "gross_bob": "14411721.900000000000",
+    "average_ticket_bob": "2190.5642042863657100",
+    "median_ticket_bob": 1951.1
+  }
+]

@@ -1,0 +1,145 @@
+- banner:
+  - text: LCD301 / GRUPO A
+  - heading "Comercio en datos" [level=1]
+  - paragraph: Ventas, devoluciones y clientes en una sola vista.
+- main:
+  - generic: Negocio
+  - generic: Operación
+  - generic: Período · UTC
+  - textbox "Start Date": 01/04/2026
+  - paragraph: Navigate forward to interact with the calendar and select a date. Press the question mark key to get the keyboard shortcuts for changing dates.
+  - textbox "End Date": 30/09/2026
+  - paragraph: Navigate backward to interact with the calendar and select a date. Press the question mark key to get the keyboard shortcuts for changing dates.
+  - generic: Canal
+  - generic: Todos los canales
+  - combobox
+  - generic: Categoría
+  - generic: Todas las categorías
+  - combobox
+  - strong: Datos conectados
+  - generic: 31.007 eventos persistidos
+  - generic: "Corte de fuente: 30/09/2026 12:00 UTC"
+  - generic: "Lote: delta"
+  - generic: "Lectura: 23:48:46 UTC"
+  - heading "El pulso del negocio" [level=2]
+  - paragraph: Ingresos según la fecha de cada pago y reembolso.
+  - generic: Ingreso neto
+  - strong: 26.381.649,45 BOB
+  - generic: Pagos menos reembolsos
+  - generic: Pedidos pagados
+  - strong: "12.803"
+  - generic: Pedidos distintos en el período
+  - generic: Importe reembolsado
+  - strong: 1.660.219,15 BOB
+  - generic: Incluye devoluciones parciales
+  - generic: Clientes recurrentes
+  - strong: 79,5 %
+  - generic: 795 de 1.000 clientes con pagos
+  - generic: Cancelación
+  - strong: 8,0 %
+  - generic: 1.200 / 15.003 pedidos creados
+  - generic: Devolución a 30 días
+  - strong: 6,0 %
+  - generic: 4.358 / 72.793 unidades maduras
+  - heading "Evolución de ingresos" [level=3]
+  - paragraph: Pagos confirmados menos reembolsos, por canal.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Ventas por categoría" [level=3]
+  - paragraph: Haz clic en una barra para explorar los productos.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Cuándo compran los clientes" [level=3]
+  - paragraph: Pedidos pagados por día de semana y hora · UTC.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Participación de canales" [level=3]
+  - paragraph: Porcentaje de pedidos pagados.
+  - toolbar:
+    - button "Download plot as a PNG":
+  - heading "Frecuencia y valor de clientes" [level=3]
+  - paragraph: Valor neto observado en el período; no es CLV predictivo.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Distribución de tickets" [level=3]
+  - paragraph: Importes de pagos confirmados por pedido.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Del resumen al pedido" [level=2]
+  - paragraph: Categoría → producto → pedido → historial de eventos.
+  - button "Limpiar selección"
+  - generic: Todas las categorías → Selecciona un producto
+  - heading "Productos de la selección" [level=3]
+  - paragraph: Haz clic en un producto para ver sus pedidos.
+  - toolbar:
+    - button "Download plot as a PNG":
+    - button "Zoom":
+    - button "Pan":
+    - button "Zoom in":
+    - button "Zoom out":
+    - button "Autoscale":
+    - button "Reset axes":
+  - heading "Pedidos del producto" [level=3]
+  - paragraph: Selecciona una fila para abrir el historial. Se muestran hasta 200 pedidos.
+  - table:
+    - rowgroup:
+      - row "Pedido Cliente Canal Pagado BOB Devuelto BOB":
+        - columnheader "Pedido":
+          - generic: Pedido
+        - columnheader "Cliente":
+          - generic: Cliente
+        - columnheader "Canal":
+          - generic: Canal
+        - columnheader "Pagado BOB":
+          - generic: Pagado BOB
+        - columnheader "Devuelto BOB":
+          - generic: Devuelto BOB
+  - heading "Historial del pedido" [level=3]
+  - paragraph: Selecciona un pedido en la tabla.
+  - table:
+    - rowgroup:
+      - row "Evento Tipo Fecha UTC Importe BOB Lote":
+        - columnheader "Evento":
+          - generic: Evento
+        - columnheader "Tipo":
+          - generic: Tipo
+        - columnheader "Fecha UTC":
+          - generic: Fecha UTC
+        - columnheader "Importe BOB":
+          - generic: Importe BOB
+        - columnheader "Lote":
+          - generic: Lote
+  - paragraph: "Devolución a 30 días: unidades reembolsadas / unidades pagadas de cohortes con 30 días completos. Cancelación: pedidos cancelados sin pago / pedidos creados en el período. Las tasas sin denominador se muestran como «Sin datos»."
+  - generic: Grupo A · Proyecto integrador LCD301
+  - generic: Fuentes sintéticas · Moneda BOB · Fechas de negocio UTC
+- contentinfo

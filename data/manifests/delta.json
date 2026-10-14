@@ -1,0 +1,28 @@
+{
+  "batch_id": "delta",
+  "status": "closed",
+  "started_at": "2026-10-09T23:45:37.172766+00:00",
+  "closed_at": "2026-10-09T23:46:20.829129+00:00",
+  "source": "rest_api",
+  "group_id": "22ea9eee-01a1-1000-94c9-8eae200d447d",
+  "input_event_count": 7,
+  "event_count": 7,
+  "files": [
+    {
+      "path": "data/landing/events/delta/806bf5b3-2fa0-4860-9807-71bbfcbadde4.jsonl",
+      "bytes": 3184,
+      "sha256": "308113f83bd56e14ceb95549f1270b43568c191e4d59d02ddc4cc94838bedbd7"
+    }
+  ],
+  "catalog_files": [
+    {
+      "path": "data/landing/catalog/catalogo_productos.csv",
+      "bytes": 5350,
+      "sha256": "d84bbaec9142faeac5766b6af12e61a1f194a938259c8370affbb85beea77f46"
+    }
+  ],
+  "ingestion_rejections": 0,
+  "rest_schema_rejections": 0,
+  "diagnostics": [],
+  "zero_queues": true
+}

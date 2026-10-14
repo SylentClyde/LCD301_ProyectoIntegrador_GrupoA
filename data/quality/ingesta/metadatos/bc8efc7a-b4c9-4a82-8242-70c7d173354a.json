@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "[/channel: does not have a value in the enumeration [\"web\", \"movil\", \"tienda\"]]",
+  "quality.original_filename" : "71a47bc0-fd69-4174-a845-25455e7462aa",
+  "quality.reason" : "[/channel: does not have a value in the enumeration [\"web\", \"movil\", \"tienda\"]]",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:26:16.748Z",
+  "source" : "rest_api",
+  "quality.csv_reason" : ""
+}

@@ -1,0 +1,30 @@
+{
+  "verified": true,
+  "base_verified": true,
+  "replay_verified": true,
+  "delta_verified": true,
+  "backup_verified": true,
+  "verified_at_utc": "2026-10-10T00:03:08.580Z",
+  "events_base": 31000,
+  "events_final": 31007,
+  "paid_orders_final": 12803,
+  "net_bob_base": 26381369.45,
+  "net_bob_final": 26381649.45,
+  "delta_events": 7,
+  "delta_net_bob": 280,
+  "query_median_min_ms": 28.853,
+  "query_median_max_ms": 192.486,
+  "business_screenshot": "03_Visualizaciones/capturas/negocio_delta.jpg",
+  "operations_screenshot": "03_Visualizaciones/capturas/operacion_final.jpg",
+  "limitation": "Datos sintéticos; ejecución nativa Windows. Docker suministrado sin ejecución.",
+  "runtime_text": "NiFi 2.12.0 · Spark 4.0.1 local[2] · PostgreSQL 17.6 · Dash/Plotly",
+  "evidence_sources": [
+    "data/evidence/database_verification_initial.json",
+    "data/evidence/database_verification_after_delta.json",
+    "data/evidence/repeated_run.json",
+    "data/evidence/delta_run.json",
+    "data/backups/restore_verification.json",
+    "03_Visualizaciones/evidencias/dashboard_verification_final.json"
+  ],
+  "dashboard_correction": "Consulta de cancelaciones optimizada y reconciliada en 15 pares canal/categoría; integración final aprobada."
+}

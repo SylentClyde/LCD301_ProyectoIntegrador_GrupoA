@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "verified_at_utc": "2026-10-09T23:15:45.173026+00:00",
+  "source_verification": {
+    "status": "passed",
+    "checks": 31015,
+    "initial_accepted": 31000,
+    "delta_accepted": 7,
+    "orders_after_delta": 15003,
+    "paid_orders_after_delta": 12803,
+    "duplicates_verified": 25,
+    "schema_validation": {
+      "schema_rejections": 20,
+      "valid_records_verified": 31007
+    },
+    "initial_net_cents": 2638136945,
+    "after_delta_net_cents": 2638164945
+  },
+  "http_verification": {
+    "status": "passed",
+    "api_base_url": "http://127.0.0.1:18080",
+    "initial_records": 31065,
+    "delta_records": 7,
+    "deterministic_replay": true,
+    "invalid_query_status": 422,
+    "initial_batch_id": "api-initial-6c8c8853a7e2-000000-031065",
+    "delta_batch_id": "api-delta-81c0aa5c561e-000000-000007",
+    "postgresql_kpis": "not_requested",
+    "http_checks": [
+      {
+        "path": "/health",
+        "status": 200
+      },
+      {
+        "path": "/events?cursor=0&limit=1000",
+        "status": 200
+      },
+      {
+        "path": "/events?cursor=0&limit=1000",
+        "status": 200
+      },
+      {
+        "path": "/events?cursor=0&limit=50000",
+        "status": 200
+      },
+      {
+        "path": "/events/delta?cursor=0&limit=50000",
+        "status": 200
+      },
+      {
+        "path": "/schema/event.v1",
+        "status": 200
+      },
+      {
+        "path": "/events?cursor=-1",
+        "status": 422
+      },
+      {
+        "path": "/events?limit=50001",
+        "status": 422
+      },
+      {
+        "path": "/events?dataset=unknown",
+        "status": 422
+      }
+    ]
+  },
+  "scope": "Fuente y API. No acredita publicación PostgreSQL. No se regeneraron datos."
+}

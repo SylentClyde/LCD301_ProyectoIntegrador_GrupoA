@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-10-10T00:07:52.400Z",
+  "browser_verified": true,
+  "published_events": 31007,
+  "net_bob_final": 26381649.45,
+  "filters_verified": {
+    "channel": "tienda",
+    "category": "deportes",
+    "net_bob": 979954.25,
+    "paid_orders": 796,
+    "created_orders": 949,
+    "cancelled_orders": 83
+  },
+  "drilldown_verified": "categoría → PRD032 → ORD012466 → tres eventos del pedido",
+  "auto_update_verified": {
+    "base_events": 31000,
+    "delta_events": 31007,
+    "base_net_bob": 26381369.45,
+    "delta_net_bob": 26381649.45,
+    "change_net_bob": 280,
+    "manual_reload_used_for_delta": false,
+    "period_end_expanded": "28/09/2026 → 30/09/2026"
+  },
+  "charts_verified": 6,
+  "chart_render_height_px": 310,
+  "operations_verified": true,
+  "evidence_files": [
+    "capturas/negocio_base.jpg",
+    "capturas/negocio_delta.jpg",
+    "capturas/operacion_final.jpg",
+    "capturas/detalle_pedido.jpg",
+    "capturas/filtros_finales.txt",
+    "capturas/actualizacion_automatica.txt",
+    "capturas/galeria_evidencia.json"
+  ],
+  "scope": "Navegador real con datos PostgreSQL publicados; los callbacks se validan además por separado."
+}

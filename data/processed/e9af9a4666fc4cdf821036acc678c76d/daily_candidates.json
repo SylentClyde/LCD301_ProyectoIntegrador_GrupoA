@@ -1,0 +1,3726 @@
+[
+  {
+    "day": "2026-04-01",
+    "channel": "movil",
+    "candidate_net_cents": 7864475,
+    "events": 73,
+    "mean_event_cents": 231306.02739726027
+  },
+  {
+    "day": "2026-04-01",
+    "channel": "tienda",
+    "candidate_net_cents": 2028765,
+    "events": 24,
+    "mean_event_cents": 196695.83333333334
+  },
+  {
+    "day": "2026-04-01",
+    "channel": "web",
+    "candidate_net_cents": 6888215,
+    "events": 76,
+    "mean_event_cents": 191936.18421052632
+  },
+  {
+    "day": "2026-04-02",
+    "channel": "movil",
+    "candidate_net_cents": 5152335,
+    "events": 71,
+    "mean_event_cents": 195310.84507042254
+  },
+  {
+    "day": "2026-04-02",
+    "channel": "tienda",
+    "candidate_net_cents": 827430,
+    "events": 12,
+    "mean_event_cents": 137905.0
+  },
+  {
+    "day": "2026-04-02",
+    "channel": "web",
+    "candidate_net_cents": 8968395,
+    "events": 93,
+    "mean_event_cents": 215498.49462365592
+  },
+  {
+    "day": "2026-04-03",
+    "channel": "movil",
+    "candidate_net_cents": 5310235,
+    "events": 57,
+    "mean_event_cents": 184881.22807017545
+  },
+  {
+    "day": "2026-04-03",
+    "channel": "tienda",
+    "candidate_net_cents": 2398185,
+    "events": 25,
+    "mean_event_cents": 206373.0
+  },
+  {
+    "day": "2026-04-03",
+    "channel": "web",
+    "candidate_net_cents": 12156885,
+    "events": 102,
+    "mean_event_cents": 241601.96078431373
+  },
+  {
+    "day": "2026-04-04",
+    "channel": "movil",
+    "candidate_net_cents": 3707325,
+    "events": 37,
+    "mean_event_cents": 252346.35135135136
+  },
+  {
+    "day": "2026-04-04",
+    "channel": "tienda",
+    "candidate_net_cents": 3414625,
+    "events": 36,
+    "mean_event_cents": 204952.77777777778
+  },
+  {
+    "day": "2026-04-04",
+    "channel": "web",
+    "candidate_net_cents": 8923335,
+    "events": 97,
+    "mean_event_cents": 202046.13402061857
+  },
+  {
+    "day": "2026-04-05",
+    "channel": "movil",
+    "candidate_net_cents": 6497815,
+    "events": 63,
+    "mean_event_cents": 229115.15873015873
+  },
+  {
+    "day": "2026-04-05",
+    "channel": "tienda",
+    "candidate_net_cents": 3142395,
+    "events": 31,
+    "mean_event_cents": 202735.16129032258
+  },
+  {
+    "day": "2026-04-05",
+    "channel": "web",
+    "candidate_net_cents": 8004890,
+    "events": 100,
+    "mean_event_cents": 186550.45
+  },
+  {
+    "day": "2026-04-06",
+    "channel": "movil",
+    "candidate_net_cents": 4824135,
+    "events": 57,
+    "mean_event_cents": 199296.66666666666
+  },
+  {
+    "day": "2026-04-06",
+    "channel": "tienda",
+    "candidate_net_cents": 1655215,
+    "events": 24,
+    "mean_event_cents": 172752.70833333334
+  },
+  {
+    "day": "2026-04-06",
+    "channel": "web",
+    "candidate_net_cents": 8571875,
+    "events": 101,
+    "mean_event_cents": 185006.43564356436
+  },
+  {
+    "day": "2026-04-07",
+    "channel": "movil",
+    "candidate_net_cents": 4025195,
+    "events": 55,
+    "mean_event_cents": 175093.72727272726
+  },
+  {
+    "day": "2026-04-07",
+    "channel": "tienda",
+    "candidate_net_cents": 3065045,
+    "events": 40,
+    "mean_event_cents": 186663.75
+  },
+  {
+    "day": "2026-04-07",
+    "channel": "web",
+    "candidate_net_cents": 9641850,
+    "events": 96,
+    "mean_event_cents": 222315.67708333334
+  },
+  {
+    "day": "2026-04-08",
+    "channel": "movil",
+    "candidate_net_cents": 6704585,
+    "events": 72,
+    "mean_event_cents": 199199.09722222222
+  },
+  {
+    "day": "2026-04-08",
+    "channel": "tienda",
+    "candidate_net_cents": 1794390,
+    "events": 33,
+    "mean_event_cents": 147392.42424242425
+  },
+  {
+    "day": "2026-04-08",
+    "channel": "web",
+    "candidate_net_cents": 9296415,
+    "events": 105,
+    "mean_event_cents": 183598.42857142858
+  },
+  {
+    "day": "2026-04-09",
+    "channel": "movil",
+    "candidate_net_cents": 5877805,
+    "events": 64,
+    "mean_event_cents": 218249.21875
+  },
+  {
+    "day": "2026-04-09",
+    "channel": "tienda",
+    "candidate_net_cents": 1718480,
+    "events": 30,
+    "mean_event_cents": 146398.33333333334
+  },
+  {
+    "day": "2026-04-09",
+    "channel": "web",
+    "candidate_net_cents": 8455275,
+    "events": 91,
+    "mean_event_cents": 203157.6923076923
+  },
+  {
+    "day": "2026-04-10",
+    "channel": "movil",
+    "candidate_net_cents": 6200495,
+    "events": 55,
+    "mean_event_cents": 242818.36363636365
+  },
+  {
+    "day": "2026-04-10",
+    "channel": "tienda",
+    "candidate_net_cents": 2180760,
+    "events": 22,
+    "mean_event_cents": 224329.0909090909
+  },
+  {
+    "day": "2026-04-10",
+    "channel": "web",
+    "candidate_net_cents": 8788735,
+    "events": 85,
+    "mean_event_cents": 221120.17647058822
+  },
+  {
+    "day": "2026-04-11",
+    "channel": "movil",
+    "candidate_net_cents": 3796745,
+    "events": 51,
+    "mean_event_cents": 202609.21568627452
+  },
+  {
+    "day": "2026-04-11",
+    "channel": "tienda",
+    "candidate_net_cents": 2288480,
+    "events": 17,
+    "mean_event_cents": 303883.82352941175
+  },
+  {
+    "day": "2026-04-11",
+    "channel": "web",
+    "candidate_net_cents": 6220225,
+    "events": 73,
+    "mean_event_cents": 206674.45205479453
+  },
+  {
+    "day": "2026-04-12",
+    "channel": "movil",
+    "candidate_net_cents": 6957385,
+    "events": 64,
+    "mean_event_cents": 240513.046875
+  },
+  {
+    "day": "2026-04-12",
+    "channel": "tienda",
+    "candidate_net_cents": 1824345,
+    "events": 23,
+    "mean_event_cents": 184063.47826086957
+  },
+  {
+    "day": "2026-04-12",
+    "channel": "web",
+    "candidate_net_cents": 11274515,
+    "events": 114,
+    "mean_event_cents": 215496.79824561405
+  },
+  {
+    "day": "2026-04-13",
+    "channel": "movil",
+    "candidate_net_cents": 4984975,
+    "events": 56,
+    "mean_event_cents": 208080.98214285713
+  },
+  {
+    "day": "2026-04-13",
+    "channel": "tienda",
+    "candidate_net_cents": 2130700,
+    "events": 36,
+    "mean_event_cents": 169884.86111111112
+  },
+  {
+    "day": "2026-04-13",
+    "channel": "web",
+    "candidate_net_cents": 8614605,
+    "events": 92,
+    "mean_event_cents": 199042.33695652173
+  },
+  {
+    "day": "2026-04-14",
+    "channel": "movil",
+    "candidate_net_cents": 3313490,
+    "events": 54,
+    "mean_event_cents": 187605.74074074073
+  },
+  {
+    "day": "2026-04-14",
+    "channel": "tienda",
+    "candidate_net_cents": 2929345,
+    "events": 35,
+    "mean_event_cents": 202509.14285714287
+  },
+  {
+    "day": "2026-04-14",
+    "channel": "web",
+    "candidate_net_cents": 6229585,
+    "events": 82,
+    "mean_event_cents": 191030.24390243902
+  },
+  {
+    "day": "2026-04-15",
+    "channel": "movil",
+    "candidate_net_cents": 6076505,
+    "events": 66,
+    "mean_event_cents": 188803.63636363635
+  },
+  {
+    "day": "2026-04-15",
+    "channel": "tienda",
+    "candidate_net_cents": 3495960,
+    "events": 27,
+    "mean_event_cents": 277192.962962963
+  },
+  {
+    "day": "2026-04-15",
+    "channel": "web",
+    "candidate_net_cents": 7315680,
+    "events": 84,
+    "mean_event_cents": 210338.63095238095
+  },
+  {
+    "day": "2026-04-16",
+    "channel": "movil",
+    "candidate_net_cents": 5840130,
+    "events": 60,
+    "mean_event_cents": 203977.0
+  },
+  {
+    "day": "2026-04-16",
+    "channel": "tienda",
+    "candidate_net_cents": 4898120,
+    "events": 50,
+    "mean_event_cents": 234068.2
+  },
+  {
+    "day": "2026-04-16",
+    "channel": "web",
+    "candidate_net_cents": 10496890,
+    "events": 102,
+    "mean_event_cents": 222887.35294117648
+  },
+  {
+    "day": "2026-04-17",
+    "channel": "movil",
+    "candidate_net_cents": 5560075,
+    "events": 63,
+    "mean_event_cents": 216826.11111111112
+  },
+  {
+    "day": "2026-04-17",
+    "channel": "tienda",
+    "candidate_net_cents": 2010540,
+    "events": 28,
+    "mean_event_cents": 196802.14285714287
+  },
+  {
+    "day": "2026-04-17",
+    "channel": "web",
+    "candidate_net_cents": 7424515,
+    "events": 100,
+    "mean_event_cents": 177345.0
+  },
+  {
+    "day": "2026-04-18",
+    "channel": "movil",
+    "candidate_net_cents": 4741605,
+    "events": 50,
+    "mean_event_cents": 208455.5
+  },
+  {
+    "day": "2026-04-18",
+    "channel": "tienda",
+    "candidate_net_cents": 2241080,
+    "events": 32,
+    "mean_event_cents": 194857.5
+  },
+  {
+    "day": "2026-04-18",
+    "channel": "web",
+    "candidate_net_cents": 7018430,
+    "events": 90,
+    "mean_event_cents": 178735.5
+  },
+  {
+    "day": "2026-04-19",
+    "channel": "movil",
+    "candidate_net_cents": 5154925,
+    "events": 59,
+    "mean_event_cents": 212005.16949152542
+  },
+  {
+    "day": "2026-04-19",
+    "channel": "tienda",
+    "candidate_net_cents": 4025600,
+    "events": 44,
+    "mean_event_cents": 205986.70454545456
+  },
+  {
+    "day": "2026-04-19",
+    "channel": "web",
+    "candidate_net_cents": 7996610,
+    "events": 103,
+    "mean_event_cents": 192612.6213592233
+  },
+  {
+    "day": "2026-04-20",
+    "channel": "movil",
+    "candidate_net_cents": 7415290,
+    "events": 74,
+    "mean_event_cents": 220596.35135135136
+  },
+  {
+    "day": "2026-04-20",
+    "channel": "tienda",
+    "candidate_net_cents": 2215375,
+    "events": 15,
+    "mean_event_cents": 273684.6666666667
+  },
+  {
+    "day": "2026-04-20",
+    "channel": "web",
+    "candidate_net_cents": 5979995,
+    "events": 94,
+    "mean_event_cents": 165294.04255319148
+  },
+  {
+    "day": "2026-04-21",
+    "channel": "movil",
+    "candidate_net_cents": 3384920,
+    "events": 59,
+    "mean_event_cents": 157583.81355932204
+  },
+  {
+    "day": "2026-04-21",
+    "channel": "tienda",
+    "candidate_net_cents": 2595525,
+    "events": 27,
+    "mean_event_cents": 199127.96296296295
+  },
+  {
+    "day": "2026-04-21",
+    "channel": "web",
+    "candidate_net_cents": 8535860,
+    "events": 106,
+    "mean_event_cents": 195523.20754716982
+  },
+  {
+    "day": "2026-04-22",
+    "channel": "movil",
+    "candidate_net_cents": 7579765,
+    "events": 73,
+    "mean_event_cents": 219285.8904109589
+  },
+  {
+    "day": "2026-04-22",
+    "channel": "tienda",
+    "candidate_net_cents": 2488250,
+    "events": 25,
+    "mean_event_cents": 243654.6
+  },
+  {
+    "day": "2026-04-22",
+    "channel": "web",
+    "candidate_net_cents": 6162730,
+    "events": 83,
+    "mean_event_cents": 167915.1204819277
+  },
+  {
+    "day": "2026-04-23",
+    "channel": "movil",
+    "candidate_net_cents": 5554415,
+    "events": 63,
+    "mean_event_cents": 214250.79365079364
+  },
+  {
+    "day": "2026-04-23",
+    "channel": "tienda",
+    "candidate_net_cents": 1758465,
+    "events": 32,
+    "mean_event_cents": 153856.25
+  },
+  {
+    "day": "2026-04-23",
+    "channel": "web",
+    "candidate_net_cents": 7897260,
+    "events": 107,
+    "mean_event_cents": 167621.77570093458
+  },
+  {
+    "day": "2026-04-24",
+    "channel": "movil",
+    "candidate_net_cents": 7187620,
+    "events": 62,
+    "mean_event_cents": 266494.5967741936
+  },
+  {
+    "day": "2026-04-24",
+    "channel": "tienda",
+    "candidate_net_cents": 894020,
+    "events": 22,
+    "mean_event_cents": 108847.27272727272
+  },
+  {
+    "day": "2026-04-24",
+    "channel": "web",
+    "candidate_net_cents": 7048860,
+    "events": 79,
+    "mean_event_cents": 217511.77215189874
+  },
+  {
+    "day": "2026-04-25",
+    "channel": "movil",
+    "candidate_net_cents": 5831225,
+    "events": 70,
+    "mean_event_cents": 191262.35714285713
+  },
+  {
+    "day": "2026-04-25",
+    "channel": "tienda",
+    "candidate_net_cents": 2165435,
+    "events": 30,
+    "mean_event_cents": 190008.16666666666
+  },
+  {
+    "day": "2026-04-25",
+    "channel": "web",
+    "candidate_net_cents": 5765195,
+    "events": 82,
+    "mean_event_cents": 182273.17073170733
+  },
+  {
+    "day": "2026-04-26",
+    "channel": "movil",
+    "candidate_net_cents": 6342565,
+    "events": 90,
+    "mean_event_cents": 186758.72222222222
+  },
+  {
+    "day": "2026-04-26",
+    "channel": "tienda",
+    "candidate_net_cents": 2362600,
+    "events": 26,
+    "mean_event_cents": 203468.46153846153
+  },
+  {
+    "day": "2026-04-26",
+    "channel": "web",
+    "candidate_net_cents": 8401280,
+    "events": 103,
+    "mean_event_cents": 204550.7281553398
+  },
+  {
+    "day": "2026-04-27",
+    "channel": "movil",
+    "candidate_net_cents": 5649520,
+    "events": 65,
+    "mean_event_cents": 199747.38461538462
+  },
+  {
+    "day": "2026-04-27",
+    "channel": "tienda",
+    "candidate_net_cents": 2956180,
+    "events": 35,
+    "mean_event_cents": 228137.14285714287
+  },
+  {
+    "day": "2026-04-27",
+    "channel": "web",
+    "candidate_net_cents": 6844690,
+    "events": 83,
+    "mean_event_cents": 208359.51807228915
+  },
+  {
+    "day": "2026-04-28",
+    "channel": "movil",
+    "candidate_net_cents": 4418190,
+    "events": 51,
+    "mean_event_cents": 203497.0588235294
+  },
+  {
+    "day": "2026-04-28",
+    "channel": "tienda",
+    "candidate_net_cents": 2925180,
+    "events": 31,
+    "mean_event_cents": 201256.7741935484
+  },
+  {
+    "day": "2026-04-28",
+    "channel": "web",
+    "candidate_net_cents": 7207240,
+    "events": 99,
+    "mean_event_cents": 173709.0404040404
+  },
+  {
+    "day": "2026-04-29",
+    "channel": "movil",
+    "candidate_net_cents": 4592980,
+    "events": 60,
+    "mean_event_cents": 184859.16666666666
+  },
+  {
+    "day": "2026-04-29",
+    "channel": "tienda",
+    "candidate_net_cents": 1540365,
+    "events": 23,
+    "mean_event_cents": 143769.13043478262
+  },
+  {
+    "day": "2026-04-29",
+    "channel": "web",
+    "candidate_net_cents": 9993750,
+    "events": 112,
+    "mean_event_cents": 215945.04464285713
+  },
+  {
+    "day": "2026-04-30",
+    "channel": "movil",
+    "candidate_net_cents": 4883290,
+    "events": 63,
+    "mean_event_cents": 179046.42857142858
+  },
+  {
+    "day": "2026-04-30",
+    "channel": "tienda",
+    "candidate_net_cents": 3068175,
+    "events": 25,
+    "mean_event_cents": 268058.8
+  },
+  {
+    "day": "2026-04-30",
+    "channel": "web",
+    "candidate_net_cents": 7086710,
+    "events": 100,
+    "mean_event_cents": 175613.65
+  },
+  {
+    "day": "2026-05-01",
+    "channel": "movil",
+    "candidate_net_cents": 4549640,
+    "events": 63,
+    "mean_event_cents": 189275.7142857143
+  },
+  {
+    "day": "2026-05-01",
+    "channel": "tienda",
+    "candidate_net_cents": 2651125,
+    "events": 34,
+    "mean_event_cents": 191585.73529411765
+  },
+  {
+    "day": "2026-05-01",
+    "channel": "web",
+    "candidate_net_cents": 4885820,
+    "events": 86,
+    "mean_event_cents": 168311.0465116279
+  },
+  {
+    "day": "2026-05-02",
+    "channel": "movil",
+    "candidate_net_cents": 7226175,
+    "events": 74,
+    "mean_event_cents": 202864.3918918919
+  },
+  {
+    "day": "2026-05-02",
+    "channel": "tienda",
+    "candidate_net_cents": 3650570,
+    "events": 33,
+    "mean_event_cents": 228553.9393939394
+  },
+  {
+    "day": "2026-05-02",
+    "channel": "web",
+    "candidate_net_cents": 8529255,
+    "events": 105,
+    "mean_event_cents": 211160.2857142857
+  },
+  {
+    "day": "2026-05-03",
+    "channel": "movil",
+    "candidate_net_cents": 6874625,
+    "events": 52,
+    "mean_event_cents": 278361.73076923075
+  },
+  {
+    "day": "2026-05-03",
+    "channel": "tienda",
+    "candidate_net_cents": 2048280,
+    "events": 19,
+    "mean_event_cents": 253139.2105263158
+  },
+  {
+    "day": "2026-05-03",
+    "channel": "web",
+    "candidate_net_cents": 5523575,
+    "events": 84,
+    "mean_event_cents": 193063.75
+  },
+  {
+    "day": "2026-05-04",
+    "channel": "movil",
+    "candidate_net_cents": 7093345,
+    "events": 71,
+    "mean_event_cents": 227614.3661971831
+  },
+  {
+    "day": "2026-05-04",
+    "channel": "tienda",
+    "candidate_net_cents": 1721010,
+    "events": 28,
+    "mean_event_cents": 159823.39285714287
+  },
+  {
+    "day": "2026-05-04",
+    "channel": "web",
+    "candidate_net_cents": 8281235,
+    "events": 85,
+    "mean_event_cents": 209347.35294117648
+  },
+  {
+    "day": "2026-05-05",
+    "channel": "movil",
+    "candidate_net_cents": 5404300,
+    "events": 66,
+    "mean_event_cents": 200737.80303030304
+  },
+  {
+    "day": "2026-05-05",
+    "channel": "tienda",
+    "candidate_net_cents": 3399520,
+    "events": 28,
+    "mean_event_cents": 257922.5
+  },
+  {
+    "day": "2026-05-05",
+    "channel": "web",
+    "candidate_net_cents": 8328925,
+    "events": 94,
+    "mean_event_cents": 205487.44680851063
+  },
+  {
+    "day": "2026-05-06",
+    "channel": "movil",
+    "candidate_net_cents": 3952825,
+    "events": 53,
+    "mean_event_cents": 171997.2641509434
+  },
+  {
+    "day": "2026-05-06",
+    "channel": "tienda",
+    "candidate_net_cents": 2443950,
+    "events": 32,
+    "mean_event_cents": 152746.875
+  },
+  {
+    "day": "2026-05-06",
+    "channel": "web",
+    "candidate_net_cents": 6469620,
+    "events": 96,
+    "mean_event_cents": 180332.96875
+  },
+  {
+    "day": "2026-05-07",
+    "channel": "movil",
+    "candidate_net_cents": 4630810,
+    "events": 44,
+    "mean_event_cents": 243937.95454545456
+  },
+  {
+    "day": "2026-05-07",
+    "channel": "tienda",
+    "candidate_net_cents": 2199050,
+    "events": 18,
+    "mean_event_cents": 258176.94444444444
+  },
+  {
+    "day": "2026-05-07",
+    "channel": "web",
+    "candidate_net_cents": 12980665,
+    "events": 124,
+    "mean_event_cents": 228006.57258064515
+  },
+  {
+    "day": "2026-05-08",
+    "channel": "movil",
+    "candidate_net_cents": 5237640,
+    "events": 71,
+    "mean_event_cents": 174885.77464788733
+  },
+  {
+    "day": "2026-05-08",
+    "channel": "tienda",
+    "candidate_net_cents": 1981475,
+    "events": 30,
+    "mean_event_cents": 171814.33333333334
+  },
+  {
+    "day": "2026-05-08",
+    "channel": "web",
+    "candidate_net_cents": 5855190,
+    "events": 79,
+    "mean_event_cents": 189262.84810126582
+  },
+  {
+    "day": "2026-05-09",
+    "channel": "movil",
+    "candidate_net_cents": 5311410,
+    "events": 64,
+    "mean_event_cents": 195067.65625
+  },
+  {
+    "day": "2026-05-09",
+    "channel": "tienda",
+    "candidate_net_cents": 1766475,
+    "events": 21,
+    "mean_event_cents": 199718.09523809524
+  },
+  {
+    "day": "2026-05-09",
+    "channel": "web",
+    "candidate_net_cents": 10919370,
+    "events": 104,
+    "mean_event_cents": 241135.04807692306
+  },
+  {
+    "day": "2026-05-10",
+    "channel": "movil",
+    "candidate_net_cents": 7522245,
+    "events": 82,
+    "mean_event_cents": 231083.0487804878
+  },
+  {
+    "day": "2026-05-10",
+    "channel": "tienda",
+    "candidate_net_cents": 2911205,
+    "events": 31,
+    "mean_event_cents": 211553.87096774194
+  },
+  {
+    "day": "2026-05-10",
+    "channel": "web",
+    "candidate_net_cents": 9732110,
+    "events": 108,
+    "mean_event_cents": 200601.85185185185
+  },
+  {
+    "day": "2026-05-11",
+    "channel": "movil",
+    "candidate_net_cents": 7237395,
+    "events": 77,
+    "mean_event_cents": 202212.66233766233
+  },
+  {
+    "day": "2026-05-11",
+    "channel": "tienda",
+    "candidate_net_cents": 3202090,
+    "events": 30,
+    "mean_event_cents": 262967.6666666667
+  },
+  {
+    "day": "2026-05-11",
+    "channel": "web",
+    "candidate_net_cents": 6215430,
+    "events": 100,
+    "mean_event_cents": 190044.6
+  },
+  {
+    "day": "2026-05-12",
+    "channel": "movil",
+    "candidate_net_cents": 5433745,
+    "events": 54,
+    "mean_event_cents": 228761.11111111112
+  },
+  {
+    "day": "2026-05-12",
+    "channel": "tienda",
+    "candidate_net_cents": 4042855,
+    "events": 35,
+    "mean_event_cents": 243498.85714285713
+  },
+  {
+    "day": "2026-05-12",
+    "channel": "web",
+    "candidate_net_cents": 7948100,
+    "events": 72,
+    "mean_event_cents": 227763.61111111112
+  },
+  {
+    "day": "2026-05-13",
+    "channel": "movil",
+    "candidate_net_cents": 7199040,
+    "events": 96,
+    "mean_event_cents": 183386.19791666666
+  },
+  {
+    "day": "2026-05-13",
+    "channel": "tienda",
+    "candidate_net_cents": 3299510,
+    "events": 43,
+    "mean_event_cents": 178177.2093023256
+  },
+  {
+    "day": "2026-05-13",
+    "channel": "web",
+    "candidate_net_cents": 5979520,
+    "events": 83,
+    "mean_event_cents": 191982.46987951806
+  },
+  {
+    "day": "2026-05-14",
+    "channel": "movil",
+    "candidate_net_cents": 5552195,
+    "events": 63,
+    "mean_event_cents": 197972.3015873016
+  },
+  {
+    "day": "2026-05-14",
+    "channel": "tienda",
+    "candidate_net_cents": 2440320,
+    "events": 34,
+    "mean_event_cents": 225657.9411764706
+  },
+  {
+    "day": "2026-05-14",
+    "channel": "web",
+    "candidate_net_cents": 7772695,
+    "events": 82,
+    "mean_event_cents": 201859.57317073172
+  },
+  {
+    "day": "2026-05-15",
+    "channel": "movil",
+    "candidate_net_cents": 4603520,
+    "events": 69,
+    "mean_event_cents": 174714.63768115942
+  },
+  {
+    "day": "2026-05-15",
+    "channel": "tienda",
+    "candidate_net_cents": 2927650,
+    "events": 39,
+    "mean_event_cents": 177007.8205128205
+  },
+  {
+    "day": "2026-05-15",
+    "channel": "web",
+    "candidate_net_cents": 7591815,
+    "events": 86,
+    "mean_event_cents": 210607.2093023256
+  },
+  {
+    "day": "2026-05-16",
+    "channel": "movil",
+    "candidate_net_cents": 5426270,
+    "events": 75,
+    "mean_event_cents": 183318.46666666667
+  },
+  {
+    "day": "2026-05-16",
+    "channel": "tienda",
+    "candidate_net_cents": 2266345,
+    "events": 32,
+    "mean_event_cents": 164924.375
+  },
+  {
+    "day": "2026-05-16",
+    "channel": "web",
+    "candidate_net_cents": 8516315,
+    "events": 97,
+    "mean_event_cents": 203190.51546391752
+  },
+  {
+    "day": "2026-05-17",
+    "channel": "movil",
+    "candidate_net_cents": 3899300,
+    "events": 66,
+    "mean_event_cents": 151974.62121212122
+  },
+  {
+    "day": "2026-05-17",
+    "channel": "tienda",
+    "candidate_net_cents": 2322125,
+    "events": 27,
+    "mean_event_cents": 223372.77777777778
+  },
+  {
+    "day": "2026-05-17",
+    "channel": "web",
+    "candidate_net_cents": 6982280,
+    "events": 99,
+    "mean_event_cents": 168286.0606060606
+  },
+  {
+    "day": "2026-05-18",
+    "channel": "movil",
+    "candidate_net_cents": 3380280,
+    "events": 61,
+    "mean_event_cents": 172994.59016393442
+  },
+  {
+    "day": "2026-05-18",
+    "channel": "tienda",
+    "candidate_net_cents": 2664710,
+    "events": 32,
+    "mean_event_cents": 204912.8125
+  },
+  {
+    "day": "2026-05-18",
+    "channel": "web",
+    "candidate_net_cents": 8367500,
+    "events": 97,
+    "mean_event_cents": 216537.11340206186
+  },
+  {
+    "day": "2026-05-19",
+    "channel": "movil",
+    "candidate_net_cents": 3422245,
+    "events": 50,
+    "mean_event_cents": 192243.5
+  },
+  {
+    "day": "2026-05-19",
+    "channel": "tienda",
+    "candidate_net_cents": 1382085,
+    "events": 19,
+    "mean_event_cents": 165727.1052631579
+  },
+  {
+    "day": "2026-05-19",
+    "channel": "web",
+    "candidate_net_cents": 8423045,
+    "events": 86,
+    "mean_event_cents": 213965.7558139535
+  },
+  {
+    "day": "2026-05-20",
+    "channel": "movil",
+    "candidate_net_cents": 6171215,
+    "events": 69,
+    "mean_event_cents": 221400.28985507245
+  },
+  {
+    "day": "2026-05-20",
+    "channel": "tienda",
+    "candidate_net_cents": 583655,
+    "events": 13,
+    "mean_event_cents": 104100.76923076923
+  },
+  {
+    "day": "2026-05-20",
+    "channel": "web",
+    "candidate_net_cents": 5132615,
+    "events": 75,
+    "mean_event_cents": 186531.4
+  },
+  {
+    "day": "2026-05-21",
+    "channel": "movil",
+    "candidate_net_cents": 4614855,
+    "events": 63,
+    "mean_event_cents": 175460.0
+  },
+  {
+    "day": "2026-05-21",
+    "channel": "tienda",
+    "candidate_net_cents": 6215640,
+    "events": 35,
+    "mean_event_cents": 366539.4285714286
+  },
+  {
+    "day": "2026-05-21",
+    "channel": "web",
+    "candidate_net_cents": 8114370,
+    "events": 91,
+    "mean_event_cents": 207662.1978021978
+  },
+  {
+    "day": "2026-05-22",
+    "channel": "movil",
+    "candidate_net_cents": 2883220,
+    "events": 44,
+    "mean_event_cents": 167689.6590909091
+  },
+  {
+    "day": "2026-05-22",
+    "channel": "tienda",
+    "candidate_net_cents": 1325360,
+    "events": 22,
+    "mean_event_cents": 178888.86363636365
+  },
+  {
+    "day": "2026-05-22",
+    "channel": "web",
+    "candidate_net_cents": 11213110,
+    "events": 106,
+    "mean_event_cents": 237552.83018867925
+  },
+  {
+    "day": "2026-05-23",
+    "channel": "movil",
+    "candidate_net_cents": 3372870,
+    "events": 56,
+    "mean_event_cents": 182525.0
+  },
+  {
+    "day": "2026-05-23",
+    "channel": "tienda",
+    "candidate_net_cents": 2928335,
+    "events": 26,
+    "mean_event_cents": 261603.26923076922
+  },
+  {
+    "day": "2026-05-23",
+    "channel": "web",
+    "candidate_net_cents": 8039015,
+    "events": 88,
+    "mean_event_cents": 212968.4659090909
+  },
+  {
+    "day": "2026-05-24",
+    "channel": "movil",
+    "candidate_net_cents": 6830680,
+    "events": 61,
+    "mean_event_cents": 233437.70491803277
+  },
+  {
+    "day": "2026-05-24",
+    "channel": "tienda",
+    "candidate_net_cents": 1824370,
+    "events": 28,
+    "mean_event_cents": 175451.7857142857
+  },
+  {
+    "day": "2026-05-24",
+    "channel": "web",
+    "candidate_net_cents": 9281785,
+    "events": 118,
+    "mean_event_cents": 181099.87288135593
+  },
+  {
+    "day": "2026-05-25",
+    "channel": "movil",
+    "candidate_net_cents": 4548005,
+    "events": 59,
+    "mean_event_cents": 171469.74576271186
+  },
+  {
+    "day": "2026-05-25",
+    "channel": "tienda",
+    "candidate_net_cents": 2758420,
+    "events": 28,
+    "mean_event_cents": 208527.67857142858
+  },
+  {
+    "day": "2026-05-25",
+    "channel": "web",
+    "candidate_net_cents": 6507975,
+    "events": 88,
+    "mean_event_cents": 176031.5909090909
+  },
+  {
+    "day": "2026-05-26",
+    "channel": "movil",
+    "candidate_net_cents": 5036290,
+    "events": 65,
+    "mean_event_cents": 177096.46153846153
+  },
+  {
+    "day": "2026-05-26",
+    "channel": "tienda",
+    "candidate_net_cents": 1818890,
+    "events": 25,
+    "mean_event_cents": 241160.2
+  },
+  {
+    "day": "2026-05-26",
+    "channel": "web",
+    "candidate_net_cents": 9611800,
+    "events": 116,
+    "mean_event_cents": 184727.1120689655
+  },
+  {
+    "day": "2026-05-27",
+    "channel": "movil",
+    "candidate_net_cents": 6416485,
+    "events": 71,
+    "mean_event_cents": 190284.22535211267
+  },
+  {
+    "day": "2026-05-27",
+    "channel": "tienda",
+    "candidate_net_cents": 1280130,
+    "events": 19,
+    "mean_event_cents": 161354.47368421053
+  },
+  {
+    "day": "2026-05-27",
+    "channel": "web",
+    "candidate_net_cents": 8552755,
+    "events": 99,
+    "mean_event_cents": 204075.25252525252
+  },
+  {
+    "day": "2026-05-28",
+    "channel": "movil",
+    "candidate_net_cents": 1806730,
+    "events": 66,
+    "mean_event_cents": 123315.0
+  },
+  {
+    "day": "2026-05-28",
+    "channel": "tienda",
+    "candidate_net_cents": 1040000,
+    "events": 26,
+    "mean_event_cents": 145616.92307692306
+  },
+  {
+    "day": "2026-05-28",
+    "channel": "web",
+    "candidate_net_cents": 8112034,
+    "events": 104,
+    "mean_event_cents": 189989.76923076922
+  },
+  {
+    "day": "2026-05-29",
+    "channel": "movil",
+    "candidate_net_cents": 5987300,
+    "events": 71,
+    "mean_event_cents": 207565.42253521126
+  },
+  {
+    "day": "2026-05-29",
+    "channel": "tienda",
+    "candidate_net_cents": 3058620,
+    "events": 31,
+    "mean_event_cents": 212786.12903225806
+  },
+  {
+    "day": "2026-05-29",
+    "channel": "web",
+    "candidate_net_cents": 8126890,
+    "events": 93,
+    "mean_event_cents": 195090.91397849462
+  },
+  {
+    "day": "2026-05-30",
+    "channel": "movil",
+    "candidate_net_cents": 3760035,
+    "events": 62,
+    "mean_event_cents": 150071.7741935484
+  },
+  {
+    "day": "2026-05-30",
+    "channel": "tienda",
+    "candidate_net_cents": 404245,
+    "events": 18,
+    "mean_event_cents": 127746.94444444444
+  },
+  {
+    "day": "2026-05-30",
+    "channel": "web",
+    "candidate_net_cents": 10644575,
+    "events": 107,
+    "mean_event_cents": 213951.63551401868
+  },
+  {
+    "day": "2026-05-31",
+    "channel": "movil",
+    "candidate_net_cents": 2954700,
+    "events": 55,
+    "mean_event_cents": 141222.72727272726
+  },
+  {
+    "day": "2026-05-31",
+    "channel": "tienda",
+    "candidate_net_cents": 1447865,
+    "events": 16,
+    "mean_event_cents": 208471.875
+  },
+  {
+    "day": "2026-05-31",
+    "channel": "web",
+    "candidate_net_cents": 8090005,
+    "events": 87,
+    "mean_event_cents": 219047.7011494253
+  },
+  {
+    "day": "2026-06-01",
+    "channel": "movil",
+    "candidate_net_cents": 5521670,
+    "events": 68,
+    "mean_event_cents": 200888.9705882353
+  },
+  {
+    "day": "2026-06-01",
+    "channel": "tienda",
+    "candidate_net_cents": 2618490,
+    "events": 28,
+    "mean_event_cents": 235417.32142857142
+  },
+  {
+    "day": "2026-06-01",
+    "channel": "web",
+    "candidate_net_cents": 6111960,
+    "events": 82,
+    "mean_event_cents": 190453.0487804878
+  },
+  {
+    "day": "2026-06-02",
+    "channel": "movil",
+    "candidate_net_cents": 4829340,
+    "events": 53,
+    "mean_event_cents": 219846.79245283018
+  },
+  {
+    "day": "2026-06-02",
+    "channel": "tienda",
+    "candidate_net_cents": 1757610,
+    "events": 17,
+    "mean_event_cents": 191962.9411764706
+  },
+  {
+    "day": "2026-06-02",
+    "channel": "web",
+    "candidate_net_cents": 5819820,
+    "events": 82,
+    "mean_event_cents": 176297.25609756098
+  },
+  {
+    "day": "2026-06-03",
+    "channel": "movil",
+    "candidate_net_cents": 6018345,
+    "events": 60,
+    "mean_event_cents": 222192.91666666666
+  },
+  {
+    "day": "2026-06-03",
+    "channel": "tienda",
+    "candidate_net_cents": 1365935,
+    "events": 21,
+    "mean_event_cents": 205339.7619047619
+  },
+  {
+    "day": "2026-06-03",
+    "channel": "web",
+    "candidate_net_cents": 8375060,
+    "events": 90,
+    "mean_event_cents": 216821.44444444444
+  },
+  {
+    "day": "2026-06-04",
+    "channel": "movil",
+    "candidate_net_cents": 5588350,
+    "events": 54,
+    "mean_event_cents": 245764.25925925927
+  },
+  {
+    "day": "2026-06-04",
+    "channel": "tienda",
+    "candidate_net_cents": 1598330,
+    "events": 22,
+    "mean_event_cents": 185905.22727272726
+  },
+  {
+    "day": "2026-06-04",
+    "channel": "web",
+    "candidate_net_cents": 9349000,
+    "events": 101,
+    "mean_event_cents": 202907.8712871287
+  },
+  {
+    "day": "2026-06-05",
+    "channel": "movil",
+    "candidate_net_cents": 6418530,
+    "events": 72,
+    "mean_event_cents": 186596.38888888888
+  },
+  {
+    "day": "2026-06-05",
+    "channel": "tienda",
+    "candidate_net_cents": 2292985,
+    "events": 27,
+    "mean_event_cents": 170763.7037037037
+  },
+  {
+    "day": "2026-06-05",
+    "channel": "web",
+    "candidate_net_cents": 10808295,
+    "events": 109,
+    "mean_event_cents": 215407.01834862385
+  },
+  {
+    "day": "2026-06-06",
+    "channel": "movil",
+    "candidate_net_cents": 4855195,
+    "events": 46,
+    "mean_event_cents": 231297.60869565216
+  },
+  {
+    "day": "2026-06-06",
+    "channel": "tienda",
+    "candidate_net_cents": 1614620,
+    "events": 23,
+    "mean_event_cents": 189598.69565217392
+  },
+  {
+    "day": "2026-06-06",
+    "channel": "web",
+    "candidate_net_cents": 5835085,
+    "events": 81,
+    "mean_event_cents": 174672.28395061727
+  },
+  {
+    "day": "2026-06-07",
+    "channel": "movil",
+    "candidate_net_cents": 7049775,
+    "events": 90,
+    "mean_event_cents": 177107.27777777778
+  },
+  {
+    "day": "2026-06-07",
+    "channel": "tienda",
+    "candidate_net_cents": 3668325,
+    "events": 35,
+    "mean_event_cents": 242928.7142857143
+  },
+  {
+    "day": "2026-06-07",
+    "channel": "web",
+    "candidate_net_cents": 7802930,
+    "events": 86,
+    "mean_event_cents": 206607.55813953487
+  },
+  {
+    "day": "2026-06-08",
+    "channel": "movil",
+    "candidate_net_cents": 7198935,
+    "events": 79,
+    "mean_event_cents": 207407.6582278481
+  },
+  {
+    "day": "2026-06-08",
+    "channel": "tienda",
+    "candidate_net_cents": 2637980,
+    "events": 24,
+    "mean_event_cents": 251322.08333333334
+  },
+  {
+    "day": "2026-06-08",
+    "channel": "web",
+    "candidate_net_cents": 10669575,
+    "events": 93,
+    "mean_event_cents": 245624.08602150538
+  },
+  {
+    "day": "2026-06-09",
+    "channel": "movil",
+    "candidate_net_cents": 6432535,
+    "events": 78,
+    "mean_event_cents": 185953.84615384616
+  },
+  {
+    "day": "2026-06-09",
+    "channel": "tienda",
+    "candidate_net_cents": 3107185,
+    "events": 32,
+    "mean_event_cents": 203638.28125
+  },
+  {
+    "day": "2026-06-09",
+    "channel": "web",
+    "candidate_net_cents": 8009450,
+    "events": 104,
+    "mean_event_cents": 198685.625
+  },
+  {
+    "day": "2026-06-10",
+    "channel": "movil",
+    "candidate_net_cents": 5788315,
+    "events": 61,
+    "mean_event_cents": 214451.31147540984
+  },
+  {
+    "day": "2026-06-10",
+    "channel": "tienda",
+    "candidate_net_cents": 2409360,
+    "events": 30,
+    "mean_event_cents": 167897.83333333334
+  },
+  {
+    "day": "2026-06-10",
+    "channel": "web",
+    "candidate_net_cents": 8373545,
+    "events": 112,
+    "mean_event_cents": 182408.79464285713
+  },
+  {
+    "day": "2026-06-11",
+    "channel": "movil",
+    "candidate_net_cents": 6908195,
+    "events": 65,
+    "mean_event_cents": 230572.84615384616
+  },
+  {
+    "day": "2026-06-11",
+    "channel": "tienda",
+    "candidate_net_cents": 3446190,
+    "events": 36,
+    "mean_event_cents": 201355.83333333334
+  },
+  {
+    "day": "2026-06-11",
+    "channel": "web",
+    "candidate_net_cents": 9781775,
+    "events": 100,
+    "mean_event_cents": 226183.95
+  },
+  {
+    "day": "2026-06-12",
+    "channel": "movil",
+    "candidate_net_cents": 5889540,
+    "events": 78,
+    "mean_event_cents": 190715.5128205128
+  },
+  {
+    "day": "2026-06-12",
+    "channel": "tienda",
+    "candidate_net_cents": 1590445,
+    "events": 22,
+    "mean_event_cents": 201887.27272727274
+  },
+  {
+    "day": "2026-06-12",
+    "channel": "web",
+    "candidate_net_cents": 6766350,
+    "events": 94,
+    "mean_event_cents": 185883.72340425532
+  },
+  {
+    "day": "2026-06-13",
+    "channel": "movil",
+    "candidate_net_cents": 6942245,
+    "events": 72,
+    "mean_event_cents": 233607.5
+  },
+  {
+    "day": "2026-06-13",
+    "channel": "tienda",
+    "candidate_net_cents": 2766640,
+    "events": 37,
+    "mean_event_cents": 163316.2162162162
+  },
+  {
+    "day": "2026-06-13",
+    "channel": "web",
+    "candidate_net_cents": 9102215,
+    "events": 89,
+    "mean_event_cents": 240857.92134831462
+  },
+  {
+    "day": "2026-06-14",
+    "channel": "movil",
+    "candidate_net_cents": 7075535,
+    "events": 70,
+    "mean_event_cents": 231800.07142857142
+  },
+  {
+    "day": "2026-06-14",
+    "channel": "tienda",
+    "candidate_net_cents": 3325105,
+    "events": 29,
+    "mean_event_cents": 247363.62068965516
+  },
+  {
+    "day": "2026-06-14",
+    "channel": "web",
+    "candidate_net_cents": 8468975,
+    "events": 71,
+    "mean_event_cents": 255287.67605633804
+  },
+  {
+    "day": "2026-06-15",
+    "channel": "movil",
+    "candidate_net_cents": 4579980,
+    "events": 62,
+    "mean_event_cents": 172796.37096774194
+  },
+  {
+    "day": "2026-06-15",
+    "channel": "tienda",
+    "candidate_net_cents": 356060,
+    "events": 15,
+    "mean_event_cents": 89683.66666666667
+  },
+  {
+    "day": "2026-06-15",
+    "channel": "web",
+    "candidate_net_cents": 11059990,
+    "events": 107,
+    "mean_event_cents": 224108.8785046729
+  },
+  {
+    "day": "2026-06-16",
+    "channel": "movil",
+    "candidate_net_cents": 6371925,
+    "events": 77,
+    "mean_event_cents": 188824.22077922078
+  },
+  {
+    "day": "2026-06-16",
+    "channel": "tienda",
+    "candidate_net_cents": 1908600,
+    "events": 28,
+    "mean_event_cents": 176237.85714285713
+  },
+  {
+    "day": "2026-06-16",
+    "channel": "web",
+    "candidate_net_cents": 6913010,
+    "events": 81,
+    "mean_event_cents": 218630.37037037036
+  },
+  {
+    "day": "2026-06-17",
+    "channel": "movil",
+    "candidate_net_cents": 5946995,
+    "events": 75,
+    "mean_event_cents": 202983.66666666666
+  },
+  {
+    "day": "2026-06-17",
+    "channel": "tienda",
+    "candidate_net_cents": 2880070,
+    "events": 32,
+    "mean_event_cents": 207336.25
+  },
+  {
+    "day": "2026-06-17",
+    "channel": "web",
+    "candidate_net_cents": 8886000,
+    "events": 94,
+    "mean_event_cents": 208983.29787234042
+  },
+  {
+    "day": "2026-06-18",
+    "channel": "movil",
+    "candidate_net_cents": 6595080,
+    "events": 62,
+    "mean_event_cents": 236871.93548387097
+  },
+  {
+    "day": "2026-06-18",
+    "channel": "tienda",
+    "candidate_net_cents": 3323355,
+    "events": 38,
+    "mean_event_cents": 209242.1052631579
+  },
+  {
+    "day": "2026-06-18",
+    "channel": "web",
+    "candidate_net_cents": 7535850,
+    "events": 95,
+    "mean_event_cents": 193354.15789473685
+  },
+  {
+    "day": "2026-06-19",
+    "channel": "movil",
+    "candidate_net_cents": 2183315,
+    "events": 51,
+    "mean_event_cents": 142781.3725490196
+  },
+  {
+    "day": "2026-06-19",
+    "channel": "tienda",
+    "candidate_net_cents": 988415,
+    "events": 17,
+    "mean_event_cents": 133479.41176470587
+  },
+  {
+    "day": "2026-06-19",
+    "channel": "web",
+    "candidate_net_cents": 11625335,
+    "events": 107,
+    "mean_event_cents": 255640.3738317757
+  },
+  {
+    "day": "2026-06-20",
+    "channel": "movil",
+    "candidate_net_cents": 5500705,
+    "events": 65,
+    "mean_event_cents": 188765.23076923078
+  },
+  {
+    "day": "2026-06-20",
+    "channel": "tienda",
+    "candidate_net_cents": 1886580,
+    "events": 28,
+    "mean_event_cents": 213668.75
+  },
+  {
+    "day": "2026-06-20",
+    "channel": "web",
+    "candidate_net_cents": 7858700,
+    "events": 108,
+    "mean_event_cents": 180600.78703703705
+  },
+  {
+    "day": "2026-06-21",
+    "channel": "movil",
+    "candidate_net_cents": 5572915,
+    "events": 62,
+    "mean_event_cents": 206139.51612903227
+  },
+  {
+    "day": "2026-06-21",
+    "channel": "tienda",
+    "candidate_net_cents": 2650120,
+    "events": 31,
+    "mean_event_cents": 196265.8064516129
+  },
+  {
+    "day": "2026-06-21",
+    "channel": "web",
+    "candidate_net_cents": 9833700,
+    "events": 100,
+    "mean_event_cents": 226516.7
+  },
+  {
+    "day": "2026-06-22",
+    "channel": "movil",
+    "candidate_net_cents": 5686885,
+    "events": 65,
+    "mean_event_cents": 190651.07692307694
+  },
+  {
+    "day": "2026-06-22",
+    "channel": "tienda",
+    "candidate_net_cents": 2790430,
+    "events": 25,
+    "mean_event_cents": 223027.6
+  },
+  {
+    "day": "2026-06-22",
+    "channel": "web",
+    "candidate_net_cents": 7203955,
+    "events": 94,
+    "mean_event_cents": 193625.4255319149
+  },
+  {
+    "day": "2026-06-23",
+    "channel": "movil",
+    "candidate_net_cents": 3350615,
+    "events": 48,
+    "mean_event_cents": 191433.85416666666
+  },
+  {
+    "day": "2026-06-23",
+    "channel": "tienda",
+    "candidate_net_cents": 3357315,
+    "events": 39,
+    "mean_event_cents": 187911.41025641025
+  },
+  {
+    "day": "2026-06-23",
+    "channel": "web",
+    "candidate_net_cents": 8432695,
+    "events": 107,
+    "mean_event_cents": 184798.08411214955
+  },
+  {
+    "day": "2026-06-24",
+    "channel": "movil",
+    "candidate_net_cents": 6512500,
+    "events": 65,
+    "mean_event_cents": 223862.38461538462
+  },
+  {
+    "day": "2026-06-24",
+    "channel": "tienda",
+    "candidate_net_cents": 3043685,
+    "events": 40,
+    "mean_event_cents": 171713.0
+  },
+  {
+    "day": "2026-06-24",
+    "channel": "web",
+    "candidate_net_cents": 9081210,
+    "events": 102,
+    "mean_event_cents": 199987.54901960783
+  },
+  {
+    "day": "2026-06-25",
+    "channel": "movil",
+    "candidate_net_cents": 6774020,
+    "events": 67,
+    "mean_event_cents": 233081.19402985074
+  },
+  {
+    "day": "2026-06-25",
+    "channel": "tienda",
+    "candidate_net_cents": 2294795,
+    "events": 32,
+    "mean_event_cents": 175244.84375
+  },
+  {
+    "day": "2026-06-25",
+    "channel": "web",
+    "candidate_net_cents": 7020845,
+    "events": 78,
+    "mean_event_cents": 219442.37179487178
+  },
+  {
+    "day": "2026-06-26",
+    "channel": "movil",
+    "candidate_net_cents": 3984670,
+    "events": 65,
+    "mean_event_cents": 148504.46153846153
+  },
+  {
+    "day": "2026-06-26",
+    "channel": "tienda",
+    "candidate_net_cents": 1185290,
+    "events": 24,
+    "mean_event_cents": 150408.75
+  },
+  {
+    "day": "2026-06-26",
+    "channel": "web",
+    "candidate_net_cents": 7290505,
+    "events": 89,
+    "mean_event_cents": 200169.77528089887
+  },
+  {
+    "day": "2026-06-27",
+    "channel": "movil",
+    "candidate_net_cents": 3491620,
+    "events": 48,
+    "mean_event_cents": 183487.60416666666
+  },
+  {
+    "day": "2026-06-27",
+    "channel": "tienda",
+    "candidate_net_cents": 3017335,
+    "events": 30,
+    "mean_event_cents": 246503.5
+  },
+  {
+    "day": "2026-06-27",
+    "channel": "web",
+    "candidate_net_cents": 10048415,
+    "events": 96,
+    "mean_event_cents": 223135.3125
+  },
+  {
+    "day": "2026-06-28",
+    "channel": "movil",
+    "candidate_net_cents": 7117715,
+    "events": 85,
+    "mean_event_cents": 191292.64705882352
+  },
+  {
+    "day": "2026-06-28",
+    "channel": "tienda",
+    "candidate_net_cents": 4080155,
+    "events": 44,
+    "mean_event_cents": 197402.61363636365
+  },
+  {
+    "day": "2026-06-28",
+    "channel": "web",
+    "candidate_net_cents": 9887360,
+    "events": 109,
+    "mean_event_cents": 210356.2385321101
+  },
+  {
+    "day": "2026-06-29",
+    "channel": "movil",
+    "candidate_net_cents": 2923065,
+    "events": 45,
+    "mean_event_cents": 197478.33333333334
+  },
+  {
+    "day": "2026-06-29",
+    "channel": "tienda",
+    "candidate_net_cents": 2150185,
+    "events": 23,
+    "mean_event_cents": 213002.1739130435
+  },
+  {
+    "day": "2026-06-29",
+    "channel": "web",
+    "candidate_net_cents": 7881685,
+    "events": 75,
+    "mean_event_cents": 229325.93333333332
+  },
+  {
+    "day": "2026-06-30",
+    "channel": "movil",
+    "candidate_net_cents": 7104125,
+    "events": 71,
+    "mean_event_cents": 213779.78873239437
+  },
+  {
+    "day": "2026-06-30",
+    "channel": "tienda",
+    "candidate_net_cents": 3013910,
+    "events": 42,
+    "mean_event_cents": 202966.90476190476
+  },
+  {
+    "day": "2026-06-30",
+    "channel": "web",
+    "candidate_net_cents": 8431225,
+    "events": 112,
+    "mean_event_cents": 189818.9732142857
+  },
+  {
+    "day": "2026-07-01",
+    "channel": "movil",
+    "candidate_net_cents": 5977620,
+    "events": 63,
+    "mean_event_cents": 211208.6507936508
+  },
+  {
+    "day": "2026-07-01",
+    "channel": "tienda",
+    "candidate_net_cents": 4497130,
+    "events": 53,
+    "mean_event_cents": 188660.0
+  },
+  {
+    "day": "2026-07-01",
+    "channel": "web",
+    "candidate_net_cents": 9135025,
+    "events": 105,
+    "mean_event_cents": 192102.2380952381
+  },
+  {
+    "day": "2026-07-02",
+    "channel": "movil",
+    "candidate_net_cents": 5199610,
+    "events": 52,
+    "mean_event_cents": 227954.90384615384
+  },
+  {
+    "day": "2026-07-02",
+    "channel": "tienda",
+    "candidate_net_cents": 2131150,
+    "events": 22,
+    "mean_event_cents": 205785.45454545456
+  },
+  {
+    "day": "2026-07-02",
+    "channel": "web",
+    "candidate_net_cents": 8914845,
+    "events": 99,
+    "mean_event_cents": 206725.40404040404
+  },
+  {
+    "day": "2026-07-03",
+    "channel": "movil",
+    "candidate_net_cents": 5906715,
+    "events": 66,
+    "mean_event_cents": 225085.0
+  },
+  {
+    "day": "2026-07-03",
+    "channel": "tienda",
+    "candidate_net_cents": 2801200,
+    "events": 30,
+    "mean_event_cents": 192368.66666666666
+  },
+  {
+    "day": "2026-07-03",
+    "channel": "web",
+    "candidate_net_cents": 7738305,
+    "events": 91,
+    "mean_event_cents": 215688.18681318683
+  },
+  {
+    "day": "2026-07-04",
+    "channel": "movil",
+    "candidate_net_cents": 6224510,
+    "events": 55,
+    "mean_event_cents": 238049.63636363635
+  },
+  {
+    "day": "2026-07-04",
+    "channel": "tienda",
+    "candidate_net_cents": 2730290,
+    "events": 32,
+    "mean_event_cents": 212137.5
+  },
+  {
+    "day": "2026-07-04",
+    "channel": "web",
+    "candidate_net_cents": 11251875,
+    "events": 99,
+    "mean_event_cents": 237909.54545454544
+  },
+  {
+    "day": "2026-07-05",
+    "channel": "movil",
+    "candidate_net_cents": 4984675,
+    "events": 59,
+    "mean_event_cents": 206272.45762711865
+  },
+  {
+    "day": "2026-07-05",
+    "channel": "tienda",
+    "candidate_net_cents": 3312090,
+    "events": 36,
+    "mean_event_cents": 205526.66666666666
+  },
+  {
+    "day": "2026-07-05",
+    "channel": "web",
+    "candidate_net_cents": 6177475,
+    "events": 62,
+    "mean_event_cents": 242803.62903225806
+  },
+  {
+    "day": "2026-07-06",
+    "channel": "movil",
+    "candidate_net_cents": 4816835,
+    "events": 53,
+    "mean_event_cents": 211744.5283018868
+  },
+  {
+    "day": "2026-07-06",
+    "channel": "tienda",
+    "candidate_net_cents": 2396645,
+    "events": 35,
+    "mean_event_cents": 175645.14285714287
+  },
+  {
+    "day": "2026-07-06",
+    "channel": "web",
+    "candidate_net_cents": 10000780,
+    "events": 100,
+    "mean_event_cents": 213556.75
+  },
+  {
+    "day": "2026-07-07",
+    "channel": "movil",
+    "candidate_net_cents": 6871980,
+    "events": 70,
+    "mean_event_cents": 220275.2857142857
+  },
+  {
+    "day": "2026-07-07",
+    "channel": "tienda",
+    "candidate_net_cents": 3216965,
+    "events": 31,
+    "mean_event_cents": 215294.03225806452
+  },
+  {
+    "day": "2026-07-07",
+    "channel": "web",
+    "candidate_net_cents": 5545090,
+    "events": 79,
+    "mean_event_cents": 177298.2911392405
+  },
+  {
+    "day": "2026-07-08",
+    "channel": "movil",
+    "candidate_net_cents": 5300405,
+    "events": 64,
+    "mean_event_cents": 212843.984375
+  },
+  {
+    "day": "2026-07-08",
+    "channel": "tienda",
+    "candidate_net_cents": 514610,
+    "events": 16,
+    "mean_event_cents": 135705.0
+  },
+  {
+    "day": "2026-07-08",
+    "channel": "web",
+    "candidate_net_cents": 5492100,
+    "events": 76,
+    "mean_event_cents": 184384.73684210525
+  },
+  {
+    "day": "2026-07-09",
+    "channel": "movil",
+    "candidate_net_cents": 3502585,
+    "events": 59,
+    "mean_event_cents": 168747.37288135593
+  },
+  {
+    "day": "2026-07-09",
+    "channel": "tienda",
+    "candidate_net_cents": 1813495,
+    "events": 17,
+    "mean_event_cents": 258415.88235294117
+  },
+  {
+    "day": "2026-07-09",
+    "channel": "web",
+    "candidate_net_cents": 6189160,
+    "events": 76,
+    "mean_event_cents": 192332.0394736842
+  },
+  {
+    "day": "2026-07-10",
+    "channel": "movil",
+    "candidate_net_cents": 5767005,
+    "events": 71,
+    "mean_event_cents": 210180.6338028169
+  },
+  {
+    "day": "2026-07-10",
+    "channel": "tienda",
+    "candidate_net_cents": 588580,
+    "events": 12,
+    "mean_event_cents": 196338.33333333334
+  },
+  {
+    "day": "2026-07-10",
+    "channel": "web",
+    "candidate_net_cents": 10362500,
+    "events": 111,
+    "mean_event_cents": 215229.1891891892
+  },
+  {
+    "day": "2026-07-11",
+    "channel": "movil",
+    "candidate_net_cents": 4469815,
+    "events": 48,
+    "mean_event_cents": 196372.5
+  },
+  {
+    "day": "2026-07-11",
+    "channel": "tienda",
+    "candidate_net_cents": 1666585,
+    "events": 28,
+    "mean_event_cents": 149142.14285714287
+  },
+  {
+    "day": "2026-07-11",
+    "channel": "web",
+    "candidate_net_cents": 6383885,
+    "events": 92,
+    "mean_event_cents": 164552.11956521738
+  },
+  {
+    "day": "2026-07-12",
+    "channel": "movil",
+    "candidate_net_cents": 3852925,
+    "events": 53,
+    "mean_event_cents": 174228.49056603774
+  },
+  {
+    "day": "2026-07-12",
+    "channel": "tienda",
+    "candidate_net_cents": 1732520,
+    "events": 28,
+    "mean_event_cents": 144336.25
+  },
+  {
+    "day": "2026-07-12",
+    "channel": "web",
+    "candidate_net_cents": 7175540,
+    "events": 97,
+    "mean_event_cents": 163310.412371134
+  },
+  {
+    "day": "2026-07-13",
+    "channel": "movil",
+    "candidate_net_cents": 2696905,
+    "events": 52,
+    "mean_event_cents": 137818.9423076923
+  },
+  {
+    "day": "2026-07-13",
+    "channel": "tienda",
+    "candidate_net_cents": 3356715,
+    "events": 37,
+    "mean_event_cents": 214548.37837837837
+  },
+  {
+    "day": "2026-07-13",
+    "channel": "web",
+    "candidate_net_cents": 6831590,
+    "events": 80,
+    "mean_event_cents": 204674.625
+  },
+  {
+    "day": "2026-07-14",
+    "channel": "movil",
+    "candidate_net_cents": 1858840,
+    "events": 30,
+    "mean_event_cents": 167340.16666666666
+  },
+  {
+    "day": "2026-07-14",
+    "channel": "tienda",
+    "candidate_net_cents": 3109415,
+    "events": 30,
+    "mean_event_cents": 232467.66666666666
+  },
+  {
+    "day": "2026-07-14",
+    "channel": "web",
+    "candidate_net_cents": 8781265,
+    "events": 105,
+    "mean_event_cents": 208297.80952380953
+  },
+  {
+    "day": "2026-07-15",
+    "channel": "movil",
+    "candidate_net_cents": 3672435,
+    "events": 60,
+    "mean_event_cents": 176943.5
+  },
+  {
+    "day": "2026-07-15",
+    "channel": "tienda",
+    "candidate_net_cents": 1556955,
+    "events": 18,
+    "mean_event_cents": 163107.5
+  },
+  {
+    "day": "2026-07-15",
+    "channel": "web",
+    "candidate_net_cents": 7258940,
+    "events": 98,
+    "mean_event_cents": 190365.76530612246
+  },
+  {
+    "day": "2026-07-16",
+    "channel": "movil",
+    "candidate_net_cents": 4834640,
+    "events": 57,
+    "mean_event_cents": 201067.98245614034
+  },
+  {
+    "day": "2026-07-16",
+    "channel": "tienda",
+    "candidate_net_cents": 3106775,
+    "events": 39,
+    "mean_event_cents": 222743.71794871794
+  },
+  {
+    "day": "2026-07-16",
+    "channel": "web",
+    "candidate_net_cents": 10664925,
+    "events": 125,
+    "mean_event_cents": 208105.16
+  },
+  {
+    "day": "2026-07-17",
+    "channel": "movil",
+    "candidate_net_cents": 4875420,
+    "events": 62,
+    "mean_event_cents": 205475.16129032258
+  },
+  {
+    "day": "2026-07-17",
+    "channel": "tienda",
+    "candidate_net_cents": 2659040,
+    "events": 39,
+    "mean_event_cents": 161061.28205128206
+  },
+  {
+    "day": "2026-07-17",
+    "channel": "web",
+    "candidate_net_cents": 9708135,
+    "events": 101,
+    "mean_event_cents": 218974.9504950495
+  },
+  {
+    "day": "2026-07-18",
+    "channel": "movil",
+    "candidate_net_cents": 6266025,
+    "events": 62,
+    "mean_event_cents": 222769.11290322582
+  },
+  {
+    "day": "2026-07-18",
+    "channel": "tienda",
+    "candidate_net_cents": 2439775,
+    "events": 30,
+    "mean_event_cents": 218625.83333333334
+  },
+  {
+    "day": "2026-07-18",
+    "channel": "web",
+    "candidate_net_cents": 7806075,
+    "events": 97,
+    "mean_event_cents": 203303.65979381444
+  },
+  {
+    "day": "2026-07-19",
+    "channel": "movil",
+    "candidate_net_cents": 3978180,
+    "events": 53,
+    "mean_event_cents": 187525.0
+  },
+  {
+    "day": "2026-07-19",
+    "channel": "tienda",
+    "candidate_net_cents": 2901960,
+    "events": 33,
+    "mean_event_cents": 198099.0909090909
+  },
+  {
+    "day": "2026-07-19",
+    "channel": "web",
+    "candidate_net_cents": 9428120,
+    "events": 92,
+    "mean_event_cents": 231645.21739130435
+  },
+  {
+    "day": "2026-07-20",
+    "channel": "movil",
+    "candidate_net_cents": 6377705,
+    "events": 57,
+    "mean_event_cents": 236118.0701754386
+  },
+  {
+    "day": "2026-07-20",
+    "channel": "tienda",
+    "candidate_net_cents": 1500100,
+    "events": 16,
+    "mean_event_cents": 233376.5625
+  },
+  {
+    "day": "2026-07-20",
+    "channel": "web",
+    "candidate_net_cents": 8152700,
+    "events": 91,
+    "mean_event_cents": 204231.7032967033
+  },
+  {
+    "day": "2026-07-21",
+    "channel": "movil",
+    "candidate_net_cents": 4358725,
+    "events": 59,
+    "mean_event_cents": 185540.6779661017
+  },
+  {
+    "day": "2026-07-21",
+    "channel": "tienda",
+    "candidate_net_cents": 2975625,
+    "events": 32,
+    "mean_event_cents": 197191.09375
+  },
+  {
+    "day": "2026-07-21",
+    "channel": "web",
+    "candidate_net_cents": 8223675,
+    "events": 111,
+    "mean_event_cents": 187635.63063063062
+  },
+  {
+    "day": "2026-07-22",
+    "channel": "movil",
+    "candidate_net_cents": 6443810,
+    "events": 71,
+    "mean_event_cents": 214190.91549295775
+  },
+  {
+    "day": "2026-07-22",
+    "channel": "tienda",
+    "candidate_net_cents": 2516195,
+    "events": 34,
+    "mean_event_cents": 182935.0
+  },
+  {
+    "day": "2026-07-22",
+    "channel": "web",
+    "candidate_net_cents": 8323920,
+    "events": 101,
+    "mean_event_cents": 210766.48514851485
+  },
+  {
+    "day": "2026-07-23",
+    "channel": "movil",
+    "candidate_net_cents": 4472750,
+    "events": 49,
+    "mean_event_cents": 227799.2857142857
+  },
+  {
+    "day": "2026-07-23",
+    "channel": "tienda",
+    "candidate_net_cents": 2502280,
+    "events": 29,
+    "mean_event_cents": 204933.44827586206
+  },
+  {
+    "day": "2026-07-23",
+    "channel": "web",
+    "candidate_net_cents": 10559215,
+    "events": 116,
+    "mean_event_cents": 196121.25
+  },
+  {
+    "day": "2026-07-24",
+    "channel": "movil",
+    "candidate_net_cents": 4903340,
+    "events": 56,
+    "mean_event_cents": 216888.48214285713
+  },
+  {
+    "day": "2026-07-24",
+    "channel": "tienda",
+    "candidate_net_cents": 2086115,
+    "events": 26,
+    "mean_event_cents": 163005.0
+  },
+  {
+    "day": "2026-07-24",
+    "channel": "web",
+    "candidate_net_cents": 4532485,
+    "events": 70,
+    "mean_event_cents": 195484.85714285713
+  },
+  {
+    "day": "2026-07-25",
+    "channel": "movil",
+    "candidate_net_cents": 4276380,
+    "events": 69,
+    "mean_event_cents": 160813.1884057971
+  },
+  {
+    "day": "2026-07-25",
+    "channel": "tienda",
+    "candidate_net_cents": 1729345,
+    "events": 24,
+    "mean_event_cents": 196827.5
+  },
+  {
+    "day": "2026-07-25",
+    "channel": "web",
+    "candidate_net_cents": 6004135,
+    "events": 86,
+    "mean_event_cents": 190076.7441860465
+  },
+  {
+    "day": "2026-07-26",
+    "channel": "movil",
+    "candidate_net_cents": 6940305,
+    "events": 66,
+    "mean_event_cents": 241825.22727272726
+  },
+  {
+    "day": "2026-07-26",
+    "channel": "tienda",
+    "candidate_net_cents": 2465275,
+    "events": 34,
+    "mean_event_cents": 181372.5
+  },
+  {
+    "day": "2026-07-26",
+    "channel": "web",
+    "candidate_net_cents": 8491560,
+    "events": 91,
+    "mean_event_cents": 227509.06593406593
+  },
+  {
+    "day": "2026-07-27",
+    "channel": "movil",
+    "candidate_net_cents": 4360295,
+    "events": 59,
+    "mean_event_cents": 196861.61016949153
+  },
+  {
+    "day": "2026-07-27",
+    "channel": "tienda",
+    "candidate_net_cents": 2397355,
+    "events": 31,
+    "mean_event_cents": 207434.67741935485
+  },
+  {
+    "day": "2026-07-27",
+    "channel": "web",
+    "candidate_net_cents": 9182870,
+    "events": 99,
+    "mean_event_cents": 210810.80808080808
+  },
+  {
+    "day": "2026-07-28",
+    "channel": "movil",
+    "candidate_net_cents": 4806190,
+    "events": 52,
+    "mean_event_cents": 216611.73076923078
+  },
+  {
+    "day": "2026-07-28",
+    "channel": "tienda",
+    "candidate_net_cents": 2425335,
+    "events": 38,
+    "mean_event_cents": 153738.68421052632
+  },
+  {
+    "day": "2026-07-28",
+    "channel": "web",
+    "candidate_net_cents": 10086785,
+    "events": 111,
+    "mean_event_cents": 208280.4054054054
+  },
+  {
+    "day": "2026-07-29",
+    "channel": "movil",
+    "candidate_net_cents": 5516775,
+    "events": 65,
+    "mean_event_cents": 185253.46153846153
+  },
+  {
+    "day": "2026-07-29",
+    "channel": "tienda",
+    "candidate_net_cents": 1794555,
+    "events": 22,
+    "mean_event_cents": 208905.68181818182
+  },
+  {
+    "day": "2026-07-29",
+    "channel": "web",
+    "candidate_net_cents": 2963115,
+    "events": 62,
+    "mean_event_cents": 166824.9193548387
+  },
+  {
+    "day": "2026-07-30",
+    "channel": "movil",
+    "candidate_net_cents": 6406545,
+    "events": 63,
+    "mean_event_cents": 221508.96825396825
+  },
+  {
+    "day": "2026-07-30",
+    "channel": "tienda",
+    "candidate_net_cents": 1486940,
+    "events": 23,
+    "mean_event_cents": 198740.65217391305
+  },
+  {
+    "day": "2026-07-30",
+    "channel": "web",
+    "candidate_net_cents": 11305115,
+    "events": 118,
+    "mean_event_cents": 210609.11016949153
+  },
+  {
+    "day": "2026-07-31",
+    "channel": "movil",
+    "candidate_net_cents": 5734360,
+    "events": 56,
+    "mean_event_cents": 234167.76785714287
+  },
+  {
+    "day": "2026-07-31",
+    "channel": "tienda",
+    "candidate_net_cents": 2274720,
+    "events": 26,
+    "mean_event_cents": 197220.0
+  },
+  {
+    "day": "2026-07-31",
+    "channel": "web",
+    "candidate_net_cents": 10274445,
+    "events": 98,
+    "mean_event_cents": 248252.39795918367
+  },
+  {
+    "day": "2026-08-01",
+    "channel": "movil",
+    "candidate_net_cents": 4457625,
+    "events": 64,
+    "mean_event_cents": 183044.765625
+  },
+  {
+    "day": "2026-08-01",
+    "channel": "tienda",
+    "candidate_net_cents": 1253565,
+    "events": 18,
+    "mean_event_cents": 145303.05555555556
+  },
+  {
+    "day": "2026-08-01",
+    "channel": "web",
+    "candidate_net_cents": 6943520,
+    "events": 86,
+    "mean_event_cents": 192368.60465116278
+  },
+  {
+    "day": "2026-08-02",
+    "channel": "movil",
+    "candidate_net_cents": 5256305,
+    "events": 55,
+    "mean_event_cents": 218156.0
+  },
+  {
+    "day": "2026-08-02",
+    "channel": "tienda",
+    "candidate_net_cents": 2522245,
+    "events": 23,
+    "mean_event_cents": 256609.78260869565
+  },
+  {
+    "day": "2026-08-02",
+    "channel": "web",
+    "candidate_net_cents": 8431080,
+    "events": 106,
+    "mean_event_cents": 178765.94339622642
+  },
+  {
+    "day": "2026-08-03",
+    "channel": "movil",
+    "candidate_net_cents": 4392525,
+    "events": 56,
+    "mean_event_cents": 186463.92857142858
+  },
+  {
+    "day": "2026-08-03",
+    "channel": "tienda",
+    "candidate_net_cents": 2696700,
+    "events": 30,
+    "mean_event_cents": 203793.0
+  },
+  {
+    "day": "2026-08-03",
+    "channel": "web",
+    "candidate_net_cents": 6966730,
+    "events": 99,
+    "mean_event_cents": 188496.66666666666
+  },
+  {
+    "day": "2026-08-04",
+    "channel": "movil",
+    "candidate_net_cents": 6706655,
+    "events": 76,
+    "mean_event_cents": 210118.3552631579
+  },
+  {
+    "day": "2026-08-04",
+    "channel": "tienda",
+    "candidate_net_cents": 2868755,
+    "events": 31,
+    "mean_event_cents": 228377.25806451612
+  },
+  {
+    "day": "2026-08-04",
+    "channel": "web",
+    "candidate_net_cents": 7761490,
+    "events": 96,
+    "mean_event_cents": 194471.66666666666
+  },
+  {
+    "day": "2026-08-05",
+    "channel": "movil",
+    "candidate_net_cents": 3819145,
+    "events": 56,
+    "mean_event_cents": 168020.0892857143
+  },
+  {
+    "day": "2026-08-05",
+    "channel": "tienda",
+    "candidate_net_cents": 3164500,
+    "events": 33,
+    "mean_event_cents": 238505.0
+  },
+  {
+    "day": "2026-08-05",
+    "channel": "web",
+    "candidate_net_cents": 6225045,
+    "events": 93,
+    "mean_event_cents": 167577.8494623656
+  },
+  {
+    "day": "2026-08-06",
+    "channel": "movil",
+    "candidate_net_cents": 2678780,
+    "events": 32,
+    "mean_event_cents": 211537.1875
+  },
+  {
+    "day": "2026-08-06",
+    "channel": "tienda",
+    "candidate_net_cents": 2283125,
+    "events": 35,
+    "mean_event_cents": 205340.85714285713
+  },
+  {
+    "day": "2026-08-06",
+    "channel": "web",
+    "candidate_net_cents": 11859735,
+    "events": 117,
+    "mean_event_cents": 226007.00854700856
+  },
+  {
+    "day": "2026-08-07",
+    "channel": "movil",
+    "candidate_net_cents": 3456710,
+    "events": 53,
+    "mean_event_cents": 166843.49056603774
+  },
+  {
+    "day": "2026-08-07",
+    "channel": "tienda",
+    "candidate_net_cents": 1712725,
+    "events": 28,
+    "mean_event_cents": 168770.0
+  },
+  {
+    "day": "2026-08-07",
+    "channel": "web",
+    "candidate_net_cents": 9115875,
+    "events": 118,
+    "mean_event_cents": 194896.31355932204
+  },
+  {
+    "day": "2026-08-08",
+    "channel": "movil",
+    "candidate_net_cents": 3498825,
+    "events": 53,
+    "mean_event_cents": 172120.94339622642
+  },
+  {
+    "day": "2026-08-08",
+    "channel": "tienda",
+    "candidate_net_cents": 2362265,
+    "events": 28,
+    "mean_event_cents": 185535.5357142857
+  },
+  {
+    "day": "2026-08-08",
+    "channel": "web",
+    "candidate_net_cents": 9395340,
+    "events": 101,
+    "mean_event_cents": 220776.8811881188
+  },
+  {
+    "day": "2026-08-09",
+    "channel": "movil",
+    "candidate_net_cents": 4820505,
+    "events": 63,
+    "mean_event_cents": 181421.5873015873
+  },
+  {
+    "day": "2026-08-09",
+    "channel": "tienda",
+    "candidate_net_cents": 2430785,
+    "events": 23,
+    "mean_event_cents": 237059.5652173913
+  },
+  {
+    "day": "2026-08-09",
+    "channel": "web",
+    "candidate_net_cents": 8873815,
+    "events": 107,
+    "mean_event_cents": 192554.48598130842
+  },
+  {
+    "day": "2026-08-10",
+    "channel": "movil",
+    "candidate_net_cents": 6394980,
+    "events": 78,
+    "mean_event_cents": 211918.65384615384
+  },
+  {
+    "day": "2026-08-10",
+    "channel": "tienda",
+    "candidate_net_cents": 1573385,
+    "events": 20,
+    "mean_event_cents": 185219.75
+  },
+  {
+    "day": "2026-08-10",
+    "channel": "web",
+    "candidate_net_cents": 8749585,
+    "events": 105,
+    "mean_event_cents": 194798.66666666666
+  },
+  {
+    "day": "2026-08-11",
+    "channel": "movil",
+    "candidate_net_cents": 5543420,
+    "events": 55,
+    "mean_event_cents": 203706.63636363635
+  },
+  {
+    "day": "2026-08-11",
+    "channel": "tienda",
+    "candidate_net_cents": 2579395,
+    "events": 30,
+    "mean_event_cents": 180974.66666666666
+  },
+  {
+    "day": "2026-08-11",
+    "channel": "web",
+    "candidate_net_cents": 8519010,
+    "events": 103,
+    "mean_event_cents": 201902.03883495147
+  },
+  {
+    "day": "2026-08-12",
+    "channel": "movil",
+    "candidate_net_cents": 5779685,
+    "events": 62,
+    "mean_event_cents": 214454.75806451612
+  },
+  {
+    "day": "2026-08-12",
+    "channel": "tienda",
+    "candidate_net_cents": 1843120,
+    "events": 28,
+    "mean_event_cents": 152693.57142857142
+  },
+  {
+    "day": "2026-08-12",
+    "channel": "web",
+    "candidate_net_cents": 7157395,
+    "events": 84,
+    "mean_event_cents": 205019.58333333334
+  },
+  {
+    "day": "2026-08-13",
+    "channel": "movil",
+    "candidate_net_cents": 6830335,
+    "events": 76,
+    "mean_event_cents": 213294.1447368421
+  },
+  {
+    "day": "2026-08-13",
+    "channel": "tienda",
+    "candidate_net_cents": 1384275,
+    "events": 21,
+    "mean_event_cents": 153834.52380952382
+  },
+  {
+    "day": "2026-08-13",
+    "channel": "web",
+    "candidate_net_cents": 7609940,
+    "events": 96,
+    "mean_event_cents": 177497.44791666666
+  },
+  {
+    "day": "2026-08-14",
+    "channel": "movil",
+    "candidate_net_cents": 3372950,
+    "events": 52,
+    "mean_event_cents": 187779.32692307694
+  },
+  {
+    "day": "2026-08-14",
+    "channel": "tienda",
+    "candidate_net_cents": 1882260,
+    "events": 31,
+    "mean_event_cents": 152943.38709677418
+  },
+  {
+    "day": "2026-08-14",
+    "channel": "web",
+    "candidate_net_cents": 9318630,
+    "events": 104,
+    "mean_event_cents": 203686.4423076923
+  },
+  {
+    "day": "2026-08-15",
+    "channel": "movil",
+    "candidate_net_cents": 4900130,
+    "events": 50,
+    "mean_event_cents": 233333.2
+  },
+  {
+    "day": "2026-08-15",
+    "channel": "tienda",
+    "candidate_net_cents": 2636865,
+    "events": 37,
+    "mean_event_cents": 206055.67567567568
+  },
+  {
+    "day": "2026-08-15",
+    "channel": "web",
+    "candidate_net_cents": 9728785,
+    "events": 104,
+    "mean_event_cents": 194538.9423076923
+  },
+  {
+    "day": "2026-08-16",
+    "channel": "movil",
+    "candidate_net_cents": 7787120,
+    "events": 74,
+    "mean_event_cents": 222919.7972972973
+  },
+  {
+    "day": "2026-08-16",
+    "channel": "tienda",
+    "candidate_net_cents": 1745300,
+    "events": 26,
+    "mean_event_cents": 165467.11538461538
+  },
+  {
+    "day": "2026-08-16",
+    "channel": "web",
+    "candidate_net_cents": 4679395,
+    "events": 71,
+    "mean_event_cents": 179058.02816901408
+  },
+  {
+    "day": "2026-08-17",
+    "channel": "movil",
+    "candidate_net_cents": 5173080,
+    "events": 50,
+    "mean_event_cents": 234202.0
+  },
+  {
+    "day": "2026-08-17",
+    "channel": "tienda",
+    "candidate_net_cents": 3138570,
+    "events": 34,
+    "mean_event_cents": 203071.76470588235
+  },
+  {
+    "day": "2026-08-17",
+    "channel": "web",
+    "candidate_net_cents": 10870745,
+    "events": 118,
+    "mean_event_cents": 205477.83898305084
+  },
+  {
+    "day": "2026-08-18",
+    "channel": "movil",
+    "candidate_net_cents": 4364465,
+    "events": 54,
+    "mean_event_cents": 197091.4814814815
+  },
+  {
+    "day": "2026-08-18",
+    "channel": "tienda",
+    "candidate_net_cents": 3333890,
+    "events": 29,
+    "mean_event_cents": 239567.41379310345
+  },
+  {
+    "day": "2026-08-18",
+    "channel": "web",
+    "candidate_net_cents": 7793615,
+    "events": 98,
+    "mean_event_cents": 206110.9693877551
+  },
+  {
+    "day": "2026-08-19",
+    "channel": "movil",
+    "candidate_net_cents": 3550340,
+    "events": 69,
+    "mean_event_cents": 151863.84057971014
+  },
+  {
+    "day": "2026-08-19",
+    "channel": "tienda",
+    "candidate_net_cents": 2450225,
+    "events": 32,
+    "mean_event_cents": 219451.5625
+  },
+  {
+    "day": "2026-08-19",
+    "channel": "web",
+    "candidate_net_cents": 9449035,
+    "events": 104,
+    "mean_event_cents": 209527.9326923077
+  },
+  {
+    "day": "2026-08-20",
+    "channel": "movil",
+    "candidate_net_cents": 5100280,
+    "events": 62,
+    "mean_event_cents": 182527.82258064515
+  },
+  {
+    "day": "2026-08-20",
+    "channel": "tienda",
+    "candidate_net_cents": 2349660,
+    "events": 20,
+    "mean_event_cents": 252385.0
+  },
+  {
+    "day": "2026-08-20",
+    "channel": "web",
+    "candidate_net_cents": 5866200,
+    "events": 80,
+    "mean_event_cents": 176597.5
+  },
+  {
+    "day": "2026-08-21",
+    "channel": "movil",
+    "candidate_net_cents": 5781950,
+    "events": 68,
+    "mean_event_cents": 183069.63235294117
+  },
+  {
+    "day": "2026-08-21",
+    "channel": "tienda",
+    "candidate_net_cents": 1189880,
+    "events": 16,
+    "mean_event_cents": 199630.0
+  },
+  {
+    "day": "2026-08-21",
+    "channel": "web",
+    "candidate_net_cents": 9199430,
+    "events": 91,
+    "mean_event_cents": 231183.73626373627
+  },
+  {
+    "day": "2026-08-22",
+    "channel": "movil",
+    "candidate_net_cents": 4792805,
+    "events": 49,
+    "mean_event_cents": 218890.10204081633
+  },
+  {
+    "day": "2026-08-22",
+    "channel": "tienda",
+    "candidate_net_cents": 2470200,
+    "events": 43,
+    "mean_event_cents": 153279.76744186046
+  },
+  {
+    "day": "2026-08-22",
+    "channel": "web",
+    "candidate_net_cents": 7464990,
+    "events": 93,
+    "mean_event_cents": 193091.7741935484
+  },
+  {
+    "day": "2026-08-23",
+    "channel": "movil",
+    "candidate_net_cents": 8007635,
+    "events": 80,
+    "mean_event_cents": 218790.5625
+  },
+  {
+    "day": "2026-08-23",
+    "channel": "tienda",
+    "candidate_net_cents": 2983900,
+    "events": 32,
+    "mean_event_cents": 199419.21875
+  },
+  {
+    "day": "2026-08-23",
+    "channel": "web",
+    "candidate_net_cents": 8743950,
+    "events": 98,
+    "mean_event_cents": 205965.05102040817
+  },
+  {
+    "day": "2026-08-24",
+    "channel": "movil",
+    "candidate_net_cents": 5415675,
+    "events": 63,
+    "mean_event_cents": 187404.60317460317
+  },
+  {
+    "day": "2026-08-24",
+    "channel": "tienda",
+    "candidate_net_cents": 1740975,
+    "events": 20,
+    "mean_event_cents": 188911.5
+  },
+  {
+    "day": "2026-08-24",
+    "channel": "web",
+    "candidate_net_cents": 9997850,
+    "events": 109,
+    "mean_event_cents": 201573.99082568806
+  },
+  {
+    "day": "2026-08-25",
+    "channel": "movil",
+    "candidate_net_cents": 4961380,
+    "events": 59,
+    "mean_event_cents": 197065.84745762713
+  },
+  {
+    "day": "2026-08-25",
+    "channel": "tienda",
+    "candidate_net_cents": 3459225,
+    "events": 35,
+    "mean_event_cents": 233158.2857142857
+  },
+  {
+    "day": "2026-08-25",
+    "channel": "web",
+    "candidate_net_cents": 10744895,
+    "events": 105,
+    "mean_event_cents": 221682.2380952381
+  },
+  {
+    "day": "2026-08-26",
+    "channel": "movil",
+    "candidate_net_cents": 7143845,
+    "events": 86,
+    "mean_event_cents": 201748.66279069768
+  },
+  {
+    "day": "2026-08-26",
+    "channel": "tienda",
+    "candidate_net_cents": 2590610,
+    "events": 39,
+    "mean_event_cents": 182440.12820512822
+  },
+  {
+    "day": "2026-08-26",
+    "channel": "web",
+    "candidate_net_cents": 7718150,
+    "events": 84,
+    "mean_event_cents": 203021.72619047618
+  },
+  {
+    "day": "2026-08-27",
+    "channel": "movil",
+    "candidate_net_cents": 6126850,
+    "events": 83,
+    "mean_event_cents": 175559.8795180723
+  },
+  {
+    "day": "2026-08-27",
+    "channel": "tienda",
+    "candidate_net_cents": 1726200,
+    "events": 28,
+    "mean_event_cents": 154263.92857142858
+  },
+  {
+    "day": "2026-08-27",
+    "channel": "web",
+    "candidate_net_cents": 4767585,
+    "events": 59,
+    "mean_event_cents": 187021.2711864407
+  },
+  {
+    "day": "2026-08-28",
+    "channel": "movil",
+    "candidate_net_cents": 4959915,
+    "events": 63,
+    "mean_event_cents": 182937.22222222222
+  },
+  {
+    "day": "2026-08-28",
+    "channel": "tienda",
+    "candidate_net_cents": 2680920,
+    "events": 30,
+    "mean_event_cents": 208001.66666666666
+  },
+  {
+    "day": "2026-08-28",
+    "channel": "web",
+    "candidate_net_cents": 6631305,
+    "events": 83,
+    "mean_event_cents": 211886.02409638555
+  },
+  {
+    "day": "2026-08-29",
+    "channel": "movil",
+    "candidate_net_cents": 4198990,
+    "events": 51,
+    "mean_event_cents": 216642.74509803922
+  },
+  {
+    "day": "2026-08-29",
+    "channel": "tienda",
+    "candidate_net_cents": 2848210,
+    "events": 30,
+    "mean_event_cents": 184179.33333333334
+  },
+  {
+    "day": "2026-08-29",
+    "channel": "web",
+    "candidate_net_cents": 4093250,
+    "events": 69,
+    "mean_event_cents": 151608.98550724637
+  },
+  {
+    "day": "2026-08-30",
+    "channel": "movil",
+    "candidate_net_cents": 6376615,
+    "events": 68,
+    "mean_event_cents": 218537.2794117647
+  },
+  {
+    "day": "2026-08-30",
+    "channel": "tienda",
+    "candidate_net_cents": 1852500,
+    "events": 36,
+    "mean_event_cents": 149043.33333333334
+  },
+  {
+    "day": "2026-08-30",
+    "channel": "web",
+    "candidate_net_cents": 8851015,
+    "events": 89,
+    "mean_event_cents": 222581.1797752809
+  },
+  {
+    "day": "2026-08-31",
+    "channel": "movil",
+    "candidate_net_cents": 4658350,
+    "events": 56,
+    "mean_event_cents": 201369.64285714287
+  },
+  {
+    "day": "2026-08-31",
+    "channel": "tienda",
+    "candidate_net_cents": 3647120,
+    "events": 45,
+    "mean_event_cents": 196655.22222222222
+  },
+  {
+    "day": "2026-08-31",
+    "channel": "web",
+    "candidate_net_cents": 7431740,
+    "events": 84,
+    "mean_event_cents": 206449.2857142857
+  },
+  {
+    "day": "2026-09-01",
+    "channel": "movil",
+    "candidate_net_cents": 8022575,
+    "events": 71,
+    "mean_event_cents": 246626.1971830986
+  },
+  {
+    "day": "2026-09-01",
+    "channel": "tienda",
+    "candidate_net_cents": 2127955,
+    "events": 27,
+    "mean_event_cents": 191220.0
+  },
+  {
+    "day": "2026-09-01",
+    "channel": "web",
+    "candidate_net_cents": 9052500,
+    "events": 82,
+    "mean_event_cents": 238677.56097560975
+  },
+  {
+    "day": "2026-09-02",
+    "channel": "movil",
+    "candidate_net_cents": 4495435,
+    "events": 48,
+    "mean_event_cents": 209768.95833333334
+  },
+  {
+    "day": "2026-09-02",
+    "channel": "tienda",
+    "candidate_net_cents": 3388550,
+    "events": 37,
+    "mean_event_cents": 222711.2162162162
+  },
+  {
+    "day": "2026-09-02",
+    "channel": "web",
+    "candidate_net_cents": 5952580,
+    "events": 82,
+    "mean_event_cents": 175430.73170731709
+  },
+  {
+    "day": "2026-09-03",
+    "channel": "movil",
+    "candidate_net_cents": 5720865,
+    "events": 60,
+    "mean_event_cents": 223727.75
+  },
+  {
+    "day": "2026-09-03",
+    "channel": "tienda",
+    "candidate_net_cents": 1966110,
+    "events": 29,
+    "mean_event_cents": 189189.4827586207
+  },
+  {
+    "day": "2026-09-03",
+    "channel": "web",
+    "candidate_net_cents": 8697920,
+    "events": 99,
+    "mean_event_cents": 200840.45454545456
+  },
+  {
+    "day": "2026-09-04",
+    "channel": "movil",
+    "candidate_net_cents": 5099530,
+    "events": 66,
+    "mean_event_cents": 187184.01515151514
+  },
+  {
+    "day": "2026-09-04",
+    "channel": "tienda",
+    "candidate_net_cents": 2543925,
+    "events": 24,
+    "mean_event_cents": 233876.45833333334
+  },
+  {
+    "day": "2026-09-04",
+    "channel": "web",
+    "candidate_net_cents": 7464040,
+    "events": 95,
+    "mean_event_cents": 189629.8947368421
+  },
+  {
+    "day": "2026-09-05",
+    "channel": "movil",
+    "candidate_net_cents": 7881370,
+    "events": 71,
+    "mean_event_cents": 266476.1971830986
+  },
+  {
+    "day": "2026-09-05",
+    "channel": "tienda",
+    "candidate_net_cents": 3087605,
+    "events": 44,
+    "mean_event_cents": 180554.54545454544
+  },
+  {
+    "day": "2026-09-05",
+    "channel": "web",
+    "candidate_net_cents": 12570095,
+    "events": 119,
+    "mean_event_cents": 224376.8487394958
+  },
+  {
+    "day": "2026-09-06",
+    "channel": "movil",
+    "candidate_net_cents": 4092455,
+    "events": 57,
+    "mean_event_cents": 188516.31578947368
+  },
+  {
+    "day": "2026-09-06",
+    "channel": "tienda",
+    "candidate_net_cents": 2769795,
+    "events": 31,
+    "mean_event_cents": 250248.06451612903
+  },
+  {
+    "day": "2026-09-06",
+    "channel": "web",
+    "candidate_net_cents": 5222270,
+    "events": 63,
+    "mean_event_cents": 195776.50793650793
+  },
+  {
+    "day": "2026-09-07",
+    "channel": "movil",
+    "candidate_net_cents": 8145040,
+    "events": 73,
+    "mean_event_cents": 262874.0410958904
+  },
+  {
+    "day": "2026-09-07",
+    "channel": "tienda",
+    "candidate_net_cents": 838215,
+    "events": 22,
+    "mean_event_cents": 154253.63636363635
+  },
+  {
+    "day": "2026-09-07",
+    "channel": "web",
+    "candidate_net_cents": 11525460,
+    "events": 130,
+    "mean_event_cents": 203218.61538461538
+  },
+  {
+    "day": "2026-09-08",
+    "channel": "movil",
+    "candidate_net_cents": 6423700,
+    "events": 63,
+    "mean_event_cents": 228952.77777777778
+  },
+  {
+    "day": "2026-09-08",
+    "channel": "tienda",
+    "candidate_net_cents": 2800090,
+    "events": 33,
+    "mean_event_cents": 195783.33333333334
+  },
+  {
+    "day": "2026-09-08",
+    "channel": "web",
+    "candidate_net_cents": 6566545,
+    "events": 93,
+    "mean_event_cents": 179257.4193548387
+  },
+  {
+    "day": "2026-09-09",
+    "channel": "movil",
+    "candidate_net_cents": 5253660,
+    "events": 79,
+    "mean_event_cents": 181968.54430379748
+  },
+  {
+    "day": "2026-09-09",
+    "channel": "tienda",
+    "candidate_net_cents": 1732805,
+    "events": 17,
+    "mean_event_cents": 262814.70588235295
+  },
+  {
+    "day": "2026-09-09",
+    "channel": "web",
+    "candidate_net_cents": 9496805,
+    "events": 88,
+    "mean_event_cents": 242159.375
+  },
+  {
+    "day": "2026-09-10",
+    "channel": "movil",
+    "candidate_net_cents": 4778205,
+    "events": 53,
+    "mean_event_cents": 233036.88679245283
+  },
+  {
+    "day": "2026-09-10",
+    "channel": "tienda",
+    "candidate_net_cents": 433040,
+    "events": 10,
+    "mean_event_cents": 154531.0
+  },
+  {
+    "day": "2026-09-10",
+    "channel": "web",
+    "candidate_net_cents": 9090610,
+    "events": 107,
+    "mean_event_cents": 200016.16822429906
+  },
+  {
+    "day": "2026-09-11",
+    "channel": "movil",
+    "candidate_net_cents": 5788265,
+    "events": 67,
+    "mean_event_cents": 198306.5671641791
+  },
+  {
+    "day": "2026-09-11",
+    "channel": "tienda",
+    "candidate_net_cents": 2429120,
+    "events": 24,
+    "mean_event_cents": 208185.83333333334
+  },
+  {
+    "day": "2026-09-11",
+    "channel": "web",
+    "candidate_net_cents": 8604755,
+    "events": 95,
+    "mean_event_cents": 222172.05263157896
+  },
+  {
+    "day": "2026-09-12",
+    "channel": "movil",
+    "candidate_net_cents": 5048490,
+    "events": 63,
+    "mean_event_cents": 206231.90476190476
+  },
+  {
+    "day": "2026-09-12",
+    "channel": "tienda",
+    "candidate_net_cents": 2713685,
+    "events": 28,
+    "mean_event_cents": 228829.64285714287
+  },
+  {
+    "day": "2026-09-12",
+    "channel": "web",
+    "candidate_net_cents": 7159395,
+    "events": 85,
+    "mean_event_cents": 210462.5294117647
+  },
+  {
+    "day": "2026-09-13",
+    "channel": "movil",
+    "candidate_net_cents": 5886385,
+    "events": 72,
+    "mean_event_cents": 196062.56944444444
+  },
+  {
+    "day": "2026-09-13",
+    "channel": "tienda",
+    "candidate_net_cents": 3350995,
+    "events": 29,
+    "mean_event_cents": 235034.8275862069
+  },
+  {
+    "day": "2026-09-13",
+    "channel": "web",
+    "candidate_net_cents": 9996640,
+    "events": 109,
+    "mean_event_cents": 198076.376146789
+  },
+  {
+    "day": "2026-09-14",
+    "channel": "movil",
+    "candidate_net_cents": -124230,
+    "events": 5,
+    "mean_event_cents": 24846.0
+  },
+  {
+    "day": "2026-09-14",
+    "channel": "tienda",
+    "candidate_net_cents": -103600,
+    "events": 1,
+    "mean_event_cents": 103600.0
+  },
+  {
+    "day": "2026-09-14",
+    "channel": "web",
+    "candidate_net_cents": -541750,
+    "events": 6,
+    "mean_event_cents": 90291.66666666667
+  },
+  {
+    "day": "2026-09-15",
+    "channel": "movil",
+    "candidate_net_cents": -304600,
+    "events": 4,
+    "mean_event_cents": 76150.0
+  },
+  {
+    "day": "2026-09-15",
+    "channel": "web",
+    "candidate_net_cents": -807205,
+    "events": 7,
+    "mean_event_cents": 115315.0
+  },
+  {
+    "day": "2026-09-16",
+    "channel": "movil",
+    "candidate_net_cents": -210145,
+    "events": 4,
+    "mean_event_cents": 52536.25
+  },
+  {
+    "day": "2026-09-16",
+    "channel": "tienda",
+    "candidate_net_cents": -166380,
+    "events": 2,
+    "mean_event_cents": 83190.0
+  },
+  {
+    "day": "2026-09-16",
+    "channel": "web",
+    "candidate_net_cents": -307325,
+    "events": 6,
+    "mean_event_cents": 51220.833333333336
+  },
+  {
+    "day": "2026-09-17",
+    "channel": "movil",
+    "candidate_net_cents": -318970,
+    "events": 7,
+    "mean_event_cents": 45567.142857142855
+  },
+  {
+    "day": "2026-09-17",
+    "channel": "web",
+    "candidate_net_cents": -557550,
+    "events": 7,
+    "mean_event_cents": 79650.0
+  },
+  {
+    "day": "2026-09-18",
+    "channel": "movil",
+    "candidate_net_cents": -108480,
+    "events": 2,
+    "mean_event_cents": 54240.0
+  },
+  {
+    "day": "2026-09-18",
+    "channel": "tienda",
+    "candidate_net_cents": -31960,
+    "events": 1,
+    "mean_event_cents": 31960.0
+  },
+  {
+    "day": "2026-09-18",
+    "channel": "web",
+    "candidate_net_cents": -856605,
+    "events": 12,
+    "mean_event_cents": 71383.75
+  },
+  {
+    "day": "2026-09-19",
+    "channel": "movil",
+    "candidate_net_cents": -181620,
+    "events": 2,
+    "mean_event_cents": 90810.0
+  },
+  {
+    "day": "2026-09-19",
+    "channel": "web",
+    "candidate_net_cents": -539340,
+    "events": 7,
+    "mean_event_cents": 77048.57142857143
+  },
+  {
+    "day": "2026-09-20",
+    "channel": "movil",
+    "candidate_net_cents": -256250,
+    "events": 6,
+    "mean_event_cents": 42708.333333333336
+  },
+  {
+    "day": "2026-09-20",
+    "channel": "tienda",
+    "candidate_net_cents": -209895,
+    "events": 2,
+    "mean_event_cents": 104947.5
+  },
+  {
+    "day": "2026-09-20",
+    "channel": "web",
+    "candidate_net_cents": -65400,
+    "events": 1,
+    "mean_event_cents": 65400.0
+  },
+  {
+    "day": "2026-09-21",
+    "channel": "movil",
+    "candidate_net_cents": -394125,
+    "events": 3,
+    "mean_event_cents": 131375.0
+  },
+  {
+    "day": "2026-09-21",
+    "channel": "web",
+    "candidate_net_cents": -482610,
+    "events": 4,
+    "mean_event_cents": 120652.5
+  },
+  {
+    "day": "2026-09-22",
+    "channel": "movil",
+    "candidate_net_cents": -88470,
+    "events": 3,
+    "mean_event_cents": 29490.0
+  },
+  {
+    "day": "2026-09-22",
+    "channel": "web",
+    "candidate_net_cents": -286515,
+    "events": 3,
+    "mean_event_cents": 95505.0
+  },
+  {
+    "day": "2026-09-23",
+    "channel": "movil",
+    "candidate_net_cents": -83500,
+    "events": 3,
+    "mean_event_cents": 27833.333333333332
+  },
+  {
+    "day": "2026-09-23",
+    "channel": "tienda",
+    "candidate_net_cents": -104000,
+    "events": 1,
+    "mean_event_cents": 104000.0
+  },
+  {
+    "day": "2026-09-23",
+    "channel": "web",
+    "candidate_net_cents": -291825,
+    "events": 5,
+    "mean_event_cents": 58365.0
+  },
+  {
+    "day": "2026-09-24",
+    "channel": "movil",
+    "candidate_net_cents": -234400,
+    "events": 1,
+    "mean_event_cents": 234400.0
+  },
+  {
+    "day": "2026-09-24",
+    "channel": "tienda",
+    "candidate_net_cents": -30875,
+    "events": 1,
+    "mean_event_cents": 30875.0
+  },
+  {
+    "day": "2026-09-24",
+    "channel": "web",
+    "candidate_net_cents": -9700,
+    "events": 1,
+    "mean_event_cents": 9700.0
+  },
+  {
+    "day": "2026-09-25",
+    "channel": "tienda",
+    "candidate_net_cents": -123260,
+    "events": 1,
+    "mean_event_cents": 123260.0
+  },
+  {
+    "day": "2026-09-25",
+    "channel": "web",
+    "candidate_net_cents": -366950,
+    "events": 3,
+    "mean_event_cents": 122316.66666666667
+  },
+  {
+    "day": "2026-09-26",
+    "channel": "movil",
+    "candidate_net_cents": -22590,
+    "events": 1,
+    "mean_event_cents": 22590.0
+  },
+  {
+    "day": "2026-09-26",
+    "channel": "web",
+    "candidate_net_cents": -68400,
+    "events": 1,
+    "mean_event_cents": 68400.0
+  },
+  {
+    "day": "2026-09-28",
+    "channel": "tienda",
+    "candidate_net_cents": -82100,
+    "events": 1,
+    "mean_event_cents": 82100.0
+  },
+  {
+    "day": "2026-09-28",
+    "channel": "web",
+    "candidate_net_cents": -55800,
+    "events": 1,
+    "mean_event_cents": 55800.0
+  }
+]

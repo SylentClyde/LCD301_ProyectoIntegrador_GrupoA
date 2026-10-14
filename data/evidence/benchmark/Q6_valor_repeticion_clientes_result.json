@@ -1,0 +1,6002 @@
+[
+  {
+    "customer_id": "CUST0001",
+    "paid_orders": 623,
+    "net_bob": "1248521.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0002",
+    "paid_orders": 501,
+    "net_bob": "1059231.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0003",
+    "paid_orders": 486,
+    "net_bob": "994027.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0005",
+    "paid_orders": 372,
+    "net_bob": "786592.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0004",
+    "paid_orders": 382,
+    "net_bob": "769473.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0006",
+    "paid_orders": 363,
+    "net_bob": "760535.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0007",
+    "paid_orders": 301,
+    "net_bob": "626669.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0009",
+    "paid_orders": 293,
+    "net_bob": "609964.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0008",
+    "paid_orders": 267,
+    "net_bob": "546150.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0010",
+    "paid_orders": 242,
+    "net_bob": "522099.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0011",
+    "paid_orders": 217,
+    "net_bob": "439710.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0012",
+    "paid_orders": 211,
+    "net_bob": "433649.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0013",
+    "paid_orders": 203,
+    "net_bob": "429255.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0015",
+    "paid_orders": 172,
+    "net_bob": "358153.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0017",
+    "paid_orders": 160,
+    "net_bob": "349810.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0014",
+    "paid_orders": 172,
+    "net_bob": "345851.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0018",
+    "paid_orders": 134,
+    "net_bob": "310527.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0021",
+    "paid_orders": 131,
+    "net_bob": "283628.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0016",
+    "paid_orders": 138,
+    "net_bob": "274781.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0019",
+    "paid_orders": 131,
+    "net_bob": "246181.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0020",
+    "paid_orders": 130,
+    "net_bob": "242779.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0027",
+    "paid_orders": 109,
+    "net_bob": "238961.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0026",
+    "paid_orders": 106,
+    "net_bob": "235194.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0025",
+    "paid_orders": 112,
+    "net_bob": "230871.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0022",
+    "paid_orders": 121,
+    "net_bob": "227567.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0030",
+    "paid_orders": 97,
+    "net_bob": "207447.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0029",
+    "paid_orders": 93,
+    "net_bob": "196355.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0024",
+    "paid_orders": 112,
+    "net_bob": "195970.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0028",
+    "paid_orders": 95,
+    "net_bob": "182779.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0023",
+    "paid_orders": 94,
+    "net_bob": "176104.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0033",
+    "paid_orders": 83,
+    "net_bob": "167936.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0037",
+    "paid_orders": 84,
+    "net_bob": "160780.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0035",
+    "paid_orders": 68,
+    "net_bob": "158251.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0039",
+    "paid_orders": 68,
+    "net_bob": "148283.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0041",
+    "paid_orders": 55,
+    "net_bob": "138531.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0034",
+    "paid_orders": 63,
+    "net_bob": "134361.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0031",
+    "paid_orders": 74,
+    "net_bob": "132369.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0046",
+    "paid_orders": 55,
+    "net_bob": "129796.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0032",
+    "paid_orders": 75,
+    "net_bob": "129034.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0038",
+    "paid_orders": 63,
+    "net_bob": "123572.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0040",
+    "paid_orders": 50,
+    "net_bob": "117169.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0047",
+    "paid_orders": 57,
+    "net_bob": "116322.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0043",
+    "paid_orders": 59,
+    "net_bob": "110678.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0036",
+    "paid_orders": 55,
+    "net_bob": "108149.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0045",
+    "paid_orders": 44,
+    "net_bob": "107845.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0042",
+    "paid_orders": 63,
+    "net_bob": "106031.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0049",
+    "paid_orders": 44,
+    "net_bob": "101033.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0051",
+    "paid_orders": 47,
+    "net_bob": "100404.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0060",
+    "paid_orders": 40,
+    "net_bob": "99723.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0063",
+    "paid_orders": 48,
+    "net_bob": "96295.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0056",
+    "paid_orders": 44,
+    "net_bob": "94810.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0054",
+    "paid_orders": 37,
+    "net_bob": "93949.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0055",
+    "paid_orders": 45,
+    "net_bob": "92469.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0044",
+    "paid_orders": 47,
+    "net_bob": "92131.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0059",
+    "paid_orders": 40,
+    "net_bob": "87043.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0066",
+    "paid_orders": 35,
+    "net_bob": "81791.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0048",
+    "paid_orders": 40,
+    "net_bob": "80630.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0079",
+    "paid_orders": 30,
+    "net_bob": "80487.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0065",
+    "paid_orders": 35,
+    "net_bob": "78063.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0064",
+    "paid_orders": 38,
+    "net_bob": "75422.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0053",
+    "paid_orders": 41,
+    "net_bob": "74880.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0050",
+    "paid_orders": 40,
+    "net_bob": "74792.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0075",
+    "paid_orders": 34,
+    "net_bob": "74316.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0082",
+    "paid_orders": 26,
+    "net_bob": "72679.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0071",
+    "paid_orders": 36,
+    "net_bob": "72482.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0096",
+    "paid_orders": 33,
+    "net_bob": "71485.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0070",
+    "paid_orders": 33,
+    "net_bob": "70650.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0061",
+    "paid_orders": 41,
+    "net_bob": "70418.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0058",
+    "paid_orders": 38,
+    "net_bob": "69116.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0084",
+    "paid_orders": 26,
+    "net_bob": "67437.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0074",
+    "paid_orders": 29,
+    "net_bob": "67352.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0068",
+    "paid_orders": 32,
+    "net_bob": "66768.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0073",
+    "paid_orders": 38,
+    "net_bob": "66071.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0069",
+    "paid_orders": 34,
+    "net_bob": "65404.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0093",
+    "paid_orders": 29,
+    "net_bob": "64913.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0099",
+    "paid_orders": 26,
+    "net_bob": "64103.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0089",
+    "paid_orders": 23,
+    "net_bob": "63116.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0062",
+    "paid_orders": 32,
+    "net_bob": "62065.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0098",
+    "paid_orders": 29,
+    "net_bob": "58378.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0072",
+    "paid_orders": 34,
+    "net_bob": "58276.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0052",
+    "paid_orders": 36,
+    "net_bob": "57517.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0094",
+    "paid_orders": 23,
+    "net_bob": "53925.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0083",
+    "paid_orders": 28,
+    "net_bob": "53336.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0078",
+    "paid_orders": 21,
+    "net_bob": "52215.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0097",
+    "paid_orders": 28,
+    "net_bob": "51752.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0057",
+    "paid_orders": 22,
+    "net_bob": "51349.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0085",
+    "paid_orders": 24,
+    "net_bob": "51262.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0067",
+    "paid_orders": 32,
+    "net_bob": "50329.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0081",
+    "paid_orders": 33,
+    "net_bob": "49988.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0107",
+    "paid_orders": 19,
+    "net_bob": "48210.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0101",
+    "paid_orders": 17,
+    "net_bob": "47923.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0137",
+    "paid_orders": 19,
+    "net_bob": "46532.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0092",
+    "paid_orders": 18,
+    "net_bob": "46107.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0091",
+    "paid_orders": 22,
+    "net_bob": "46030.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0119",
+    "paid_orders": 22,
+    "net_bob": "45192.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0133",
+    "paid_orders": 16,
+    "net_bob": "43066.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0154",
+    "paid_orders": 20,
+    "net_bob": "42787.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0120",
+    "paid_orders": 14,
+    "net_bob": "42761.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0102",
+    "paid_orders": 24,
+    "net_bob": "42229.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0114",
+    "paid_orders": 21,
+    "net_bob": "42167.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0088",
+    "paid_orders": 28,
+    "net_bob": "42124.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0104",
+    "paid_orders": 22,
+    "net_bob": "42070.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0077",
+    "paid_orders": 26,
+    "net_bob": "41721.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0087",
+    "paid_orders": 27,
+    "net_bob": "40757.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0146",
+    "paid_orders": 19,
+    "net_bob": "39564.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0103",
+    "paid_orders": 27,
+    "net_bob": "39378.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0113",
+    "paid_orders": 17,
+    "net_bob": "38982.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0171",
+    "paid_orders": 14,
+    "net_bob": "38570.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0141",
+    "paid_orders": 16,
+    "net_bob": "38532.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0131",
+    "paid_orders": 16,
+    "net_bob": "38415.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0161",
+    "paid_orders": 15,
+    "net_bob": "37266.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0095",
+    "paid_orders": 16,
+    "net_bob": "37030.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0117",
+    "paid_orders": 18,
+    "net_bob": "35866.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0076",
+    "paid_orders": 18,
+    "net_bob": "35597.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0112",
+    "paid_orders": 24,
+    "net_bob": "35084.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0182",
+    "paid_orders": 13,
+    "net_bob": "34441.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0143",
+    "paid_orders": 13,
+    "net_bob": "34068.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0168",
+    "paid_orders": 13,
+    "net_bob": "33491.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0080",
+    "paid_orders": 16,
+    "net_bob": "32905.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0086",
+    "paid_orders": 17,
+    "net_bob": "32725.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0127",
+    "paid_orders": 12,
+    "net_bob": "32154.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0124",
+    "paid_orders": 16,
+    "net_bob": "31742.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0202",
+    "paid_orders": 12,
+    "net_bob": "31721.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0150",
+    "paid_orders": 11,
+    "net_bob": "31417.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0166",
+    "paid_orders": 11,
+    "net_bob": "31380.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0140",
+    "paid_orders": 9,
+    "net_bob": "31180.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0178",
+    "paid_orders": 11,
+    "net_bob": "30051.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0138",
+    "paid_orders": 16,
+    "net_bob": "29960.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0115",
+    "paid_orders": 14,
+    "net_bob": "29724.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0132",
+    "paid_orders": 13,
+    "net_bob": "29210.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0204",
+    "paid_orders": 12,
+    "net_bob": "29082.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0231",
+    "paid_orders": 9,
+    "net_bob": "28375.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0090",
+    "paid_orders": 16,
+    "net_bob": "27768.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0108",
+    "paid_orders": 16,
+    "net_bob": "27740.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0164",
+    "paid_orders": 9,
+    "net_bob": "27555.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0256",
+    "paid_orders": 11,
+    "net_bob": "27548.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0165",
+    "paid_orders": 9,
+    "net_bob": "27198.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0109",
+    "paid_orders": 14,
+    "net_bob": "27112.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0116",
+    "paid_orders": 16,
+    "net_bob": "27098.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0100",
+    "paid_orders": 16,
+    "net_bob": "26944.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0105",
+    "paid_orders": 16,
+    "net_bob": "26706.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0218",
+    "paid_orders": 10,
+    "net_bob": "26311.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0151",
+    "paid_orders": 15,
+    "net_bob": "26122.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0338",
+    "paid_orders": 8,
+    "net_bob": "25947.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0183",
+    "paid_orders": 12,
+    "net_bob": "25553.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0325",
+    "paid_orders": 8,
+    "net_bob": "25491.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0192",
+    "paid_orders": 9,
+    "net_bob": "25474.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0201",
+    "paid_orders": 10,
+    "net_bob": "25202.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0142",
+    "paid_orders": 10,
+    "net_bob": "25104.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0121",
+    "paid_orders": 12,
+    "net_bob": "24940.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0157",
+    "paid_orders": 13,
+    "net_bob": "24801.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0250",
+    "paid_orders": 11,
+    "net_bob": "24708.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0237",
+    "paid_orders": 10,
+    "net_bob": "24694.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0215",
+    "paid_orders": 8,
+    "net_bob": "24144.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0125",
+    "paid_orders": 10,
+    "net_bob": "23503.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0167",
+    "paid_orders": 12,
+    "net_bob": "23396.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0188",
+    "paid_orders": 8,
+    "net_bob": "23235.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0186",
+    "paid_orders": 11,
+    "net_bob": "22907.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0160",
+    "paid_orders": 14,
+    "net_bob": "22837.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0184",
+    "paid_orders": 9,
+    "net_bob": "22523.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0173",
+    "paid_orders": 10,
+    "net_bob": "22515.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0111",
+    "paid_orders": 14,
+    "net_bob": "22174.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0198",
+    "paid_orders": 7,
+    "net_bob": "21900.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0135",
+    "paid_orders": 11,
+    "net_bob": "21439.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0110",
+    "paid_orders": 12,
+    "net_bob": "21324.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0193",
+    "paid_orders": 10,
+    "net_bob": "21156.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0216",
+    "paid_orders": 7,
+    "net_bob": "21154.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0715",
+    "paid_orders": 7,
+    "net_bob": "20855.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0145",
+    "paid_orders": 9,
+    "net_bob": "20648.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0200",
+    "paid_orders": 8,
+    "net_bob": "20452.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0219",
+    "paid_orders": 9,
+    "net_bob": "20419.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0174",
+    "paid_orders": 10,
+    "net_bob": "20344.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0205",
+    "paid_orders": 10,
+    "net_bob": "20073.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0181",
+    "paid_orders": 10,
+    "net_bob": "19820.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0653",
+    "paid_orders": 5,
+    "net_bob": "19618.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0130",
+    "paid_orders": 12,
+    "net_bob": "19530.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0235",
+    "paid_orders": 6,
+    "net_bob": "19471.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0270",
+    "paid_orders": 10,
+    "net_bob": "19350.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0228",
+    "paid_orders": 8,
+    "net_bob": "19340.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0136",
+    "paid_orders": 8,
+    "net_bob": "19284.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0226",
+    "paid_orders": 8,
+    "net_bob": "19148.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0180",
+    "paid_orders": 9,
+    "net_bob": "19055.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0293",
+    "paid_orders": 10,
+    "net_bob": "18887.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0128",
+    "paid_orders": 11,
+    "net_bob": "18873.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0172",
+    "paid_orders": 9,
+    "net_bob": "18852.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0234",
+    "paid_orders": 10,
+    "net_bob": "18688.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0313",
+    "paid_orders": 6,
+    "net_bob": "18543.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0126",
+    "paid_orders": 14,
+    "net_bob": "18382.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0319",
+    "paid_orders": 8,
+    "net_bob": "18334.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0139",
+    "paid_orders": 9,
+    "net_bob": "18226.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0207",
+    "paid_orders": 8,
+    "net_bob": "18185.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0247",
+    "paid_orders": 8,
+    "net_bob": "18100.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0162",
+    "paid_orders": 9,
+    "net_bob": "17917.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0423",
+    "paid_orders": 4,
+    "net_bob": "17676.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0367",
+    "paid_orders": 9,
+    "net_bob": "17584.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0361",
+    "paid_orders": 4,
+    "net_bob": "17559.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0243",
+    "paid_orders": 7,
+    "net_bob": "17547.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0149",
+    "paid_orders": 11,
+    "net_bob": "17529.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0238",
+    "paid_orders": 6,
+    "net_bob": "17492.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0378",
+    "paid_orders": 7,
+    "net_bob": "17219.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0206",
+    "paid_orders": 9,
+    "net_bob": "17209.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0419",
+    "paid_orders": 7,
+    "net_bob": "17105.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0134",
+    "paid_orders": 9,
+    "net_bob": "16861.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0232",
+    "paid_orders": 5,
+    "net_bob": "16803.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0147",
+    "paid_orders": 7,
+    "net_bob": "16704.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0217",
+    "paid_orders": 11,
+    "net_bob": "16696.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0222",
+    "paid_orders": 9,
+    "net_bob": "16496.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0152",
+    "paid_orders": 11,
+    "net_bob": "16394.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0251",
+    "paid_orders": 9,
+    "net_bob": "16376.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0393",
+    "paid_orders": 7,
+    "net_bob": "16283.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0199",
+    "paid_orders": 9,
+    "net_bob": "16089.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0187",
+    "paid_orders": 10,
+    "net_bob": "16080.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0268",
+    "paid_orders": 6,
+    "net_bob": "16041.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0155",
+    "paid_orders": 9,
+    "net_bob": "15884.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0153",
+    "paid_orders": 10,
+    "net_bob": "15739.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0212",
+    "paid_orders": 8,
+    "net_bob": "15662.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0421",
+    "paid_orders": 8,
+    "net_bob": "15554.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0144",
+    "paid_orders": 10,
+    "net_bob": "15513.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0241",
+    "paid_orders": 7,
+    "net_bob": "15483.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0176",
+    "paid_orders": 7,
+    "net_bob": "15426.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0261",
+    "paid_orders": 7,
+    "net_bob": "15178.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0123",
+    "paid_orders": 13,
+    "net_bob": "15170.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0276",
+    "paid_orders": 7,
+    "net_bob": "15160.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0197",
+    "paid_orders": 6,
+    "net_bob": "15109.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0179",
+    "paid_orders": 7,
+    "net_bob": "15078.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0302",
+    "paid_orders": 7,
+    "net_bob": "15011.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0291",
+    "paid_orders": 6,
+    "net_bob": "15010.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0245",
+    "paid_orders": 8,
+    "net_bob": "14797.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0290",
+    "paid_orders": 8,
+    "net_bob": "14436.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0191",
+    "paid_orders": 7,
+    "net_bob": "14386.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0287",
+    "paid_orders": 6,
+    "net_bob": "14384.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0281",
+    "paid_orders": 5,
+    "net_bob": "14299.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0580",
+    "paid_orders": 5,
+    "net_bob": "14267.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0236",
+    "paid_orders": 7,
+    "net_bob": "14249.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0244",
+    "paid_orders": 6,
+    "net_bob": "14184.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0315",
+    "paid_orders": 8,
+    "net_bob": "14172.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0156",
+    "paid_orders": 9,
+    "net_bob": "14086.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0373",
+    "paid_orders": 6,
+    "net_bob": "14032.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0295",
+    "paid_orders": 5,
+    "net_bob": "13911.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0242",
+    "paid_orders": 6,
+    "net_bob": "13805.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0303",
+    "paid_orders": 5,
+    "net_bob": "13787.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0239",
+    "paid_orders": 8,
+    "net_bob": "13712.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0592",
+    "paid_orders": 4,
+    "net_bob": "13675.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0158",
+    "paid_orders": 7,
+    "net_bob": "13620.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0574",
+    "paid_orders": 5,
+    "net_bob": "13618.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0163",
+    "paid_orders": 7,
+    "net_bob": "13608.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0177",
+    "paid_orders": 9,
+    "net_bob": "13588.250000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0280",
+    "paid_orders": 8,
+    "net_bob": "13582.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0230",
+    "paid_orders": 7,
+    "net_bob": "13537.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0404",
+    "paid_orders": 5,
+    "net_bob": "13535.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0689",
+    "paid_orders": 4,
+    "net_bob": "13476.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0392",
+    "paid_orders": 7,
+    "net_bob": "13431.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0428",
+    "paid_orders": 5,
+    "net_bob": "13392.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0316",
+    "paid_orders": 5,
+    "net_bob": "13375.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0211",
+    "paid_orders": 10,
+    "net_bob": "13363.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0196",
+    "paid_orders": 6,
+    "net_bob": "13295.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0282",
+    "paid_orders": 6,
+    "net_bob": "13283.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0358",
+    "paid_orders": 4,
+    "net_bob": "13275.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0118",
+    "paid_orders": 12,
+    "net_bob": "13220.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0298",
+    "paid_orders": 5,
+    "net_bob": "13149.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0310",
+    "paid_orders": 6,
+    "net_bob": "13076.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0410",
+    "paid_orders": 6,
+    "net_bob": "12995.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0195",
+    "paid_orders": 7,
+    "net_bob": "12922.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0265",
+    "paid_orders": 5,
+    "net_bob": "12890.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0275",
+    "paid_orders": 6,
+    "net_bob": "12870.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0390",
+    "paid_orders": 5,
+    "net_bob": "12734.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0213",
+    "paid_orders": 9,
+    "net_bob": "12647.150000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0971",
+    "paid_orders": 3,
+    "net_bob": "12545.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0504",
+    "paid_orders": 5,
+    "net_bob": "12524.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0395",
+    "paid_orders": 7,
+    "net_bob": "12501.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0676",
+    "paid_orders": 4,
+    "net_bob": "12341.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0283",
+    "paid_orders": 6,
+    "net_bob": "12244.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0389",
+    "paid_orders": 5,
+    "net_bob": "12223.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0129",
+    "paid_orders": 11,
+    "net_bob": "12171.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0246",
+    "paid_orders": 7,
+    "net_bob": "12165.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0791",
+    "paid_orders": 4,
+    "net_bob": "12121.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0911",
+    "paid_orders": 2,
+    "net_bob": "12106.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0631",
+    "paid_orders": 5,
+    "net_bob": "12101.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0518",
+    "paid_orders": 3,
+    "net_bob": "12077.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0208",
+    "paid_orders": 5,
+    "net_bob": "12065.300000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0329",
+    "paid_orders": 4,
+    "net_bob": "11998.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0296",
+    "paid_orders": 5,
+    "net_bob": "11885.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0279",
+    "paid_orders": 7,
+    "net_bob": "11884.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0352",
+    "paid_orders": 4,
+    "net_bob": "11851.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0274",
+    "paid_orders": 4,
+    "net_bob": "11836.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0363",
+    "paid_orders": 3,
+    "net_bob": "11807.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0818",
+    "paid_orders": 3,
+    "net_bob": "11759.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0289",
+    "paid_orders": 6,
+    "net_bob": "11717.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0214",
+    "paid_orders": 6,
+    "net_bob": "11622.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0209",
+    "paid_orders": 5,
+    "net_bob": "11596.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0625",
+    "paid_orders": 5,
+    "net_bob": "11451.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0331",
+    "paid_orders": 6,
+    "net_bob": "11375.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0294",
+    "paid_orders": 5,
+    "net_bob": "11369.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0692",
+    "paid_orders": 4,
+    "net_bob": "11322.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0122",
+    "paid_orders": 9,
+    "net_bob": "11256.400000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0356",
+    "paid_orders": 5,
+    "net_bob": "11210.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0562",
+    "paid_orders": 4,
+    "net_bob": "11123.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0438",
+    "paid_orders": 4,
+    "net_bob": "11100.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0106",
+    "paid_orders": 7,
+    "net_bob": "11093.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0233",
+    "paid_orders": 5,
+    "net_bob": "11092.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0790",
+    "paid_orders": 3,
+    "net_bob": "11005.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0789",
+    "paid_orders": 5,
+    "net_bob": "10988.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0458",
+    "paid_orders": 4,
+    "net_bob": "10985.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0229",
+    "paid_orders": 7,
+    "net_bob": "10942.200000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0272",
+    "paid_orders": 5,
+    "net_bob": "10924.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0271",
+    "paid_orders": 6,
+    "net_bob": "10923.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0353",
+    "paid_orders": 4,
+    "net_bob": "10911.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0497",
+    "paid_orders": 5,
+    "net_bob": "10858.350000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0326",
+    "paid_orders": 3,
+    "net_bob": "10853.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0439",
+    "paid_orders": 5,
+    "net_bob": "10851.450000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0589",
+    "paid_orders": 4,
+    "net_bob": "10850.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0159",
+    "paid_orders": 7,
+    "net_bob": "10773.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0254",
+    "paid_orders": 5,
+    "net_bob": "10759.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0311",
+    "paid_orders": 4,
+    "net_bob": "10720.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0679",
+    "paid_orders": 2,
+    "net_bob": "10653.050000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0609",
+    "paid_orders": 5,
+    "net_bob": "10636.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0253",
+    "paid_orders": 5,
+    "net_bob": "10631.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0752",
+    "paid_orders": 4,
+    "net_bob": "10553.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0185",
+    "paid_orders": 5,
+    "net_bob": "10549.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0257",
+    "paid_orders": 5,
+    "net_bob": "10540.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0463",
+    "paid_orders": 4,
+    "net_bob": "10527.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0264",
+    "paid_orders": 4,
+    "net_bob": "10470.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0379",
+    "paid_orders": 4,
+    "net_bob": "10470.600000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0622",
+    "paid_orders": 4,
+    "net_bob": "10456.850000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0194",
+    "paid_orders": 7,
+    "net_bob": "10398.700000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0210",
+    "paid_orders": 5,
+    "net_bob": "10285.800000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0266",
+    "paid_orders": 4,
+    "net_bob": "10283.100000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0259",
+    "paid_orders": 6,
+    "net_bob": "10276.500000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0856",
+    "paid_orders": 3,
+    "net_bob": "10267.950000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0360",
+    "paid_orders": 3,
+    "net_bob": "10256.650000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0224",
+    "paid_orders": 5,
+    "net_bob": "10241.750000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0383",
+    "paid_orders": 4,
+    "net_bob": "10226.550000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0346",
+    "paid_orders": 5,
+    "net_bob": "10202.900000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0528",
+    "paid_orders": 2,
+    "net_bob": "10118.000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0551",
+    "paid_orders": 2,
+    "net_bob": "10072.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0448",
+    "paid_orders": 6,
+    "net_bob": "10062.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0400",
+    "paid_orders": 4,
+    "net_bob": "10012.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0347",
+    "paid_orders": 5,
+    "net_bob": "9984.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0500",
+    "paid_orders": 2,
+    "net_bob": "9943.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0203",
+    "paid_orders": 6,
+    "net_bob": "9748.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0616",
+    "paid_orders": 4,
+    "net_bob": "9735.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0898",
+    "paid_orders": 3,
+    "net_bob": "9730.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0350",
+    "paid_orders": 3,
+    "net_bob": "9721.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0942",
+    "paid_orders": 3,
+    "net_bob": "9712.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0284",
+    "paid_orders": 4,
+    "net_bob": "9658.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0409",
+    "paid_orders": 3,
+    "net_bob": "9631.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0429",
+    "paid_orders": 6,
+    "net_bob": "9608.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0465",
+    "paid_orders": 4,
+    "net_bob": "9604.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0542",
+    "paid_orders": 4,
+    "net_bob": "9603.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0472",
+    "paid_orders": 4,
+    "net_bob": "9567.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0681",
+    "paid_orders": 4,
+    "net_bob": "9550.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0221",
+    "paid_orders": 4,
+    "net_bob": "9538.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0610",
+    "paid_orders": 3,
+    "net_bob": "9482.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0674",
+    "paid_orders": 2,
+    "net_bob": "9478.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0175",
+    "paid_orders": 7,
+    "net_bob": "9471.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0815",
+    "paid_orders": 4,
+    "net_bob": "9460.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0344",
+    "paid_orders": 4,
+    "net_bob": "9305.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0611",
+    "paid_orders": 2,
+    "net_bob": "9225.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0322",
+    "paid_orders": 6,
+    "net_bob": "9222.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0380",
+    "paid_orders": 5,
+    "net_bob": "9197.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0858",
+    "paid_orders": 3,
+    "net_bob": "9152.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0370",
+    "paid_orders": 6,
+    "net_bob": "9143.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0337",
+    "paid_orders": 6,
+    "net_bob": "9092.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0837",
+    "paid_orders": 3,
+    "net_bob": "9085.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0983",
+    "paid_orders": 2,
+    "net_bob": "9082.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0441",
+    "paid_orders": 4,
+    "net_bob": "9030.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0273",
+    "paid_orders": 6,
+    "net_bob": "9013.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0398",
+    "paid_orders": 4,
+    "net_bob": "9003.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0512",
+    "paid_orders": 1,
+    "net_bob": "8996.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0949",
+    "paid_orders": 3,
+    "net_bob": "8991.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0892",
+    "paid_orders": 4,
+    "net_bob": "8973.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0486",
+    "paid_orders": 4,
+    "net_bob": "8934.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0148",
+    "paid_orders": 7,
+    "net_bob": "8931.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0723",
+    "paid_orders": 3,
+    "net_bob": "8918.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0747",
+    "paid_orders": 2,
+    "net_bob": "8848.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0277",
+    "paid_orders": 5,
+    "net_bob": "8830.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0170",
+    "paid_orders": 10,
+    "net_bob": "8788.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0734",
+    "paid_orders": 3,
+    "net_bob": "8780.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0403",
+    "paid_orders": 3,
+    "net_bob": "8727.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0538",
+    "paid_orders": 3,
+    "net_bob": "8689.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0838",
+    "paid_orders": 2,
+    "net_bob": "8634.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0932",
+    "paid_orders": 3,
+    "net_bob": "8628.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0225",
+    "paid_orders": 4,
+    "net_bob": "8626.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0572",
+    "paid_orders": 1,
+    "net_bob": "8626.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0872",
+    "paid_orders": 2,
+    "net_bob": "8591.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0385",
+    "paid_orders": 5,
+    "net_bob": "8588.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0249",
+    "paid_orders": 4,
+    "net_bob": "8569.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0314",
+    "paid_orders": 3,
+    "net_bob": "8534.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0327",
+    "paid_orders": 5,
+    "net_bob": "8524.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0629",
+    "paid_orders": 3,
+    "net_bob": "8486.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0388",
+    "paid_orders": 4,
+    "net_bob": "8484.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0348",
+    "paid_orders": 2,
+    "net_bob": "8439.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0434",
+    "paid_orders": 5,
+    "net_bob": "8406.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0460",
+    "paid_orders": 3,
+    "net_bob": "8387.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0369",
+    "paid_orders": 4,
+    "net_bob": "8358.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0540",
+    "paid_orders": 5,
+    "net_bob": "8347.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0863",
+    "paid_orders": 4,
+    "net_bob": "8322.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0485",
+    "paid_orders": 4,
+    "net_bob": "8313.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0583",
+    "paid_orders": 4,
+    "net_bob": "8309.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0411",
+    "paid_orders": 4,
+    "net_bob": "8269.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0483",
+    "paid_orders": 4,
+    "net_bob": "8224.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0323",
+    "paid_orders": 4,
+    "net_bob": "8219.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0430",
+    "paid_orders": 4,
+    "net_bob": "8200.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0490",
+    "paid_orders": 3,
+    "net_bob": "8168.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0405",
+    "paid_orders": 3,
+    "net_bob": "8131.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0368",
+    "paid_orders": 3,
+    "net_bob": "8081.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0986",
+    "paid_orders": 4,
+    "net_bob": "8077.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0248",
+    "paid_orders": 7,
+    "net_bob": "8030.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0620",
+    "paid_orders": 2,
+    "net_bob": "8022.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0662",
+    "paid_orders": 3,
+    "net_bob": "8016.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0269",
+    "paid_orders": 7,
+    "net_bob": "7998.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0661",
+    "paid_orders": 4,
+    "net_bob": "7974.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0306",
+    "paid_orders": 8,
+    "net_bob": "7970.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0877",
+    "paid_orders": 2,
+    "net_bob": "7954.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0508",
+    "paid_orders": 4,
+    "net_bob": "7927.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0762",
+    "paid_orders": 2,
+    "net_bob": "7900.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0820",
+    "paid_orders": 3,
+    "net_bob": "7836.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0263",
+    "paid_orders": 3,
+    "net_bob": "7791.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0476",
+    "paid_orders": 3,
+    "net_bob": "7745.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0362",
+    "paid_orders": 3,
+    "net_bob": "7690.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0466",
+    "paid_orders": 5,
+    "net_bob": "7685.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0374",
+    "paid_orders": 4,
+    "net_bob": "7681.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0811",
+    "paid_orders": 2,
+    "net_bob": "7671.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0397",
+    "paid_orders": 4,
+    "net_bob": "7671.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0732",
+    "paid_orders": 4,
+    "net_bob": "7649.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0335",
+    "paid_orders": 3,
+    "net_bob": "7635.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0503",
+    "paid_orders": 2,
+    "net_bob": "7605.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0608",
+    "paid_orders": 3,
+    "net_bob": "7548.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0371",
+    "paid_orders": 2,
+    "net_bob": "7540.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0399",
+    "paid_orders": 3,
+    "net_bob": "7508.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0286",
+    "paid_orders": 5,
+    "net_bob": "7502.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0285",
+    "paid_orders": 4,
+    "net_bob": "7502.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0524",
+    "paid_orders": 3,
+    "net_bob": "7492.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0505",
+    "paid_orders": 4,
+    "net_bob": "7484.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0521",
+    "paid_orders": 5,
+    "net_bob": "7469.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0336",
+    "paid_orders": 4,
+    "net_bob": "7461.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0288",
+    "paid_orders": 3,
+    "net_bob": "7440.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0808",
+    "paid_orders": 2,
+    "net_bob": "7421.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0220",
+    "paid_orders": 3,
+    "net_bob": "7419.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0536",
+    "paid_orders": 3,
+    "net_bob": "7372.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0875",
+    "paid_orders": 2,
+    "net_bob": "7349.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0534",
+    "paid_orders": 3,
+    "net_bob": "7322.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0862",
+    "paid_orders": 3,
+    "net_bob": "7317.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0495",
+    "paid_orders": 3,
+    "net_bob": "7302.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0454",
+    "paid_orders": 3,
+    "net_bob": "7299.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0459",
+    "paid_orders": 3,
+    "net_bob": "7282.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0614",
+    "paid_orders": 5,
+    "net_bob": "7258.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0494",
+    "paid_orders": 2,
+    "net_bob": "7234.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0651",
+    "paid_orders": 4,
+    "net_bob": "7227.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0260",
+    "paid_orders": 4,
+    "net_bob": "7167.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0916",
+    "paid_orders": 4,
+    "net_bob": "7161.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0855",
+    "paid_orders": 3,
+    "net_bob": "7141.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0474",
+    "paid_orders": 2,
+    "net_bob": "7109.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0587",
+    "paid_orders": 3,
+    "net_bob": "7082.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0705",
+    "paid_orders": 2,
+    "net_bob": "7013.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0656",
+    "paid_orders": 3,
+    "net_bob": "7012.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0563",
+    "paid_orders": 3,
+    "net_bob": "7010.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0455",
+    "paid_orders": 3,
+    "net_bob": "6992.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0599",
+    "paid_orders": 3,
+    "net_bob": "6978.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0640",
+    "paid_orders": 2,
+    "net_bob": "6968.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0351",
+    "paid_orders": 5,
+    "net_bob": "6927.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0702",
+    "paid_orders": 2,
+    "net_bob": "6911.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0683",
+    "paid_orders": 2,
+    "net_bob": "6904.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0664",
+    "paid_orders": 3,
+    "net_bob": "6896.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0569",
+    "paid_orders": 2,
+    "net_bob": "6894.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0868",
+    "paid_orders": 3,
+    "net_bob": "6888.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0557",
+    "paid_orders": 4,
+    "net_bob": "6879.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0412",
+    "paid_orders": 4,
+    "net_bob": "6868.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0658",
+    "paid_orders": 2,
+    "net_bob": "6860.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0292",
+    "paid_orders": 6,
+    "net_bob": "6771.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0965",
+    "paid_orders": 2,
+    "net_bob": "6746.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0190",
+    "paid_orders": 7,
+    "net_bob": "6737.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0223",
+    "paid_orders": 9,
+    "net_bob": "6718.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0639",
+    "paid_orders": 3,
+    "net_bob": "6693.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0955",
+    "paid_orders": 3,
+    "net_bob": "6680.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0977",
+    "paid_orders": 2,
+    "net_bob": "6677.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0511",
+    "paid_orders": 3,
+    "net_bob": "6669.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0258",
+    "paid_orders": 4,
+    "net_bob": "6657.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0386",
+    "paid_orders": 3,
+    "net_bob": "6653.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0927",
+    "paid_orders": 2,
+    "net_bob": "6650.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0555",
+    "paid_orders": 3,
+    "net_bob": "6606.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0874",
+    "paid_orders": 1,
+    "net_bob": "6582.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0473",
+    "paid_orders": 4,
+    "net_bob": "6562.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0543",
+    "paid_orders": 2,
+    "net_bob": "6558.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0735",
+    "paid_orders": 3,
+    "net_bob": "6537.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0297",
+    "paid_orders": 4,
+    "net_bob": "6537.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0252",
+    "paid_orders": 4,
+    "net_bob": "6536.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0513",
+    "paid_orders": 3,
+    "net_bob": "6528.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0849",
+    "paid_orders": 3,
+    "net_bob": "6519.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0376",
+    "paid_orders": 4,
+    "net_bob": "6502.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0462",
+    "paid_orders": 2,
+    "net_bob": "6502.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0447",
+    "paid_orders": 3,
+    "net_bob": "6471.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0437",
+    "paid_orders": 4,
+    "net_bob": "6468.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0300",
+    "paid_orders": 4,
+    "net_bob": "6468.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0722",
+    "paid_orders": 1,
+    "net_bob": "6457.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0741",
+    "paid_orders": 2,
+    "net_bob": "6450.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0330",
+    "paid_orders": 3,
+    "net_bob": "6429.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0343",
+    "paid_orders": 5,
+    "net_bob": "6392.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0593",
+    "paid_orders": 3,
+    "net_bob": "6379.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0366",
+    "paid_orders": 4,
+    "net_bob": "6374.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0974",
+    "paid_orders": 2,
+    "net_bob": "6363.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0479",
+    "paid_orders": 4,
+    "net_bob": "6357.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0647",
+    "paid_orders": 3,
+    "net_bob": "6351.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0964",
+    "paid_orders": 3,
+    "net_bob": "6350.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0716",
+    "paid_orders": 5,
+    "net_bob": "6335.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0531",
+    "paid_orders": 4,
+    "net_bob": "6330.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0698",
+    "paid_orders": 2,
+    "net_bob": "6313.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0700",
+    "paid_orders": 2,
+    "net_bob": "6299.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0961",
+    "paid_orders": 2,
+    "net_bob": "6296.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0803",
+    "paid_orders": 2,
+    "net_bob": "6294.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0813",
+    "paid_orders": 2,
+    "net_bob": "6281.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0339",
+    "paid_orders": 2,
+    "net_bob": "6261.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0381",
+    "paid_orders": 3,
+    "net_bob": "6176.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0873",
+    "paid_orders": 2,
+    "net_bob": "6169.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0897",
+    "paid_orders": 3,
+    "net_bob": "6146.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0600",
+    "paid_orders": 2,
+    "net_bob": "6146.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0301",
+    "paid_orders": 6,
+    "net_bob": "6120.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0633",
+    "paid_orders": 2,
+    "net_bob": "6081.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0598",
+    "paid_orders": 3,
+    "net_bob": "6051.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0937",
+    "paid_orders": 3,
+    "net_bob": "6033.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0595",
+    "paid_orders": 4,
+    "net_bob": "6032.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0391",
+    "paid_orders": 3,
+    "net_bob": "6022.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0824",
+    "paid_orders": 3,
+    "net_bob": "6015.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0638",
+    "paid_orders": 3,
+    "net_bob": "6004.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0321",
+    "paid_orders": 5,
+    "net_bob": "5956.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0341",
+    "paid_orders": 4,
+    "net_bob": "5948.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0372",
+    "paid_orders": 3,
+    "net_bob": "5946.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0773",
+    "paid_orders": 2,
+    "net_bob": "5940.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0753",
+    "paid_orders": 4,
+    "net_bob": "5909.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0420",
+    "paid_orders": 5,
+    "net_bob": "5877.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0918",
+    "paid_orders": 3,
+    "net_bob": "5871.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0967",
+    "paid_orders": 1,
+    "net_bob": "5870.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0826",
+    "paid_orders": 2,
+    "net_bob": "5852.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0451",
+    "paid_orders": 3,
+    "net_bob": "5838.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0769",
+    "paid_orders": 3,
+    "net_bob": "5828.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0783",
+    "paid_orders": 2,
+    "net_bob": "5789.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0227",
+    "paid_orders": 5,
+    "net_bob": "5783.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0501",
+    "paid_orders": 3,
+    "net_bob": "5780.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0477",
+    "paid_orders": 5,
+    "net_bob": "5743.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0659",
+    "paid_orders": 2,
+    "net_bob": "5716.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0537",
+    "paid_orders": 2,
+    "net_bob": "5708.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0678",
+    "paid_orders": 4,
+    "net_bob": "5694.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0854",
+    "paid_orders": 2,
+    "net_bob": "5674.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0342",
+    "paid_orders": 4,
+    "net_bob": "5663.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0461",
+    "paid_orders": 2,
+    "net_bob": "5662.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0299",
+    "paid_orders": 3,
+    "net_bob": "5628.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0921",
+    "paid_orders": 3,
+    "net_bob": "5578.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0498",
+    "paid_orders": 2,
+    "net_bob": "5577.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0332",
+    "paid_orders": 4,
+    "net_bob": "5574.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0478",
+    "paid_orders": 3,
+    "net_bob": "5514.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0935",
+    "paid_orders": 3,
+    "net_bob": "5511.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0930",
+    "paid_orders": 2,
+    "net_bob": "5508.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0760",
+    "paid_orders": 2,
+    "net_bob": "5474.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0711",
+    "paid_orders": 2,
+    "net_bob": "5455.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0834",
+    "paid_orders": 3,
+    "net_bob": "5446.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0860",
+    "paid_orders": 2,
+    "net_bob": "5399.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0950",
+    "paid_orders": 2,
+    "net_bob": "5387.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0532",
+    "paid_orders": 3,
+    "net_bob": "5382.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0318",
+    "paid_orders": 4,
+    "net_bob": "5372.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0869",
+    "paid_orders": 2,
+    "net_bob": "5367.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0384",
+    "paid_orders": 2,
+    "net_bob": "5353.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0304",
+    "paid_orders": 3,
+    "net_bob": "5339.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0402",
+    "paid_orders": 3,
+    "net_bob": "5337.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0312",
+    "paid_orders": 5,
+    "net_bob": "5315.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0480",
+    "paid_orders": 2,
+    "net_bob": "5307.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0413",
+    "paid_orders": 3,
+    "net_bob": "5279.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0624",
+    "paid_orders": 2,
+    "net_bob": "5274.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0354",
+    "paid_orders": 5,
+    "net_bob": "5253.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0590",
+    "paid_orders": 2,
+    "net_bob": "5225.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0255",
+    "paid_orders": 2,
+    "net_bob": "5214.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0424",
+    "paid_orders": 2,
+    "net_bob": "5211.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0417",
+    "paid_orders": 4,
+    "net_bob": "5188.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0731",
+    "paid_orders": 4,
+    "net_bob": "5187.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0619",
+    "paid_orders": 2,
+    "net_bob": "5150.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0777",
+    "paid_orders": 2,
+    "net_bob": "5149.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0714",
+    "paid_orders": 4,
+    "net_bob": "5146.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0893",
+    "paid_orders": 1,
+    "net_bob": "5118.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0431",
+    "paid_orders": 3,
+    "net_bob": "5118.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0802",
+    "paid_orders": 2,
+    "net_bob": "5077.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0635",
+    "paid_orders": 1,
+    "net_bob": "5053.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0514",
+    "paid_orders": 2,
+    "net_bob": "5022.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0763",
+    "paid_orders": 2,
+    "net_bob": "4992.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0848",
+    "paid_orders": 2,
+    "net_bob": "4957.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0594",
+    "paid_orders": 2,
+    "net_bob": "4952.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0954",
+    "paid_orders": 2,
+    "net_bob": "4925.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0240",
+    "paid_orders": 6,
+    "net_bob": "4901.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0968",
+    "paid_orders": 1,
+    "net_bob": "4886.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0355",
+    "paid_orders": 2,
+    "net_bob": "4841.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0761",
+    "paid_orders": 1,
+    "net_bob": "4838.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0959",
+    "paid_orders": 2,
+    "net_bob": "4813.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0924",
+    "paid_orders": 3,
+    "net_bob": "4792.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0829",
+    "paid_orders": 2,
+    "net_bob": "4777.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0496",
+    "paid_orders": 2,
+    "net_bob": "4769.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0492",
+    "paid_orders": 2,
+    "net_bob": "4758.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0450",
+    "paid_orders": 5,
+    "net_bob": "4741.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0320",
+    "paid_orders": 3,
+    "net_bob": "4730.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0359",
+    "paid_orders": 3,
+    "net_bob": "4715.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0740",
+    "paid_orders": 3,
+    "net_bob": "4707.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0697",
+    "paid_orders": 2,
+    "net_bob": "4702.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0387",
+    "paid_orders": 3,
+    "net_bob": "4695.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0401",
+    "paid_orders": 3,
+    "net_bob": "4672.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0685",
+    "paid_orders": 2,
+    "net_bob": "4665.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0632",
+    "paid_orders": 1,
+    "net_bob": "4629.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0850",
+    "paid_orders": 1,
+    "net_bob": "4611.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0991",
+    "paid_orders": 3,
+    "net_bob": "4608.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0686",
+    "paid_orders": 2,
+    "net_bob": "4602.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0493",
+    "paid_orders": 1,
+    "net_bob": "4590.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0718",
+    "paid_orders": 2,
+    "net_bob": "4576.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0744",
+    "paid_orders": 2,
+    "net_bob": "4566.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0845",
+    "paid_orders": 4,
+    "net_bob": "4565.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0690",
+    "paid_orders": 2,
+    "net_bob": "4563.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0917",
+    "paid_orders": 2,
+    "net_bob": "4561.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0750",
+    "paid_orders": 1,
+    "net_bob": "4560.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0739",
+    "paid_orders": 3,
+    "net_bob": "4554.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0444",
+    "paid_orders": 1,
+    "net_bob": "4548.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0597",
+    "paid_orders": 2,
+    "net_bob": "4538.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0973",
+    "paid_orders": 1,
+    "net_bob": "4535.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0560",
+    "paid_orders": 2,
+    "net_bob": "4486.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0827",
+    "paid_orders": 1,
+    "net_bob": "4469.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0507",
+    "paid_orders": 2,
+    "net_bob": "4466.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0382",
+    "paid_orders": 3,
+    "net_bob": "4455.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0626",
+    "paid_orders": 2,
+    "net_bob": "4452.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0956",
+    "paid_orders": 1,
+    "net_bob": "4433.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0743",
+    "paid_orders": 2,
+    "net_bob": "4422.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0169",
+    "paid_orders": 4,
+    "net_bob": "4420.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0764",
+    "paid_orders": 4,
+    "net_bob": "4394.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0944",
+    "paid_orders": 2,
+    "net_bob": "4389.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0427",
+    "paid_orders": 3,
+    "net_bob": "4376.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0643",
+    "paid_orders": 1,
+    "net_bob": "4371.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0943",
+    "paid_orders": 2,
+    "net_bob": "4356.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0677",
+    "paid_orders": 2,
+    "net_bob": "4316.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0535",
+    "paid_orders": 3,
+    "net_bob": "4303.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0721",
+    "paid_orders": 1,
+    "net_bob": "4296.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0913",
+    "paid_orders": 2,
+    "net_bob": "4283.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0987",
+    "paid_orders": 1,
+    "net_bob": "4276.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0481",
+    "paid_orders": 4,
+    "net_bob": "4276.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0657",
+    "paid_orders": 2,
+    "net_bob": "4268.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0357",
+    "paid_orders": 2,
+    "net_bob": "4241.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0621",
+    "paid_orders": 2,
+    "net_bob": "4240.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0561",
+    "paid_orders": 2,
+    "net_bob": "4202.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0591",
+    "paid_orders": 2,
+    "net_bob": "4196.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0546",
+    "paid_orders": 3,
+    "net_bob": "4159.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0588",
+    "paid_orders": 1,
+    "net_bob": "4159.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0879",
+    "paid_orders": 2,
+    "net_bob": "4133.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0920",
+    "paid_orders": 2,
+    "net_bob": "4081.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0889",
+    "paid_orders": 2,
+    "net_bob": "4079.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0334",
+    "paid_orders": 2,
+    "net_bob": "4073.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0484",
+    "paid_orders": 4,
+    "net_bob": "4071.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0309",
+    "paid_orders": 3,
+    "net_bob": "4061.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0471",
+    "paid_orders": 3,
+    "net_bob": "4027.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0641",
+    "paid_orders": 1,
+    "net_bob": "4008.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0617",
+    "paid_orders": 2,
+    "net_bob": "3998.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0586",
+    "paid_orders": 3,
+    "net_bob": "3992.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0488",
+    "paid_orders": 2,
+    "net_bob": "3984.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0349",
+    "paid_orders": 4,
+    "net_bob": "3976.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0738",
+    "paid_orders": 2,
+    "net_bob": "3967.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0328",
+    "paid_orders": 1,
+    "net_bob": "3938.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0800",
+    "paid_orders": 2,
+    "net_bob": "3934.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0502",
+    "paid_orders": 3,
+    "net_bob": "3914.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0553",
+    "paid_orders": 1,
+    "net_bob": "3907.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0604",
+    "paid_orders": 1,
+    "net_bob": "3906.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0468",
+    "paid_orders": 2,
+    "net_bob": "3899.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0636",
+    "paid_orders": 3,
+    "net_bob": "3890.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0853",
+    "paid_orders": 2,
+    "net_bob": "3883.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0515",
+    "paid_orders": 2,
+    "net_bob": "3860.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0510",
+    "paid_orders": 3,
+    "net_bob": "3849.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0936",
+    "paid_orders": 1,
+    "net_bob": "3842.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0615",
+    "paid_orders": 3,
+    "net_bob": "3840.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0445",
+    "paid_orders": 3,
+    "net_bob": "3840.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0596",
+    "paid_orders": 1,
+    "net_bob": "3836.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0375",
+    "paid_orders": 4,
+    "net_bob": "3834.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0884",
+    "paid_orders": 1,
+    "net_bob": "3834.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0426",
+    "paid_orders": 3,
+    "net_bob": "3822.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0475",
+    "paid_orders": 4,
+    "net_bob": "3818.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0667",
+    "paid_orders": 2,
+    "net_bob": "3815.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0552",
+    "paid_orders": 2,
+    "net_bob": "3811.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0814",
+    "paid_orders": 1,
+    "net_bob": "3798.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0799",
+    "paid_orders": 2,
+    "net_bob": "3783.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0793",
+    "paid_orders": 2,
+    "net_bob": "3781.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0843",
+    "paid_orders": 1,
+    "net_bob": "3777.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0899",
+    "paid_orders": 1,
+    "net_bob": "3768.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0798",
+    "paid_orders": 1,
+    "net_bob": "3767.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0717",
+    "paid_orders": 3,
+    "net_bob": "3764.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0267",
+    "paid_orders": 3,
+    "net_bob": "3752.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0696",
+    "paid_orders": 1,
+    "net_bob": "3746.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0870",
+    "paid_orders": 3,
+    "net_bob": "3738.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0544",
+    "paid_orders": 3,
+    "net_bob": "3733.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0564",
+    "paid_orders": 1,
+    "net_bob": "3704.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0489",
+    "paid_orders": 3,
+    "net_bob": "3704.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0506",
+    "paid_orders": 2,
+    "net_bob": "3687.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0788",
+    "paid_orders": 1,
+    "net_bob": "3681.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0754",
+    "paid_orders": 2,
+    "net_bob": "3677.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0904",
+    "paid_orders": 1,
+    "net_bob": "3652.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0999",
+    "paid_orders": 1,
+    "net_bob": "3651.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0446",
+    "paid_orders": 2,
+    "net_bob": "3625.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0728",
+    "paid_orders": 2,
+    "net_bob": "3619.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0990",
+    "paid_orders": 1,
+    "net_bob": "3618.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0890",
+    "paid_orders": 1,
+    "net_bob": "3617.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0308",
+    "paid_orders": 3,
+    "net_bob": "3612.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0707",
+    "paid_orders": 2,
+    "net_bob": "3601.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0516",
+    "paid_orders": 3,
+    "net_bob": "3597.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0710",
+    "paid_orders": 2,
+    "net_bob": "3596.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0415",
+    "paid_orders": 2,
+    "net_bob": "3586.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0713",
+    "paid_orders": 2,
+    "net_bob": "3584.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0755",
+    "paid_orders": 1,
+    "net_bob": "3566.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0416",
+    "paid_orders": 2,
+    "net_bob": "3526.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0864",
+    "paid_orders": 3,
+    "net_bob": "3521.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0931",
+    "paid_orders": 3,
+    "net_bob": "3515.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0756",
+    "paid_orders": 1,
+    "net_bob": "3510.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0565",
+    "paid_orders": 2,
+    "net_bob": "3507.0500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0963",
+    "paid_orders": 2,
+    "net_bob": "3429.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0976",
+    "paid_orders": 1,
+    "net_bob": "3417.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0467",
+    "paid_orders": 2,
+    "net_bob": "3412.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0729",
+    "paid_orders": 2,
+    "net_bob": "3395.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0720",
+    "paid_orders": 4,
+    "net_bob": "3376.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0948",
+    "paid_orders": 2,
+    "net_bob": "3340.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0819",
+    "paid_orders": 3,
+    "net_bob": "3339.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0880",
+    "paid_orders": 2,
+    "net_bob": "3334.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0576",
+    "paid_orders": 2,
+    "net_bob": "3333.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0644",
+    "paid_orders": 2,
+    "net_bob": "3323.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0559",
+    "paid_orders": 1,
+    "net_bob": "3313.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0333",
+    "paid_orders": 3,
+    "net_bob": "3301.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0618",
+    "paid_orders": 1,
+    "net_bob": "3292.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0767",
+    "paid_orders": 2,
+    "net_bob": "3290.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0520",
+    "paid_orders": 1,
+    "net_bob": "3279.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0988",
+    "paid_orders": 2,
+    "net_bob": "3271.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0737",
+    "paid_orders": 2,
+    "net_bob": "3248.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0453",
+    "paid_orders": 2,
+    "net_bob": "3240.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0452",
+    "paid_orders": 2,
+    "net_bob": "3235.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0558",
+    "paid_orders": 2,
+    "net_bob": "3227.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0778",
+    "paid_orders": 2,
+    "net_bob": "3226.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0585",
+    "paid_orders": 1,
+    "net_bob": "3225.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0545",
+    "paid_orders": 1,
+    "net_bob": "3212.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0901",
+    "paid_orders": 2,
+    "net_bob": "3208.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0642",
+    "paid_orders": 3,
+    "net_bob": "3205.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0432",
+    "paid_orders": 2,
+    "net_bob": "3188.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0883",
+    "paid_orders": 2,
+    "net_bob": "3187.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0866",
+    "paid_orders": 2,
+    "net_bob": "3182.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0776",
+    "paid_orders": 1,
+    "net_bob": "3130.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0517",
+    "paid_orders": 2,
+    "net_bob": "3124.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0440",
+    "paid_orders": 2,
+    "net_bob": "3123.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0525",
+    "paid_orders": 4,
+    "net_bob": "3121.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0730",
+    "paid_orders": 2,
+    "net_bob": "3096.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST1000",
+    "paid_orders": 1,
+    "net_bob": "3096.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0456",
+    "paid_orders": 1,
+    "net_bob": "3084.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0809",
+    "paid_orders": 1,
+    "net_bob": "3067.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0577",
+    "paid_orders": 2,
+    "net_bob": "3054.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0989",
+    "paid_orders": 2,
+    "net_bob": "3043.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0317",
+    "paid_orders": 3,
+    "net_bob": "3027.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0794",
+    "paid_orders": 1,
+    "net_bob": "3024.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0903",
+    "paid_orders": 3,
+    "net_bob": "3020.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0915",
+    "paid_orders": 1,
+    "net_bob": "3007.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0568",
+    "paid_orders": 2,
+    "net_bob": "2969.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0581",
+    "paid_orders": 2,
+    "net_bob": "2966.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0482",
+    "paid_orders": 1,
+    "net_bob": "2963.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0867",
+    "paid_orders": 2,
+    "net_bob": "2943.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0821",
+    "paid_orders": 1,
+    "net_bob": "2936.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0900",
+    "paid_orders": 1,
+    "net_bob": "2934.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0645",
+    "paid_orders": 1,
+    "net_bob": "2925.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0630",
+    "paid_orders": 1,
+    "net_bob": "2925.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0687",
+    "paid_orders": 2,
+    "net_bob": "2921.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0919",
+    "paid_orders": 1,
+    "net_bob": "2916.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0652",
+    "paid_orders": 1,
+    "net_bob": "2915.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0550",
+    "paid_orders": 2,
+    "net_bob": "2901.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0407",
+    "paid_orders": 3,
+    "net_bob": "2898.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0433",
+    "paid_orders": 1,
+    "net_bob": "2858.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0947",
+    "paid_orders": 1,
+    "net_bob": "2857.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0982",
+    "paid_orders": 2,
+    "net_bob": "2853.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0939",
+    "paid_orders": 2,
+    "net_bob": "2850.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0654",
+    "paid_orders": 1,
+    "net_bob": "2846.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0914",
+    "paid_orders": 2,
+    "net_bob": "2840.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0831",
+    "paid_orders": 1,
+    "net_bob": "2832.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0602",
+    "paid_orders": 2,
+    "net_bob": "2826.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0541",
+    "paid_orders": 2,
+    "net_bob": "2822.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0975",
+    "paid_orders": 2,
+    "net_bob": "2809.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0669",
+    "paid_orders": 1,
+    "net_bob": "2808.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0910",
+    "paid_orders": 1,
+    "net_bob": "2807.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0519",
+    "paid_orders": 2,
+    "net_bob": "2801.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0680",
+    "paid_orders": 2,
+    "net_bob": "2796.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0945",
+    "paid_orders": 1,
+    "net_bob": "2768.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0895",
+    "paid_orders": 1,
+    "net_bob": "2754.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0305",
+    "paid_orders": 3,
+    "net_bob": "2750.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0377",
+    "paid_orders": 1,
+    "net_bob": "2743.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0406",
+    "paid_orders": 2,
+    "net_bob": "2736.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0607",
+    "paid_orders": 1,
+    "net_bob": "2727.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0470",
+    "paid_orders": 1,
+    "net_bob": "2721.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0759",
+    "paid_orders": 1,
+    "net_bob": "2721.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0582",
+    "paid_orders": 2,
+    "net_bob": "2716.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0733",
+    "paid_orders": 2,
+    "net_bob": "2697.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0885",
+    "paid_orders": 1,
+    "net_bob": "2674.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0663",
+    "paid_orders": 2,
+    "net_bob": "2673.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0823",
+    "paid_orders": 1,
+    "net_bob": "2661.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0817",
+    "paid_orders": 2,
+    "net_bob": "2660.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0969",
+    "paid_orders": 3,
+    "net_bob": "2650.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0934",
+    "paid_orders": 2,
+    "net_bob": "2640.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0742",
+    "paid_orders": 2,
+    "net_bob": "2624.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0726",
+    "paid_orders": 2,
+    "net_bob": "2619.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0994",
+    "paid_orders": 1,
+    "net_bob": "2618.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0852",
+    "paid_orders": 2,
+    "net_bob": "2618.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0905",
+    "paid_orders": 3,
+    "net_bob": "2607.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0612",
+    "paid_orders": 2,
+    "net_bob": "2588.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0736",
+    "paid_orders": 2,
+    "net_bob": "2583.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0840",
+    "paid_orders": 2,
+    "net_bob": "2581.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0671",
+    "paid_orders": 1,
+    "net_bob": "2570.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0704",
+    "paid_orders": 2,
+    "net_bob": "2562.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0547",
+    "paid_orders": 1,
+    "net_bob": "2552.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0861",
+    "paid_orders": 2,
+    "net_bob": "2550.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0539",
+    "paid_orders": 1,
+    "net_bob": "2522.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0998",
+    "paid_orders": 1,
+    "net_bob": "2480.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0422",
+    "paid_orders": 3,
+    "net_bob": "2467.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0839",
+    "paid_orders": 1,
+    "net_bob": "2451.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0970",
+    "paid_orders": 2,
+    "net_bob": "2403.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0876",
+    "paid_orders": 1,
+    "net_bob": "2397.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0981",
+    "paid_orders": 1,
+    "net_bob": "2394.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0758",
+    "paid_orders": 2,
+    "net_bob": "2367.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0804",
+    "paid_orders": 1,
+    "net_bob": "2359.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0774",
+    "paid_orders": 1,
+    "net_bob": "2347.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0449",
+    "paid_orders": 1,
+    "net_bob": "2323.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0749",
+    "paid_orders": 1,
+    "net_bob": "2318.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0792",
+    "paid_orders": 2,
+    "net_bob": "2312.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0189",
+    "paid_orders": 3,
+    "net_bob": "2292.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0787",
+    "paid_orders": 1,
+    "net_bob": "2266.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0554",
+    "paid_orders": 1,
+    "net_bob": "2263.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0262",
+    "paid_orders": 2,
+    "net_bob": "2257.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0766",
+    "paid_orders": 2,
+    "net_bob": "2253.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0307",
+    "paid_orders": 2,
+    "net_bob": "2249.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0469",
+    "paid_orders": 1,
+    "net_bob": "2248.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0703",
+    "paid_orders": 1,
+    "net_bob": "2245.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0527",
+    "paid_orders": 2,
+    "net_bob": "2220.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0846",
+    "paid_orders": 2,
+    "net_bob": "2219.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0436",
+    "paid_orders": 2,
+    "net_bob": "2213.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0926",
+    "paid_orders": 2,
+    "net_bob": "2212.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0757",
+    "paid_orders": 1,
+    "net_bob": "2206.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0841",
+    "paid_orders": 1,
+    "net_bob": "2205.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0701",
+    "paid_orders": 1,
+    "net_bob": "2201.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0526",
+    "paid_orders": 1,
+    "net_bob": "2199.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0499",
+    "paid_orders": 1,
+    "net_bob": "2182.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0836",
+    "paid_orders": 3,
+    "net_bob": "2153.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0706",
+    "paid_orders": 2,
+    "net_bob": "2145.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0684",
+    "paid_orders": 1,
+    "net_bob": "2144.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0691",
+    "paid_orders": 2,
+    "net_bob": "2142.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0487",
+    "paid_orders": 2,
+    "net_bob": "2141.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0694",
+    "paid_orders": 1,
+    "net_bob": "2090.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0605",
+    "paid_orders": 2,
+    "net_bob": "2080.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0785",
+    "paid_orders": 2,
+    "net_bob": "2074.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0708",
+    "paid_orders": 2,
+    "net_bob": "2064.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0695",
+    "paid_orders": 2,
+    "net_bob": "2059.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0673",
+    "paid_orders": 3,
+    "net_bob": "2037.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0365",
+    "paid_orders": 3,
+    "net_bob": "2034.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0522",
+    "paid_orders": 3,
+    "net_bob": "1993.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0442",
+    "paid_orders": 3,
+    "net_bob": "1981.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0828",
+    "paid_orders": 1,
+    "net_bob": "1974.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0894",
+    "paid_orders": 1,
+    "net_bob": "1970.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0548",
+    "paid_orders": 1,
+    "net_bob": "1968.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0822",
+    "paid_orders": 1,
+    "net_bob": "1954.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0871",
+    "paid_orders": 1,
+    "net_bob": "1954.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0675",
+    "paid_orders": 2,
+    "net_bob": "1938.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0938",
+    "paid_orders": 2,
+    "net_bob": "1921.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0912",
+    "paid_orders": 1,
+    "net_bob": "1912.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0603",
+    "paid_orders": 2,
+    "net_bob": "1910.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0637",
+    "paid_orders": 1,
+    "net_bob": "1910.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0940",
+    "paid_orders": 1,
+    "net_bob": "1867.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0425",
+    "paid_orders": 1,
+    "net_bob": "1860.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0396",
+    "paid_orders": 3,
+    "net_bob": "1844.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0807",
+    "paid_orders": 2,
+    "net_bob": "1837.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0786",
+    "paid_orders": 2,
+    "net_bob": "1824.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0665",
+    "paid_orders": 1,
+    "net_bob": "1792.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0796",
+    "paid_orders": 2,
+    "net_bob": "1770.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0345",
+    "paid_orders": 1,
+    "net_bob": "1767.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0859",
+    "paid_orders": 2,
+    "net_bob": "1751.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0844",
+    "paid_orders": 1,
+    "net_bob": "1745.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0646",
+    "paid_orders": 2,
+    "net_bob": "1732.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0780",
+    "paid_orders": 2,
+    "net_bob": "1726.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0797",
+    "paid_orders": 1,
+    "net_bob": "1720.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0648",
+    "paid_orders": 2,
+    "net_bob": "1710.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0946",
+    "paid_orders": 1,
+    "net_bob": "1692.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0784",
+    "paid_orders": 1,
+    "net_bob": "1691.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0672",
+    "paid_orders": 1,
+    "net_bob": "1686.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0724",
+    "paid_orders": 1,
+    "net_bob": "1681.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0768",
+    "paid_orders": 3,
+    "net_bob": "1678.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0810",
+    "paid_orders": 2,
+    "net_bob": "1667.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0978",
+    "paid_orders": 1,
+    "net_bob": "1658.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0579",
+    "paid_orders": 2,
+    "net_bob": "1651.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0765",
+    "paid_orders": 2,
+    "net_bob": "1636.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0958",
+    "paid_orders": 2,
+    "net_bob": "1632.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0962",
+    "paid_orders": 1,
+    "net_bob": "1613.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0745",
+    "paid_orders": 1,
+    "net_bob": "1612.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0878",
+    "paid_orders": 1,
+    "net_bob": "1598.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0906",
+    "paid_orders": 1,
+    "net_bob": "1594.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0812",
+    "paid_orders": 2,
+    "net_bob": "1584.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0925",
+    "paid_orders": 1,
+    "net_bob": "1582.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0941",
+    "paid_orders": 2,
+    "net_bob": "1576.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0746",
+    "paid_orders": 2,
+    "net_bob": "1569.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0655",
+    "paid_orders": 1,
+    "net_bob": "1545.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0606",
+    "paid_orders": 2,
+    "net_bob": "1541.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0340",
+    "paid_orders": 2,
+    "net_bob": "1524.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0842",
+    "paid_orders": 1,
+    "net_bob": "1503.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0748",
+    "paid_orders": 1,
+    "net_bob": "1488.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0751",
+    "paid_orders": 1,
+    "net_bob": "1488.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0688",
+    "paid_orders": 1,
+    "net_bob": "1481.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0865",
+    "paid_orders": 1,
+    "net_bob": "1461.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0682",
+    "paid_orders": 1,
+    "net_bob": "1432.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0972",
+    "paid_orders": 1,
+    "net_bob": "1416.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0805",
+    "paid_orders": 1,
+    "net_bob": "1398.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0623",
+    "paid_orders": 2,
+    "net_bob": "1360.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0997",
+    "paid_orders": 1,
+    "net_bob": "1337.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0907",
+    "paid_orders": 1,
+    "net_bob": "1308.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0979",
+    "paid_orders": 1,
+    "net_bob": "1308.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0782",
+    "paid_orders": 2,
+    "net_bob": "1300.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0549",
+    "paid_orders": 2,
+    "net_bob": "1289.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0712",
+    "paid_orders": 1,
+    "net_bob": "1287.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0851",
+    "paid_orders": 1,
+    "net_bob": "1286.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0891",
+    "paid_orders": 1,
+    "net_bob": "1286.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0567",
+    "paid_orders": 1,
+    "net_bob": "1276.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0833",
+    "paid_orders": 1,
+    "net_bob": "1275.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0668",
+    "paid_orders": 1,
+    "net_bob": "1268.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0957",
+    "paid_orders": 1,
+    "net_bob": "1261.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0649",
+    "paid_orders": 2,
+    "net_bob": "1245.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0709",
+    "paid_orders": 1,
+    "net_bob": "1209.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0882",
+    "paid_orders": 1,
+    "net_bob": "1200.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0772",
+    "paid_orders": 1,
+    "net_bob": "1173.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0530",
+    "paid_orders": 2,
+    "net_bob": "1148.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0896",
+    "paid_orders": 1,
+    "net_bob": "1137.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0693",
+    "paid_orders": 1,
+    "net_bob": "1114.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0888",
+    "paid_orders": 1,
+    "net_bob": "1108.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0825",
+    "paid_orders": 1,
+    "net_bob": "1101.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0418",
+    "paid_orders": 1,
+    "net_bob": "1100.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0443",
+    "paid_orders": 2,
+    "net_bob": "1063.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0556",
+    "paid_orders": 2,
+    "net_bob": "1049.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0857",
+    "paid_orders": 1,
+    "net_bob": "1043.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0902",
+    "paid_orders": 1,
+    "net_bob": "1030.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0996",
+    "paid_orders": 1,
+    "net_bob": "1030.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0771",
+    "paid_orders": 1,
+    "net_bob": "1022.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0795",
+    "paid_orders": 2,
+    "net_bob": "1004.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0909",
+    "paid_orders": 1,
+    "net_bob": "1000.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0571",
+    "paid_orders": 1,
+    "net_bob": "978.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0816",
+    "paid_orders": 1,
+    "net_bob": "965.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0835",
+    "paid_orders": 1,
+    "net_bob": "960.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0881",
+    "paid_orders": 2,
+    "net_bob": "958.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0960",
+    "paid_orders": 1,
+    "net_bob": "956.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0666",
+    "paid_orders": 1,
+    "net_bob": "954.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0801",
+    "paid_orders": 2,
+    "net_bob": "941.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0806",
+    "paid_orders": 1,
+    "net_bob": "936.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0779",
+    "paid_orders": 1,
+    "net_bob": "909.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0923",
+    "paid_orders": 1,
+    "net_bob": "904.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0670",
+    "paid_orders": 2,
+    "net_bob": "896.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0781",
+    "paid_orders": 1,
+    "net_bob": "892.1500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0627",
+    "paid_orders": 1,
+    "net_bob": "875.2500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0847",
+    "paid_orders": 1,
+    "net_bob": "848.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0725",
+    "paid_orders": 2,
+    "net_bob": "813.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0993",
+    "paid_orders": 1,
+    "net_bob": "803.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0509",
+    "paid_orders": 2,
+    "net_bob": "792.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0951",
+    "paid_orders": 1,
+    "net_bob": "788.5500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0966",
+    "paid_orders": 1,
+    "net_bob": "766.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0278",
+    "paid_orders": 2,
+    "net_bob": "760.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0408",
+    "paid_orders": 2,
+    "net_bob": "753.2000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0601",
+    "paid_orders": 1,
+    "net_bob": "741.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0929",
+    "paid_orders": 1,
+    "net_bob": "739.8000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0992",
+    "paid_orders": 1,
+    "net_bob": "739.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0613",
+    "paid_orders": 1,
+    "net_bob": "702.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0529",
+    "paid_orders": 1,
+    "net_bob": "696.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0922",
+    "paid_orders": 1,
+    "net_bob": "686.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0570",
+    "paid_orders": 1,
+    "net_bob": "666.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0457",
+    "paid_orders": 1,
+    "net_bob": "642.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0634",
+    "paid_orders": 1,
+    "net_bob": "628.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0928",
+    "paid_orders": 1,
+    "net_bob": "602.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0491",
+    "paid_orders": 2,
+    "net_bob": "580.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0727",
+    "paid_orders": 1,
+    "net_bob": "574.6500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0364",
+    "paid_orders": 1,
+    "net_bob": "551.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0887",
+    "paid_orders": 2,
+    "net_bob": "546.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0394",
+    "paid_orders": 1,
+    "net_bob": "530.9500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0886",
+    "paid_orders": 1,
+    "net_bob": "530.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0573",
+    "paid_orders": 2,
+    "net_bob": "528.7500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0832",
+    "paid_orders": 1,
+    "net_bob": "505.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0933",
+    "paid_orders": 2,
+    "net_bob": "460.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0775",
+    "paid_orders": 1,
+    "net_bob": "403.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0908",
+    "paid_orders": 1,
+    "net_bob": "369.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0464",
+    "paid_orders": 2,
+    "net_bob": "360.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0995",
+    "paid_orders": 1,
+    "net_bob": "334.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0770",
+    "paid_orders": 1,
+    "net_bob": "317.3000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0324",
+    "paid_orders": 1,
+    "net_bob": "292.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0830",
+    "paid_orders": 1,
+    "net_bob": "266.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0566",
+    "paid_orders": 1,
+    "net_bob": "252.4500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0980",
+    "paid_orders": 1,
+    "net_bob": "229.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0650",
+    "paid_orders": 1,
+    "net_bob": "229.4000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0435",
+    "paid_orders": 1,
+    "net_bob": "211.6000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0578",
+    "paid_orders": 1,
+    "net_bob": "164.7000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0628",
+    "paid_orders": 1,
+    "net_bob": "164.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0660",
+    "paid_orders": 1,
+    "net_bob": "144.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0952",
+    "paid_orders": 1,
+    "net_bob": "144.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0719",
+    "paid_orders": 1,
+    "net_bob": "115.9000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0953",
+    "paid_orders": 1,
+    "net_bob": "111.3500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0533",
+    "paid_orders": 1,
+    "net_bob": "64.8500000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0699",
+    "paid_orders": 1,
+    "net_bob": "35.1000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0984",
+    "paid_orders": 1,
+    "net_bob": "28.5000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0584",
+    "paid_orders": 1,
+    "net_bob": "26.0000000000000000",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0414",
+    "paid_orders": 1,
+    "net_bob": "0E-20",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0523",
+    "paid_orders": 1,
+    "net_bob": "0E-20",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0575",
+    "paid_orders": 1,
+    "net_bob": "0E-20",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  },
+  {
+    "customer_id": "CUST0985",
+    "paid_orders": 1,
+    "net_bob": "0E-20",
+    "repeat_purchase_rate": "0.79500000000000000000"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "[/items: must have at least 1 items but found 0]",
+  "quality.original_filename" : "71a47bc0-fd69-4174-a845-25455e7462aa",
+  "quality.reason" : "[/items: must have at least 1 items but found 0]",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:26:42.811Z",
+  "source" : "rest_api",
+  "quality.csv_reason" : ""
+}

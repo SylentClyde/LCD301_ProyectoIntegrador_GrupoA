@@ -1,0 +1,16 @@
+FROM python:3.12-slim-trixie
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+RUN apt-get update && apt-get install -y --no-install-recommends openjdk-21-jre-headless curl ca-certificates \
+    && ln -s "$(dirname "$(dirname "$(readlink -f "$(command -v java)")")")" /opt/java-home \
+    && rm -rf /var/lib/apt/lists/*
+ENV JAVA_HOME=/opt/java-home
+ENV PATH="/opt/java-home/bin:${PATH}"
+COPY requirements-pipeline.txt /opt/deploy/requirements.txt
+RUN pip install --no-cache-dir -r /opt/deploy/requirements.txt
+RUN mkdir -p /opt/jdbc \
+    && curl --fail --location --retry 3 https://jdbc.postgresql.org/download/postgresql-42.7.7.jar -o /opt/jdbc/postgresql-42.7.7.jar \
+    && echo '157963d60ae66d607e09466e8c0cdf8087e9cb20d0159899ffca96bca2528460  /opt/jdbc/postgresql-42.7.7.jar' | sha256sum -c -
+COPY prepare.py run_batch.py start_service.py /opt/deploy/
+WORKDIR /project
+ENTRYPOINT ["python", "/opt/deploy/run_batch.py"]
+

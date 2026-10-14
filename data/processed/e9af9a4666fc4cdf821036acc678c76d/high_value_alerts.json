@@ -1,0 +1,5050 @@
+[
+  {
+    "event_id": "EVT-000191-PAID",
+    "order_id": "ORD-000191",
+    "customer_id": "CUST0191",
+    "channel": "web",
+    "total_cents": 581520,
+    "event_time": "2026-09-11T23:57:51.000000Z"
+  },
+  {
+    "event_id": "EVT-000270-PAID",
+    "order_id": "ORD-000270",
+    "customer_id": "CUST0270",
+    "channel": "web",
+    "total_cents": 535400,
+    "event_time": "2026-08-29T15:18:43.000000Z"
+  },
+  {
+    "event_id": "EVT-000350-PAID",
+    "order_id": "ORD-000350",
+    "customer_id": "CUST0350",
+    "channel": "web",
+    "total_cents": 510740,
+    "event_time": "2026-05-05T22:49:32.000000Z"
+  },
+  {
+    "event_id": "EVT-000512-PAID",
+    "order_id": "ORD-000512",
+    "customer_id": "CUST0512",
+    "channel": "web",
+    "total_cents": 899620,
+    "event_time": "2026-09-12T13:03:37.000000Z"
+  },
+  {
+    "event_id": "EVT-000551-PAID",
+    "order_id": "ORD-000551",
+    "customer_id": "CUST0551",
+    "channel": "web",
+    "total_cents": 573790,
+    "event_time": "2026-09-05T00:42:44.000000Z"
+  },
+  {
+    "event_id": "EVT-000674-PAID",
+    "order_id": "ORD-000674",
+    "customer_id": "CUST0674",
+    "channel": "web",
+    "total_cents": 513235,
+    "event_time": "2026-07-22T03:08:30.000000Z"
+  },
+  {
+    "event_id": "EVT-000874-PAID",
+    "order_id": "ORD-000874",
+    "customer_id": "CUST0874",
+    "channel": "movil",
+    "total_cents": 658220,
+    "event_time": "2026-05-07T09:48:00.000000Z"
+  },
+  {
+    "event_id": "EVT-000967-PAID",
+    "order_id": "ORD-000967",
+    "customer_id": "CUST0967",
+    "channel": "movil",
+    "total_cents": 587070,
+    "event_time": "2026-08-12T15:59:55.000000Z"
+  },
+  {
+    "event_id": "EVT-000973-PAID",
+    "order_id": "ORD-000973",
+    "customer_id": "CUST0973",
+    "channel": "web",
+    "total_cents": 710930,
+    "event_time": "2026-08-08T18:28:38.000000Z"
+  },
+  {
+    "event_id": "EVT-001089-PAID",
+    "order_id": "ORD-001089",
+    "customer_id": "CUST0010",
+    "channel": "movil",
+    "total_cents": 558800,
+    "event_time": "2026-06-16T19:53:18.000000Z"
+  },
+  {
+    "event_id": "EVT-001170-PAID",
+    "order_id": "ORD-001170",
+    "customer_id": "CUST0036",
+    "channel": "web",
+    "total_cents": 526220,
+    "event_time": "2026-07-28T13:07:16.000000Z"
+  },
+  {
+    "event_id": "EVT-001178-PAID",
+    "order_id": "ORD-001178",
+    "customer_id": "CUST0043",
+    "channel": "movil",
+    "total_cents": 554370,
+    "event_time": "2026-05-02T11:26:31.000000Z"
+  },
+  {
+    "event_id": "EVT-001236-PAID",
+    "order_id": "ORD-001236",
+    "customer_id": "CUST0142",
+    "channel": "tienda",
+    "total_cents": 756640,
+    "event_time": "2026-09-02T20:52:01.000000Z"
+  },
+  {
+    "event_id": "EVT-001270-PAID",
+    "order_id": "ORD-001270",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 510300,
+    "event_time": "2026-08-21T15:51:19.000000Z"
+  },
+  {
+    "event_id": "EVT-001410-PAID",
+    "order_id": "ORD-001410",
+    "customer_id": "CUST0056",
+    "channel": "web",
+    "total_cents": 572120,
+    "event_time": "2026-05-21T03:49:39.000000Z"
+  },
+  {
+    "event_id": "EVT-001421-PAID",
+    "order_id": "ORD-001421",
+    "customer_id": "CUST0033",
+    "channel": "web",
+    "total_cents": 759780,
+    "event_time": "2026-07-08T10:57:54.000000Z"
+  },
+  {
+    "event_id": "EVT-001423-PAID",
+    "order_id": "ORD-001423",
+    "customer_id": "CUST0685",
+    "channel": "web",
+    "total_cents": 506535,
+    "event_time": "2026-07-18T09:15:36.000000Z"
+  },
+  {
+    "event_id": "EVT-001684-PAID",
+    "order_id": "ORD-001684",
+    "customer_id": "CUST0094",
+    "channel": "movil",
+    "total_cents": 552005,
+    "event_time": "2026-08-13T04:27:42.000000Z"
+  },
+  {
+    "event_id": "EVT-001686-PAID",
+    "order_id": "ORD-001686",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 500180,
+    "event_time": "2026-05-30T13:02:33.000000Z"
+  },
+  {
+    "event_id": "EVT-001704-PAID",
+    "order_id": "ORD-001704",
+    "customer_id": "CUST0030",
+    "channel": "tienda",
+    "total_cents": 541215,
+    "event_time": "2026-08-18T05:30:33.000000Z"
+  },
+  {
+    "event_id": "EVT-001705-PAID",
+    "order_id": "ORD-001705",
+    "customer_id": "CUST0121",
+    "channel": "web",
+    "total_cents": 604095,
+    "event_time": "2026-06-01T15:51:59.000000Z"
+  },
+  {
+    "event_id": "EVT-001735-PAID",
+    "order_id": "ORD-001735",
+    "customer_id": "CUST0067",
+    "channel": "web",
+    "total_cents": 502520,
+    "event_time": "2026-05-09T11:46:38.000000Z"
+  },
+  {
+    "event_id": "EVT-001765-PAID",
+    "order_id": "ORD-001765",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 578180,
+    "event_time": "2026-07-08T05:49:54.000000Z"
+  },
+  {
+    "event_id": "EVT-001860-PAID",
+    "order_id": "ORD-001860",
+    "customer_id": "CUST0006",
+    "channel": "tienda",
+    "total_cents": 523680,
+    "event_time": "2026-08-19T00:29:47.000000Z"
+  },
+  {
+    "event_id": "EVT-001911-PAID",
+    "order_id": "ORD-001911",
+    "customer_id": "CUST0316",
+    "channel": "web",
+    "total_cents": 600260,
+    "event_time": "2026-05-22T02:27:38.000000Z"
+  },
+  {
+    "event_id": "EVT-002057-PAID",
+    "order_id": "ORD-002057",
+    "customer_id": "CUST0504",
+    "channel": "movil",
+    "total_cents": 602000,
+    "event_time": "2026-04-18T10:44:32.000000Z"
+  },
+  {
+    "event_id": "EVT-002196-PAID",
+    "order_id": "ORD-002196",
+    "customer_id": "CUST0398",
+    "channel": "tienda",
+    "total_cents": 530720,
+    "event_time": "2026-07-16T16:41:46.000000Z"
+  },
+  {
+    "event_id": "EVT-002306-PAID",
+    "order_id": "ORD-002306",
+    "customer_id": "CUST0014",
+    "channel": "web",
+    "total_cents": 512220,
+    "event_time": "2026-08-24T04:43:50.000000Z"
+  },
+  {
+    "event_id": "EVT-002458-PAID",
+    "order_id": "ORD-002458",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 539950,
+    "event_time": "2026-06-29T18:44:07.000000Z"
+  },
+  {
+    "event_id": "EVT-002494-PAID",
+    "order_id": "ORD-002494",
+    "customer_id": "CUST0017",
+    "channel": "movil",
+    "total_cents": 569745,
+    "event_time": "2026-07-04T20:42:43.000000Z"
+  },
+  {
+    "event_id": "EVT-002509-PAID",
+    "order_id": "ORD-002509",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 705230,
+    "event_time": "2026-05-10T02:04:45.000000Z"
+  },
+  {
+    "event_id": "EVT-002678-PAID",
+    "order_id": "ORD-002678",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 506970,
+    "event_time": "2026-06-29T01:41:42.000000Z"
+  },
+  {
+    "event_id": "EVT-002714-PAID",
+    "order_id": "ORD-002714",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 523510,
+    "event_time": "2026-06-09T09:02:50.000000Z"
+  },
+  {
+    "event_id": "EVT-002729-PAID",
+    "order_id": "ORD-002729",
+    "customer_id": "CUST0018",
+    "channel": "web",
+    "total_cents": 549140,
+    "event_time": "2026-04-22T05:55:25.000000Z"
+  },
+  {
+    "event_id": "EVT-002771-PAID",
+    "order_id": "ORD-002771",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 543600,
+    "event_time": "2026-06-30T17:22:59.000000Z"
+  },
+  {
+    "event_id": "EVT-002842-PAID",
+    "order_id": "ORD-002842",
+    "customer_id": "CUST0013",
+    "channel": "web",
+    "total_cents": 515850,
+    "event_time": "2026-05-28T10:07:42.000000Z"
+  },
+  {
+    "event_id": "EVT-002855-PAID",
+    "order_id": "ORD-002855",
+    "customer_id": "CUST0150",
+    "channel": "web",
+    "total_cents": 553330,
+    "event_time": "2026-08-09T03:48:22.000000Z"
+  },
+  {
+    "event_id": "EVT-002876-PAID",
+    "order_id": "ORD-002876",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 633600,
+    "event_time": "2026-08-24T17:34:41.000000Z"
+  },
+  {
+    "event_id": "EVT-002907-PAID",
+    "order_id": "ORD-002907",
+    "customer_id": "CUST0011",
+    "channel": "movil",
+    "total_cents": 517800,
+    "event_time": "2026-06-13T21:46:37.000000Z"
+  },
+  {
+    "event_id": "EVT-003064-PAID",
+    "order_id": "ORD-003064",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 617700,
+    "event_time": "2026-06-11T08:33:19.000000Z"
+  },
+  {
+    "event_id": "EVT-003121-PAID",
+    "order_id": "ORD-003121",
+    "customer_id": "CUST0071",
+    "channel": "tienda",
+    "total_cents": 534620,
+    "event_time": "2026-04-16T13:17:53.000000Z"
+  },
+  {
+    "event_id": "EVT-003231-PAID",
+    "order_id": "ORD-003231",
+    "customer_id": "CUST0026",
+    "channel": "web",
+    "total_cents": 556220,
+    "event_time": "2026-05-14T06:32:49.000000Z"
+  },
+  {
+    "event_id": "EVT-003243-PAID",
+    "order_id": "ORD-003243",
+    "customer_id": "CUST0023",
+    "channel": "web",
+    "total_cents": 533630,
+    "event_time": "2026-08-14T14:17:06.000000Z"
+  },
+  {
+    "event_id": "EVT-003256-PAID",
+    "order_id": "ORD-003256",
+    "customer_id": "CUST0055",
+    "channel": "tienda",
+    "total_cents": 588320,
+    "event_time": "2026-05-21T09:56:00.000000Z"
+  },
+  {
+    "event_id": "EVT-003325-PAID",
+    "order_id": "ORD-003325",
+    "customer_id": "CUST0017",
+    "channel": "tienda",
+    "total_cents": 513070,
+    "event_time": "2026-06-02T07:19:13.000000Z"
+  },
+  {
+    "event_id": "EVT-003348-PAID",
+    "order_id": "ORD-003348",
+    "customer_id": "CUST0020",
+    "channel": "movil",
+    "total_cents": 540540,
+    "event_time": "2026-05-01T15:51:39.000000Z"
+  },
+  {
+    "event_id": "EVT-003486-PAID",
+    "order_id": "ORD-003486",
+    "customer_id": "CUST0049",
+    "channel": "web",
+    "total_cents": 510975,
+    "event_time": "2026-04-15T17:37:13.000000Z"
+  },
+  {
+    "event_id": "EVT-003570-PAID",
+    "order_id": "ORD-003570",
+    "customer_id": "CUST0066",
+    "channel": "web",
+    "total_cents": 606000,
+    "event_time": "2026-07-04T01:45:46.000000Z"
+  },
+  {
+    "event_id": "EVT-003606-PAID",
+    "order_id": "ORD-003606",
+    "customer_id": "CUST0060",
+    "channel": "web",
+    "total_cents": 580590,
+    "event_time": "2026-07-05T17:14:30.000000Z"
+  },
+  {
+    "event_id": "EVT-003652-PAID",
+    "order_id": "ORD-003652",
+    "customer_id": "CUST0009",
+    "channel": "tienda",
+    "total_cents": 551040,
+    "event_time": "2026-05-03T11:08:43.000000Z"
+  },
+  {
+    "event_id": "EVT-003665-PAID",
+    "order_id": "ORD-003665",
+    "customer_id": "CUST0054",
+    "channel": "web",
+    "total_cents": 512730,
+    "event_time": "2026-05-07T21:13:00.000000Z"
+  },
+  {
+    "event_id": "EVT-003666-PAID",
+    "order_id": "ORD-003666",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 519360,
+    "event_time": "2026-05-22T06:24:15.000000Z"
+  },
+  {
+    "event_id": "EVT-003757-PAID",
+    "order_id": "ORD-003757",
+    "customer_id": "CUST0006",
+    "channel": "tienda",
+    "total_cents": 519880,
+    "event_time": "2026-07-24T15:33:27.000000Z"
+  },
+  {
+    "event_id": "EVT-003853-PAID",
+    "order_id": "ORD-003853",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 545320,
+    "event_time": "2026-07-23T02:39:56.000000Z"
+  },
+  {
+    "event_id": "EVT-004340-PAID",
+    "order_id": "ORD-004340",
+    "customer_id": "CUST0483",
+    "channel": "movil",
+    "total_cents": 500220,
+    "event_time": "2026-04-05T11:45:36.000000Z"
+  },
+  {
+    "event_id": "EVT-004478-PAID",
+    "order_id": "ORD-004478",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 679940,
+    "event_time": "2026-06-13T19:49:43.000000Z"
+  },
+  {
+    "event_id": "EVT-004485-PAID",
+    "order_id": "ORD-004485",
+    "customer_id": "CUST0165",
+    "channel": "web",
+    "total_cents": 673370,
+    "event_time": "2026-04-11T20:31:30.000000Z"
+  },
+  {
+    "event_id": "EVT-004596-PAID",
+    "order_id": "ORD-004596",
+    "customer_id": "CUST0346",
+    "channel": "movil",
+    "total_cents": 585200,
+    "event_time": "2026-07-04T12:45:11.000000Z"
+  },
+  {
+    "event_id": "EVT-004908-PAID",
+    "order_id": "ORD-004908",
+    "customer_id": "CUST0028",
+    "channel": "web",
+    "total_cents": 552090,
+    "event_time": "2026-07-30T04:36:13.000000Z"
+  },
+  {
+    "event_id": "EVT-004936-PAID",
+    "order_id": "ORD-004936",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 633455,
+    "event_time": "2026-06-28T02:52:37.000000Z"
+  },
+  {
+    "event_id": "EVT-004944-PAID",
+    "order_id": "ORD-004944",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 613320,
+    "event_time": "2026-07-30T15:33:50.000000Z"
+  },
+  {
+    "event_id": "EVT-005066-PAID",
+    "order_id": "ORD-005066",
+    "customer_id": "CUST0700",
+    "channel": "movil",
+    "total_cents": 550495,
+    "event_time": "2026-08-10T06:02:26.000000Z"
+  },
+  {
+    "event_id": "EVT-005119-PAID",
+    "order_id": "ORD-005119",
+    "customer_id": "CUST0131",
+    "channel": "web",
+    "total_cents": 549000,
+    "event_time": "2026-07-12T17:58:20.000000Z"
+  },
+  {
+    "event_id": "EVT-005159-PAID",
+    "order_id": "ORD-005159",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 549285,
+    "event_time": "2026-05-16T15:57:00.000000Z"
+  },
+  {
+    "event_id": "EVT-005189-PAID",
+    "order_id": "ORD-005189",
+    "customer_id": "CUST0018",
+    "channel": "web",
+    "total_cents": 613680,
+    "event_time": "2026-07-30T13:49:33.000000Z"
+  },
+  {
+    "event_id": "EVT-005197-PAID",
+    "order_id": "ORD-005197",
+    "customer_id": "CUST0011",
+    "channel": "movil",
+    "total_cents": 564050,
+    "event_time": "2026-07-18T00:03:26.000000Z"
+  },
+  {
+    "event_id": "EVT-005304-PAID",
+    "order_id": "ORD-005304",
+    "customer_id": "CUST0010",
+    "channel": "tienda",
+    "total_cents": 543400,
+    "event_time": "2026-04-22T15:59:42.000000Z"
+  },
+  {
+    "event_id": "EVT-005343-PAID",
+    "order_id": "ORD-005343",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 543700,
+    "event_time": "2026-06-22T07:27:06.000000Z"
+  },
+  {
+    "event_id": "EVT-005538-PAID",
+    "order_id": "ORD-005538",
+    "customer_id": "CUST0030",
+    "channel": "movil",
+    "total_cents": 591120,
+    "event_time": "2026-09-11T00:20:51.000000Z"
+  },
+  {
+    "event_id": "EVT-005577-PAID",
+    "order_id": "ORD-005577",
+    "customer_id": "CUST0017",
+    "channel": "web",
+    "total_cents": 649060,
+    "event_time": "2026-08-16T20:59:16.000000Z"
+  },
+  {
+    "event_id": "EVT-005583-PAID",
+    "order_id": "ORD-005583",
+    "customer_id": "CUST0035",
+    "channel": "web",
+    "total_cents": 565860,
+    "event_time": "2026-08-27T22:54:48.000000Z"
+  },
+  {
+    "event_id": "EVT-005604-PAID",
+    "order_id": "ORD-005604",
+    "customer_id": "CUST0146",
+    "channel": "web",
+    "total_cents": 600265,
+    "event_time": "2026-04-20T18:10:59.000000Z"
+  },
+  {
+    "event_id": "EVT-005686-PAID",
+    "order_id": "ORD-005686",
+    "customer_id": "CUST0046",
+    "channel": "web",
+    "total_cents": 589960,
+    "event_time": "2026-09-13T20:23:46.000000Z"
+  },
+  {
+    "event_id": "EVT-005847-PAID",
+    "order_id": "ORD-005847",
+    "customer_id": "CUST0019",
+    "channel": "tienda",
+    "total_cents": 519710,
+    "event_time": "2026-05-21T11:44:21.000000Z"
+  },
+  {
+    "event_id": "EVT-005850-PAID",
+    "order_id": "ORD-005850",
+    "customer_id": "CUST0019",
+    "channel": "web",
+    "total_cents": 755680,
+    "event_time": "2026-07-19T17:54:07.000000Z"
+  },
+  {
+    "event_id": "EVT-005941-PAID",
+    "order_id": "ORD-005941",
+    "customer_id": "CUST0015",
+    "channel": "web",
+    "total_cents": 507840,
+    "event_time": "2026-07-19T05:25:23.000000Z"
+  },
+  {
+    "event_id": "EVT-006001-PAID",
+    "order_id": "ORD-006001",
+    "customer_id": "CUST0094",
+    "channel": "movil",
+    "total_cents": 568310,
+    "event_time": "2026-05-04T20:21:08.000000Z"
+  },
+  {
+    "event_id": "EVT-006002-PAID",
+    "order_id": "ORD-006002",
+    "customer_id": "CUST0039",
+    "channel": "movil",
+    "total_cents": 525070,
+    "event_time": "2026-06-09T08:11:19.000000Z"
+  },
+  {
+    "event_id": "EVT-006139-PAID",
+    "order_id": "ORD-006139",
+    "customer_id": "CUST0047",
+    "channel": "movil",
+    "total_cents": 524925,
+    "event_time": "2026-08-28T15:24:16.000000Z"
+  },
+  {
+    "event_id": "EVT-006215-PAID",
+    "order_id": "ORD-006215",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 523500,
+    "event_time": "2026-04-21T00:43:08.000000Z"
+  },
+  {
+    "event_id": "EVT-006230-PAID",
+    "order_id": "ORD-006230",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 650170,
+    "event_time": "2026-08-06T09:50:10.000000Z"
+  },
+  {
+    "event_id": "EVT-006306-PAID",
+    "order_id": "ORD-006306",
+    "customer_id": "CUST0013",
+    "channel": "tienda",
+    "total_cents": 563990,
+    "event_time": "2026-06-21T14:49:27.000000Z"
+  },
+  {
+    "event_id": "EVT-006358-PAID",
+    "order_id": "ORD-006358",
+    "customer_id": "CUST0026",
+    "channel": "tienda",
+    "total_cents": 516240,
+    "event_time": "2026-05-29T10:38:23.000000Z"
+  },
+  {
+    "event_id": "EVT-006403-PAID",
+    "order_id": "ORD-006403",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 527090,
+    "event_time": "2026-05-25T03:11:19.000000Z"
+  },
+  {
+    "event_id": "EVT-006552-PAID",
+    "order_id": "ORD-006552",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 515210,
+    "event_time": "2026-08-25T04:33:00.000000Z"
+  },
+  {
+    "event_id": "EVT-006674-PAID",
+    "order_id": "ORD-006674",
+    "customer_id": "CUST0026",
+    "channel": "web",
+    "total_cents": 553240,
+    "event_time": "2026-09-11T14:13:47.000000Z"
+  },
+  {
+    "event_id": "EVT-006705-PAID",
+    "order_id": "ORD-006705",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 609430,
+    "event_time": "2026-09-07T02:59:47.000000Z"
+  },
+  {
+    "event_id": "EVT-006929-PAID",
+    "order_id": "ORD-006929",
+    "customer_id": "CUST0011",
+    "channel": "web",
+    "total_cents": 635580,
+    "event_time": "2026-04-29T06:16:38.000000Z"
+  },
+  {
+    "event_id": "EVT-007054-PAID",
+    "order_id": "ORD-007054",
+    "customer_id": "CUST0140",
+    "channel": "tienda",
+    "total_cents": 572540,
+    "event_time": "2026-08-15T09:39:14.000000Z"
+  },
+  {
+    "event_id": "EVT-007130-PAID",
+    "order_id": "ORD-007130",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 665050,
+    "event_time": "2026-06-13T12:46:08.000000Z"
+  },
+  {
+    "event_id": "EVT-007149-PAID",
+    "order_id": "ORD-007149",
+    "customer_id": "CUST0182",
+    "channel": "movil",
+    "total_cents": 502800,
+    "event_time": "2026-07-08T18:31:59.000000Z"
+  },
+  {
+    "event_id": "EVT-007184-PAID",
+    "order_id": "ORD-007184",
+    "customer_id": "CUST0015",
+    "channel": "web",
+    "total_cents": 770590,
+    "event_time": "2026-06-14T01:13:38.000000Z"
+  },
+  {
+    "event_id": "EVT-007360-PAID",
+    "order_id": "ORD-007360",
+    "customer_id": "CUST0010",
+    "channel": "movil",
+    "total_cents": 653800,
+    "event_time": "2026-04-20T12:32:15.000000Z"
+  },
+  {
+    "event_id": "EVT-007434-PAID",
+    "order_id": "ORD-007434",
+    "customer_id": "CUST0038",
+    "channel": "movil",
+    "total_cents": 540715,
+    "event_time": "2026-04-28T21:03:55.000000Z"
+  },
+  {
+    "event_id": "EVT-007449-PAID",
+    "order_id": "ORD-007449",
+    "customer_id": "CUST0013",
+    "channel": "movil",
+    "total_cents": 580595,
+    "event_time": "2026-07-18T02:31:35.000000Z"
+  },
+  {
+    "event_id": "EVT-007491-PAID",
+    "order_id": "ORD-007491",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 561520,
+    "event_time": "2026-06-01T11:57:31.000000Z"
+  },
+  {
+    "event_id": "EVT-007520-PAID",
+    "order_id": "ORD-007520",
+    "customer_id": "CUST0042",
+    "channel": "web",
+    "total_cents": 528780,
+    "event_time": "2026-06-02T02:16:16.000000Z"
+  },
+  {
+    "event_id": "EVT-007530-PAID",
+    "order_id": "ORD-007530",
+    "customer_id": "CUST0008",
+    "channel": "tienda",
+    "total_cents": 530490,
+    "event_time": "2026-09-06T12:58:01.000000Z"
+  },
+  {
+    "event_id": "EVT-007549-PAID",
+    "order_id": "ORD-007549",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 721400,
+    "event_time": "2026-05-13T01:01:22.000000Z"
+  },
+  {
+    "event_id": "EVT-007780-PAID",
+    "order_id": "ORD-007780",
+    "customer_id": "CUST0037",
+    "channel": "web",
+    "total_cents": 633920,
+    "event_time": "2026-04-04T20:17:09.000000Z"
+  },
+  {
+    "event_id": "EVT-008129-PAID",
+    "order_id": "ORD-008129",
+    "customer_id": "CUST0044",
+    "channel": "movil",
+    "total_cents": 521760,
+    "event_time": "2026-09-10T10:08:55.000000Z"
+  },
+  {
+    "event_id": "EVT-008214-PAID",
+    "order_id": "ORD-008214",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 557980,
+    "event_time": "2026-07-31T12:52:13.000000Z"
+  },
+  {
+    "event_id": "EVT-008268-PAID",
+    "order_id": "ORD-008268",
+    "customer_id": "CUST0082",
+    "channel": "web",
+    "total_cents": 621610,
+    "event_time": "2026-07-31T02:57:27.000000Z"
+  },
+  {
+    "event_id": "EVT-008324-PAID",
+    "order_id": "ORD-008324",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 532640,
+    "event_time": "2026-07-10T11:06:40.000000Z"
+  },
+  {
+    "event_id": "EVT-008430-PAID",
+    "order_id": "ORD-008430",
+    "customer_id": "CUST0017",
+    "channel": "web",
+    "total_cents": 596940,
+    "event_time": "2026-07-28T15:18:43.000000Z"
+  },
+  {
+    "event_id": "EVT-008443-PAID",
+    "order_id": "ORD-008443",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 505100,
+    "event_time": "2026-07-03T09:42:52.000000Z"
+  },
+  {
+    "event_id": "EVT-008466-PAID",
+    "order_id": "ORD-008466",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 664920,
+    "event_time": "2026-08-25T00:43:24.000000Z"
+  },
+  {
+    "event_id": "EVT-008630-PAID",
+    "order_id": "ORD-008630",
+    "customer_id": "CUST0120",
+    "channel": "web",
+    "total_cents": 685220,
+    "event_time": "2026-04-24T06:13:39.000000Z"
+  },
+  {
+    "event_id": "EVT-008685-PAID",
+    "order_id": "ORD-008685",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 515480,
+    "event_time": "2026-04-19T06:01:41.000000Z"
+  },
+  {
+    "event_id": "EVT-008899-PAID",
+    "order_id": "ORD-008899",
+    "customer_id": "CUST0099",
+    "channel": "movil",
+    "total_cents": 520370,
+    "event_time": "2026-08-25T15:14:39.000000Z"
+  },
+  {
+    "event_id": "EVT-008907-PAID",
+    "order_id": "ORD-008907",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 505965,
+    "event_time": "2026-04-06T08:18:45.000000Z"
+  },
+  {
+    "event_id": "EVT-009035-PAID",
+    "order_id": "ORD-009035",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 562710,
+    "event_time": "2026-07-18T00:22:00.000000Z"
+  },
+  {
+    "event_id": "EVT-009048-PAID",
+    "order_id": "ORD-009048",
+    "customer_id": "CUST0071",
+    "channel": "tienda",
+    "total_cents": 730060,
+    "event_time": "2026-08-04T12:24:43.000000Z"
+  },
+  {
+    "event_id": "EVT-009156-PAID",
+    "order_id": "ORD-009156",
+    "customer_id": "CUST0027",
+    "channel": "web",
+    "total_cents": 535740,
+    "event_time": "2026-07-05T07:10:50.000000Z"
+  },
+  {
+    "event_id": "EVT-009231-PAID",
+    "order_id": "ORD-009231",
+    "customer_id": "CUST0074",
+    "channel": "web",
+    "total_cents": 581540,
+    "event_time": "2026-05-30T13:54:29.000000Z"
+  },
+  {
+    "event_id": "EVT-009411-PAID",
+    "order_id": "ORD-009411",
+    "customer_id": "CUST0011",
+    "channel": "tienda",
+    "total_cents": 608760,
+    "event_time": "2026-04-01T16:32:39.000000Z"
+  },
+  {
+    "event_id": "EVT-009470-PAID",
+    "order_id": "ORD-009470",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 726500,
+    "event_time": "2026-09-09T14:30:09.000000Z"
+  },
+  {
+    "event_id": "EVT-009496-PAID",
+    "order_id": "ORD-009496",
+    "customer_id": "CUST0174",
+    "channel": "web",
+    "total_cents": 623725,
+    "event_time": "2026-06-26T10:11:16.000000Z"
+  },
+  {
+    "event_id": "EVT-009604-PAID",
+    "order_id": "ORD-009604",
+    "customer_id": "CUST0138",
+    "channel": "tienda",
+    "total_cents": 562450,
+    "event_time": "2026-06-24T08:58:21.000000Z"
+  },
+  {
+    "event_id": "EVT-009645-PAID",
+    "order_id": "ORD-009645",
+    "customer_id": "CUST0073",
+    "channel": "web",
+    "total_cents": 677000,
+    "event_time": "2026-04-27T08:55:17.000000Z"
+  },
+  {
+    "event_id": "EVT-009777-PAID",
+    "order_id": "ORD-009777",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 549100,
+    "event_time": "2026-06-04T21:08:36.000000Z"
+  },
+  {
+    "event_id": "EVT-009812-PAID",
+    "order_id": "ORD-009812",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 554750,
+    "event_time": "2026-04-01T15:43:32.000000Z"
+  },
+  {
+    "event_id": "EVT-009833-PAID",
+    "order_id": "ORD-009833",
+    "customer_id": "CUST0001",
+    "channel": "tienda",
+    "total_cents": 879360,
+    "event_time": "2026-06-01T23:53:29.000000Z"
+  },
+  {
+    "event_id": "EVT-009860-PAID",
+    "order_id": "ORD-009860",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 565160,
+    "event_time": "2026-06-10T07:02:39.000000Z"
+  },
+  {
+    "event_id": "EVT-009982-PAID",
+    "order_id": "ORD-009982",
+    "customer_id": "CUST0016",
+    "channel": "movil",
+    "total_cents": 521850,
+    "event_time": "2026-07-01T11:34:47.000000Z"
+  },
+  {
+    "event_id": "EVT-010002-PAID",
+    "order_id": "ORD-010002",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 513320,
+    "event_time": "2026-09-13T22:35:31.000000Z"
+  },
+  {
+    "event_id": "EVT-010026-PAID",
+    "order_id": "ORD-010026",
+    "customer_id": "CUST0228",
+    "channel": "movil",
+    "total_cents": 502980,
+    "event_time": "2026-09-01T16:53:00.000000Z"
+  },
+  {
+    "event_id": "EVT-010225-PAID",
+    "order_id": "ORD-010225",
+    "customer_id": "CUST0104",
+    "channel": "movil",
+    "total_cents": 724150,
+    "event_time": "2026-06-25T00:02:46.000000Z"
+  },
+  {
+    "event_id": "EVT-010252-PAID",
+    "order_id": "ORD-010252",
+    "customer_id": "CUST0026",
+    "channel": "movil",
+    "total_cents": 560920,
+    "event_time": "2026-05-04T05:21:48.000000Z"
+  },
+  {
+    "event_id": "EVT-010396-PAID",
+    "order_id": "ORD-010396",
+    "customer_id": "CUST0034",
+    "channel": "web",
+    "total_cents": 553400,
+    "event_time": "2026-06-14T00:51:40.000000Z"
+  },
+  {
+    "event_id": "EVT-010549-PAID",
+    "order_id": "ORD-010549",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 578815,
+    "event_time": "2026-05-13T07:51:03.000000Z"
+  },
+  {
+    "event_id": "EVT-010631-PAID",
+    "order_id": "ORD-010631",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 636420,
+    "event_time": "2026-05-02T12:40:30.000000Z"
+  },
+  {
+    "event_id": "EVT-010651-PAID",
+    "order_id": "ORD-010651",
+    "customer_id": "CUST0103",
+    "channel": "web",
+    "total_cents": 506000,
+    "event_time": "2026-07-19T20:04:23.000000Z"
+  },
+  {
+    "event_id": "EVT-010695-PAID",
+    "order_id": "ORD-010695",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 638760,
+    "event_time": "2026-06-24T10:55:26.000000Z"
+  },
+  {
+    "event_id": "EVT-010712-PAID",
+    "order_id": "ORD-010712",
+    "customer_id": "CUST0039",
+    "channel": "movil",
+    "total_cents": 530905,
+    "event_time": "2026-05-25T13:42:18.000000Z"
+  },
+  {
+    "event_id": "EVT-010735-PAID",
+    "order_id": "ORD-010735",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 669200,
+    "event_time": "2026-06-15T04:53:43.000000Z"
+  },
+  {
+    "event_id": "EVT-010758-PAID",
+    "order_id": "ORD-010758",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 533600,
+    "event_time": "2026-06-23T18:31:26.000000Z"
+  },
+  {
+    "event_id": "EVT-010793-PAID",
+    "order_id": "ORD-010793",
+    "customer_id": "CUST0064",
+    "channel": "web",
+    "total_cents": 501065,
+    "event_time": "2026-08-09T15:43:57.000000Z"
+  },
+  {
+    "event_id": "EVT-010818-PAID",
+    "order_id": "ORD-010818",
+    "customer_id": "CUST0075",
+    "channel": "movil",
+    "total_cents": 551940,
+    "event_time": "2026-04-10T03:14:00.000000Z"
+  },
+  {
+    "event_id": "EVT-010857-PAID",
+    "order_id": "ORD-010857",
+    "customer_id": "CUST0099",
+    "channel": "movil",
+    "total_cents": 708675,
+    "event_time": "2026-06-03T00:59:26.000000Z"
+  },
+  {
+    "event_id": "EVT-010936-PAID",
+    "order_id": "ORD-010936",
+    "customer_id": "CUST0046",
+    "channel": "web",
+    "total_cents": 501105,
+    "event_time": "2026-04-15T20:40:25.000000Z"
+  },
+  {
+    "event_id": "EVT-010974-PAID",
+    "order_id": "ORD-010974",
+    "customer_id": "CUST0034",
+    "channel": "tienda",
+    "total_cents": 615700,
+    "event_time": "2026-09-08T22:22:42.000000Z"
+  },
+  {
+    "event_id": "EVT-010989-PAID",
+    "order_id": "ORD-010989",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 508220,
+    "event_time": "2026-06-21T03:46:56.000000Z"
+  },
+  {
+    "event_id": "EVT-011007-PAID",
+    "order_id": "ORD-011007",
+    "customer_id": "CUST0040",
+    "channel": "web",
+    "total_cents": 597000,
+    "event_time": "2026-05-19T16:08:22.000000Z"
+  },
+  {
+    "event_id": "EVT-011013-PAID",
+    "order_id": "ORD-011013",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 567255,
+    "event_time": "2026-08-08T00:35:46.000000Z"
+  },
+  {
+    "event_id": "EVT-011067-PAID",
+    "order_id": "ORD-011067",
+    "customer_id": "CUST0009",
+    "channel": "movil",
+    "total_cents": 525820,
+    "event_time": "2026-06-03T01:36:44.000000Z"
+  },
+  {
+    "event_id": "EVT-011134-PAID",
+    "order_id": "ORD-011134",
+    "customer_id": "CUST0041",
+    "channel": "movil",
+    "total_cents": 551875,
+    "event_time": "2026-07-04T19:23:26.000000Z"
+  },
+  {
+    "event_id": "EVT-011220-PAID",
+    "order_id": "ORD-011220",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 543540,
+    "event_time": "2026-04-30T14:09:38.000000Z"
+  },
+  {
+    "event_id": "EVT-011253-PAID",
+    "order_id": "ORD-011253",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 728320,
+    "event_time": "2026-04-15T21:08:19.000000Z"
+  },
+  {
+    "event_id": "EVT-011466-PAID",
+    "order_id": "ORD-011466",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 552160,
+    "event_time": "2026-06-19T01:42:46.000000Z"
+  },
+  {
+    "event_id": "EVT-011480-PAID",
+    "order_id": "ORD-011480",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 595180,
+    "event_time": "2026-08-08T14:25:00.000000Z"
+  },
+  {
+    "event_id": "EVT-011494-PAID",
+    "order_id": "ORD-011494",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 734665,
+    "event_time": "2026-06-25T03:16:09.000000Z"
+  },
+  {
+    "event_id": "EVT-011605-PAID",
+    "order_id": "ORD-011605",
+    "customer_id": "CUST0379",
+    "channel": "web",
+    "total_cents": 575220,
+    "event_time": "2026-06-17T10:34:48.000000Z"
+  },
+  {
+    "event_id": "EVT-011613-PAID",
+    "order_id": "ORD-011613",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 784295,
+    "event_time": "2026-05-11T04:29:58.000000Z"
+  },
+  {
+    "event_id": "EVT-011630-PAID",
+    "order_id": "ORD-011630",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 537600,
+    "event_time": "2026-06-18T01:50:32.000000Z"
+  },
+  {
+    "event_id": "EVT-011920-PAID",
+    "order_id": "ORD-011920",
+    "customer_id": "CUST0115",
+    "channel": "movil",
+    "total_cents": 673080,
+    "event_time": "2026-05-10T10:44:06.000000Z"
+  },
+  {
+    "event_id": "EVT-012369-PAID",
+    "order_id": "ORD-012369",
+    "customer_id": "CUST0024",
+    "channel": "web",
+    "total_cents": 510465,
+    "event_time": "2026-06-04T06:18:38.000000Z"
+  },
+  {
+    "event_id": "EVT-012504-PAID",
+    "order_id": "ORD-012504",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 616900,
+    "event_time": "2026-08-30T17:29:35.000000Z"
+  },
+  {
+    "event_id": "EVT-000015-PAID",
+    "order_id": "ORD-000015",
+    "customer_id": "CUST0015",
+    "channel": "movil",
+    "total_cents": 635590,
+    "event_time": "2026-05-10T13:42:01.000000Z"
+  },
+  {
+    "event_id": "EVT-000082-PAID",
+    "order_id": "ORD-000082",
+    "customer_id": "CUST0082",
+    "channel": "movil",
+    "total_cents": 543140,
+    "event_time": "2026-06-06T22:31:23.000000Z"
+  },
+  {
+    "event_id": "EVT-000329-PAID",
+    "order_id": "ORD-000329",
+    "customer_id": "CUST0329",
+    "channel": "web",
+    "total_cents": 634900,
+    "event_time": "2026-07-09T19:28:31.000000Z"
+  },
+  {
+    "event_id": "EVT-000500-PAID",
+    "order_id": "ORD-000500",
+    "customer_id": "CUST0500",
+    "channel": "movil",
+    "total_cents": 573135,
+    "event_time": "2026-08-26T12:32:38.000000Z"
+  },
+  {
+    "event_id": "EVT-000528-PAID",
+    "order_id": "ORD-000528",
+    "customer_id": "CUST0528",
+    "channel": "movil",
+    "total_cents": 544800,
+    "event_time": "2026-09-05T00:54:45.000000Z"
+  },
+  {
+    "event_id": "EVT-000635-PAID",
+    "order_id": "ORD-000635",
+    "customer_id": "CUST0635",
+    "channel": "tienda",
+    "total_cents": 505340,
+    "event_time": "2026-06-11T08:11:56.000000Z"
+  },
+  {
+    "event_id": "EVT-000715-PAID",
+    "order_id": "ORD-000715",
+    "customer_id": "CUST0715",
+    "channel": "tienda",
+    "total_cents": 574100,
+    "event_time": "2026-05-01T11:56:56.000000Z"
+  },
+  {
+    "event_id": "EVT-000877-PAID",
+    "order_id": "ORD-000877",
+    "customer_id": "CUST0877",
+    "channel": "movil",
+    "total_cents": 529320,
+    "event_time": "2026-06-22T23:38:43.000000Z"
+  },
+  {
+    "event_id": "EVT-000893-PAID",
+    "order_id": "ORD-000893",
+    "customer_id": "CUST0893",
+    "channel": "tienda",
+    "total_cents": 511880,
+    "event_time": "2026-06-17T10:55:58.000000Z"
+  },
+  {
+    "event_id": "EVT-000971-PAID",
+    "order_id": "ORD-000971",
+    "customer_id": "CUST0971",
+    "channel": "tienda",
+    "total_cents": 621290,
+    "event_time": "2026-06-22T05:01:14.000000Z"
+  },
+  {
+    "event_id": "EVT-001035-PAID",
+    "order_id": "ORD-001035",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 684930,
+    "event_time": "2026-05-09T19:05:25.000000Z"
+  },
+  {
+    "event_id": "EVT-001144-PAID",
+    "order_id": "ORD-001144",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 814480,
+    "event_time": "2026-08-21T19:45:15.000000Z"
+  },
+  {
+    "event_id": "EVT-001207-PAID",
+    "order_id": "ORD-001207",
+    "customer_id": "CUST0108",
+    "channel": "movil",
+    "total_cents": 527380,
+    "event_time": "2026-07-03T03:51:14.000000Z"
+  },
+  {
+    "event_id": "EVT-001287-PAID",
+    "order_id": "ORD-001287",
+    "customer_id": "CUST0046",
+    "channel": "web",
+    "total_cents": 516035,
+    "event_time": "2026-04-14T10:47:54.000000Z"
+  },
+  {
+    "event_id": "EVT-001325-PAID",
+    "order_id": "ORD-001325",
+    "customer_id": "CUST0093",
+    "channel": "tienda",
+    "total_cents": 673130,
+    "event_time": "2026-08-25T12:33:22.000000Z"
+  },
+  {
+    "event_id": "EVT-001370-PAID",
+    "order_id": "ORD-001370",
+    "customer_id": "CUST0009",
+    "channel": "tienda",
+    "total_cents": 569820,
+    "event_time": "2026-04-15T13:51:04.000000Z"
+  },
+  {
+    "event_id": "EVT-001451-PAID",
+    "order_id": "ORD-001451",
+    "customer_id": "CUST0216",
+    "channel": "movil",
+    "total_cents": 627120,
+    "event_time": "2026-09-09T03:15:57.000000Z"
+  },
+  {
+    "event_id": "EVT-001672-PAID",
+    "order_id": "ORD-001672",
+    "customer_id": "CUST0021",
+    "channel": "tienda",
+    "total_cents": 527150,
+    "event_time": "2026-07-05T22:14:58.000000Z"
+  },
+  {
+    "event_id": "EVT-001698-PAID",
+    "order_id": "ORD-001698",
+    "customer_id": "CUST0856",
+    "channel": "movil",
+    "total_cents": 570340,
+    "event_time": "2026-08-15T16:06:40.000000Z"
+  },
+  {
+    "event_id": "EVT-001708-PAID",
+    "order_id": "ORD-001708",
+    "customer_id": "CUST0192",
+    "channel": "web",
+    "total_cents": 599930,
+    "event_time": "2026-07-05T02:27:38.000000Z"
+  },
+  {
+    "event_id": "EVT-001743-PAID",
+    "order_id": "ORD-001743",
+    "customer_id": "CUST0092",
+    "channel": "web",
+    "total_cents": 599115,
+    "event_time": "2026-04-17T12:09:52.000000Z"
+  },
+  {
+    "event_id": "EVT-001786-PAID",
+    "order_id": "ORD-001786",
+    "customer_id": "CUST0143",
+    "channel": "movil",
+    "total_cents": 516375,
+    "event_time": "2026-05-19T02:11:35.000000Z"
+  },
+  {
+    "event_id": "EVT-001851-PAID",
+    "order_id": "ORD-001851",
+    "customer_id": "CUST0045",
+    "channel": "web",
+    "total_cents": 500040,
+    "event_time": "2026-04-08T01:59:23.000000Z"
+  },
+  {
+    "event_id": "EVT-001859-PAID",
+    "order_id": "ORD-001859",
+    "customer_id": "CUST0095",
+    "channel": "web",
+    "total_cents": 500835,
+    "event_time": "2026-05-31T22:25:44.000000Z"
+  },
+  {
+    "event_id": "EVT-001986-PAID",
+    "order_id": "ORD-001986",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 588200,
+    "event_time": "2026-08-30T17:25:36.000000Z"
+  },
+  {
+    "event_id": "EVT-002034-PAID",
+    "order_id": "ORD-002034",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 551700,
+    "event_time": "2026-09-10T23:31:03.000000Z"
+  },
+  {
+    "event_id": "EVT-002114-PAID",
+    "order_id": "ORD-002114",
+    "customer_id": "CUST0216",
+    "channel": "movil",
+    "total_cents": 604290,
+    "event_time": "2026-07-21T04:00:54.000000Z"
+  },
+  {
+    "event_id": "EVT-002182-PAID",
+    "order_id": "ORD-002182",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 603850,
+    "event_time": "2026-04-04T14:37:35.000000Z"
+  },
+  {
+    "event_id": "EVT-002208-PAID",
+    "order_id": "ORD-002208",
+    "customer_id": "CUST0040",
+    "channel": "movil",
+    "total_cents": 813600,
+    "event_time": "2026-04-12T05:39:41.000000Z"
+  },
+  {
+    "event_id": "EVT-002226-PAID",
+    "order_id": "ORD-002226",
+    "customer_id": "CUST0021",
+    "channel": "movil",
+    "total_cents": 524130,
+    "event_time": "2026-09-05T22:58:35.000000Z"
+  },
+  {
+    "event_id": "EVT-002260-PAID",
+    "order_id": "ORD-002260",
+    "customer_id": "CUST0031",
+    "channel": "web",
+    "total_cents": 522030,
+    "event_time": "2026-06-27T18:40:34.000000Z"
+  },
+  {
+    "event_id": "EVT-002309-PAID",
+    "order_id": "ORD-002309",
+    "customer_id": "CUST0178",
+    "channel": "web",
+    "total_cents": 502325,
+    "event_time": "2026-06-16T16:02:05.000000Z"
+  },
+  {
+    "event_id": "EVT-002324-PAID",
+    "order_id": "ORD-002324",
+    "customer_id": "CUST0021",
+    "channel": "movil",
+    "total_cents": 566680,
+    "event_time": "2026-06-18T00:51:17.000000Z"
+  },
+  {
+    "event_id": "EVT-002452-PAID",
+    "order_id": "ORD-002452",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 523495,
+    "event_time": "2026-07-30T05:33:40.000000Z"
+  },
+  {
+    "event_id": "EVT-002519-PAID",
+    "order_id": "ORD-002519",
+    "customer_id": "CUST0013",
+    "channel": "tienda",
+    "total_cents": 600180,
+    "event_time": "2026-08-18T08:31:28.000000Z"
+  },
+  {
+    "event_id": "EVT-002583-PAID",
+    "order_id": "ORD-002583",
+    "customer_id": "CUST0004",
+    "channel": "tienda",
+    "total_cents": 512210,
+    "event_time": "2026-08-25T19:17:23.000000Z"
+  },
+  {
+    "event_id": "EVT-002602-PAID",
+    "order_id": "ORD-002602",
+    "customer_id": "CUST0030",
+    "channel": "movil",
+    "total_cents": 679880,
+    "event_time": "2026-04-21T17:43:58.000000Z"
+  },
+  {
+    "event_id": "EVT-002626-PAID",
+    "order_id": "ORD-002626",
+    "customer_id": "CUST0079",
+    "channel": "web",
+    "total_cents": 666900,
+    "event_time": "2026-07-16T11:53:07.000000Z"
+  },
+  {
+    "event_id": "EVT-002673-PAID",
+    "order_id": "ORD-002673",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 503345,
+    "event_time": "2026-06-18T02:07:54.000000Z"
+  },
+  {
+    "event_id": "EVT-002686-PAID",
+    "order_id": "ORD-002686",
+    "customer_id": "CUST0120",
+    "channel": "web",
+    "total_cents": 511560,
+    "event_time": "2026-05-22T05:17:02.000000Z"
+  },
+  {
+    "event_id": "EVT-002698-PAID",
+    "order_id": "ORD-002698",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 510020,
+    "event_time": "2026-06-23T17:35:14.000000Z"
+  },
+  {
+    "event_id": "EVT-002757-PAID",
+    "order_id": "ORD-002757",
+    "customer_id": "CUST0027",
+    "channel": "web",
+    "total_cents": 643475,
+    "event_time": "2026-04-16T10:57:54.000000Z"
+  },
+  {
+    "event_id": "EVT-002811-PAID",
+    "order_id": "ORD-002811",
+    "customer_id": "CUST0026",
+    "channel": "movil",
+    "total_cents": 501345,
+    "event_time": "2026-07-15T09:54:39.000000Z"
+  },
+  {
+    "event_id": "EVT-002867-PAID",
+    "order_id": "ORD-002867",
+    "customer_id": "CUST0791",
+    "channel": "tienda",
+    "total_cents": 554170,
+    "event_time": "2026-08-05T12:58:32.000000Z"
+  },
+  {
+    "event_id": "EVT-002930-PAID",
+    "order_id": "ORD-002930",
+    "customer_id": "CUST0060",
+    "channel": "web",
+    "total_cents": 502010,
+    "event_time": "2026-04-07T16:28:32.000000Z"
+  },
+  {
+    "event_id": "EVT-003046-PAID",
+    "order_id": "ORD-003046",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 552900,
+    "event_time": "2026-07-17T00:10:51.000000Z"
+  },
+  {
+    "event_id": "EVT-003125-PAID",
+    "order_id": "ORD-003125",
+    "customer_id": "CUST0066",
+    "channel": "web",
+    "total_cents": 525540,
+    "event_time": "2026-08-11T10:04:33.000000Z"
+  },
+  {
+    "event_id": "EVT-003376-PAID",
+    "order_id": "ORD-003376",
+    "customer_id": "CUST0030",
+    "channel": "web",
+    "total_cents": 578045,
+    "event_time": "2026-06-12T07:38:38.000000Z"
+  },
+  {
+    "event_id": "EVT-003469-PAID",
+    "order_id": "ORD-003469",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 542650,
+    "event_time": "2026-05-13T12:45:23.000000Z"
+  },
+  {
+    "event_id": "EVT-003492-PAID",
+    "order_id": "ORD-003492",
+    "customer_id": "CUST0009",
+    "channel": "tienda",
+    "total_cents": 524190,
+    "event_time": "2026-04-27T22:57:16.000000Z"
+  },
+  {
+    "event_id": "EVT-003627-PAID",
+    "order_id": "ORD-003627",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 658225,
+    "event_time": "2026-04-06T00:44:48.000000Z"
+  },
+  {
+    "event_id": "EVT-003659-PAID",
+    "order_id": "ORD-003659",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 504160,
+    "event_time": "2026-05-07T13:32:44.000000Z"
+  },
+  {
+    "event_id": "EVT-003721-PAID",
+    "order_id": "ORD-003721",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 564600,
+    "event_time": "2026-06-27T04:33:07.000000Z"
+  },
+  {
+    "event_id": "EVT-003804-PAID",
+    "order_id": "ORD-003804",
+    "customer_id": "CUST0006",
+    "channel": "movil",
+    "total_cents": 501780,
+    "event_time": "2026-04-21T10:59:13.000000Z"
+  },
+  {
+    "event_id": "EVT-003959-PAID",
+    "order_id": "ORD-003959",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 609710,
+    "event_time": "2026-06-29T16:49:11.000000Z"
+  },
+  {
+    "event_id": "EVT-003972-PAID",
+    "order_id": "ORD-003972",
+    "customer_id": "CUST0059",
+    "channel": "web",
+    "total_cents": 599540,
+    "event_time": "2026-09-10T14:31:57.000000Z"
+  },
+  {
+    "event_id": "EVT-003987-PAID",
+    "order_id": "ORD-003987",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 561475,
+    "event_time": "2026-06-19T04:30:11.000000Z"
+  },
+  {
+    "event_id": "EVT-004091-PAID",
+    "order_id": "ORD-004091",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 601140,
+    "event_time": "2026-05-01T07:39:06.000000Z"
+  },
+  {
+    "event_id": "EVT-004100-PAID",
+    "order_id": "ORD-004100",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 520700,
+    "event_time": "2026-08-14T10:53:52.000000Z"
+  },
+  {
+    "event_id": "EVT-004104-PAID",
+    "order_id": "ORD-004104",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 713330,
+    "event_time": "2026-04-12T19:47:26.000000Z"
+  },
+  {
+    "event_id": "EVT-004166-PAID",
+    "order_id": "ORD-004166",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 586000,
+    "event_time": "2026-09-09T06:46:34.000000Z"
+  },
+  {
+    "event_id": "EVT-004281-PAID",
+    "order_id": "ORD-004281",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 501750,
+    "event_time": "2026-05-13T04:08:56.000000Z"
+  },
+  {
+    "event_id": "EVT-004314-PAID",
+    "order_id": "ORD-004314",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 552100,
+    "event_time": "2026-09-13T15:44:29.000000Z"
+  },
+  {
+    "event_id": "EVT-004394-PAID",
+    "order_id": "ORD-004394",
+    "customer_id": "CUST0025",
+    "channel": "web",
+    "total_cents": 650775,
+    "event_time": "2026-05-15T12:09:08.000000Z"
+  },
+  {
+    "event_id": "EVT-004547-PAID",
+    "order_id": "ORD-004547",
+    "customer_id": "CUST0066",
+    "channel": "movil",
+    "total_cents": 616450,
+    "event_time": "2026-06-02T05:07:38.000000Z"
+  },
+  {
+    "event_id": "EVT-004550-PAID",
+    "order_id": "ORD-004550",
+    "customer_id": "CUST0093",
+    "channel": "web",
+    "total_cents": 501360,
+    "event_time": "2026-06-25T01:10:01.000000Z"
+  },
+  {
+    "event_id": "EVT-004769-PAID",
+    "order_id": "ORD-004769",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 587400,
+    "event_time": "2026-09-13T17:50:25.000000Z"
+  },
+  {
+    "event_id": "EVT-004806-PAID",
+    "order_id": "ORD-004806",
+    "customer_id": "CUST0141",
+    "channel": "movil",
+    "total_cents": 518660,
+    "event_time": "2026-07-27T07:54:01.000000Z"
+  },
+  {
+    "event_id": "EVT-004910-PAID",
+    "order_id": "ORD-004910",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 687300,
+    "event_time": "2026-04-21T03:29:30.000000Z"
+  },
+  {
+    "event_id": "EVT-005154-PAID",
+    "order_id": "ORD-005154",
+    "customer_id": "CUST0016",
+    "channel": "movil",
+    "total_cents": 571810,
+    "event_time": "2026-08-26T12:35:18.000000Z"
+  },
+  {
+    "event_id": "EVT-005161-PAID",
+    "order_id": "ORD-005161",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 524710,
+    "event_time": "2026-06-25T13:55:57.000000Z"
+  },
+  {
+    "event_id": "EVT-005512-PAID",
+    "order_id": "ORD-005512",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 650205,
+    "event_time": "2026-06-19T22:15:53.000000Z"
+  },
+  {
+    "event_id": "EVT-005544-PAID",
+    "order_id": "ORD-005544",
+    "customer_id": "CUST0019",
+    "channel": "tienda",
+    "total_cents": 640040,
+    "event_time": "2026-05-23T19:15:21.000000Z"
+  },
+  {
+    "event_id": "EVT-005764-PAID",
+    "order_id": "ORD-005764",
+    "customer_id": "CUST0033",
+    "channel": "tienda",
+    "total_cents": 624855,
+    "event_time": "2026-06-28T02:59:54.000000Z"
+  },
+  {
+    "event_id": "EVT-005964-PAID",
+    "order_id": "ORD-005964",
+    "customer_id": "CUST0127",
+    "channel": "movil",
+    "total_cents": 519280,
+    "event_time": "2026-07-17T06:27:46.000000Z"
+  },
+  {
+    "event_id": "EVT-006169-PAID",
+    "order_id": "ORD-006169",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 629220,
+    "event_time": "2026-05-04T16:13:07.000000Z"
+  },
+  {
+    "event_id": "EVT-006312-PAID",
+    "order_id": "ORD-006312",
+    "customer_id": "CUST0803",
+    "channel": "movil",
+    "total_cents": 550040,
+    "event_time": "2026-06-20T23:50:08.000000Z"
+  },
+  {
+    "event_id": "EVT-006320-PAID",
+    "order_id": "ORD-006320",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 509200,
+    "event_time": "2026-09-01T23:20:38.000000Z"
+  },
+  {
+    "event_id": "EVT-006399-PAID",
+    "order_id": "ORD-006399",
+    "customer_id": "CUST0038",
+    "channel": "web",
+    "total_cents": 540800,
+    "event_time": "2026-09-01T14:48:58.000000Z"
+  },
+  {
+    "event_id": "EVT-006406-PAID",
+    "order_id": "ORD-006406",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 543800,
+    "event_time": "2026-05-23T12:55:31.000000Z"
+  },
+  {
+    "event_id": "EVT-006663-PAID",
+    "order_id": "ORD-006663",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 557925,
+    "event_time": "2026-06-15T20:33:51.000000Z"
+  },
+  {
+    "event_id": "EVT-006664-PAID",
+    "order_id": "ORD-006664",
+    "customer_id": "CUST0295",
+    "channel": "movil",
+    "total_cents": 502660,
+    "event_time": "2026-08-26T13:26:25.000000Z"
+  },
+  {
+    "event_id": "EVT-006675-PAID",
+    "order_id": "ORD-006675",
+    "customer_id": "CUST0204",
+    "channel": "web",
+    "total_cents": 548660,
+    "event_time": "2026-08-11T21:13:16.000000Z"
+  },
+  {
+    "event_id": "EVT-006763-PAID",
+    "order_id": "ORD-006763",
+    "customer_id": "CUST0011",
+    "channel": "tienda",
+    "total_cents": 787320,
+    "event_time": "2026-09-09T04:59:01.000000Z"
+  },
+  {
+    "event_id": "EVT-006788-PAID",
+    "order_id": "ORD-006788",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 541520,
+    "event_time": "2026-08-18T10:18:22.000000Z"
+  },
+  {
+    "event_id": "EVT-006804-PAID",
+    "order_id": "ORD-006804",
+    "customer_id": "CUST0187",
+    "channel": "movil",
+    "total_cents": 570780,
+    "event_time": "2026-04-05T03:41:39.000000Z"
+  },
+  {
+    "event_id": "EVT-006825-PAID",
+    "order_id": "ORD-006825",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 516855,
+    "event_time": "2026-07-11T04:47:02.000000Z"
+  },
+  {
+    "event_id": "EVT-006930-PAID",
+    "order_id": "ORD-006930",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 565825,
+    "event_time": "2026-07-26T08:27:02.000000Z"
+  },
+  {
+    "event_id": "EVT-007061-PAID",
+    "order_id": "ORD-007061",
+    "customer_id": "CUST0911",
+    "channel": "movil",
+    "total_cents": 849775,
+    "event_time": "2026-08-21T12:56:59.000000Z"
+  },
+  {
+    "event_id": "EVT-007078-PAID",
+    "order_id": "ORD-007078",
+    "customer_id": "CUST0280",
+    "channel": "web",
+    "total_cents": 528320,
+    "event_time": "2026-08-15T22:45:39.000000Z"
+  },
+  {
+    "event_id": "EVT-007146-PAID",
+    "order_id": "ORD-007146",
+    "customer_id": "CUST0163",
+    "channel": "movil",
+    "total_cents": 581245,
+    "event_time": "2026-07-11T10:29:37.000000Z"
+  },
+  {
+    "event_id": "EVT-007263-PAID",
+    "order_id": "ORD-007263",
+    "customer_id": "CUST0242",
+    "channel": "web",
+    "total_cents": 518800,
+    "event_time": "2026-07-28T17:57:30.000000Z"
+  },
+  {
+    "event_id": "EVT-007446-PAID",
+    "order_id": "ORD-007446",
+    "customer_id": "CUST0790",
+    "channel": "movil",
+    "total_cents": 677540,
+    "event_time": "2026-05-12T03:21:55.000000Z"
+  },
+  {
+    "event_id": "EVT-007536-PAID",
+    "order_id": "ORD-007536",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 756360,
+    "event_time": "2026-04-07T01:43:06.000000Z"
+  },
+  {
+    "event_id": "EVT-007537-PAID",
+    "order_id": "ORD-007537",
+    "customer_id": "CUST0021",
+    "channel": "tienda",
+    "total_cents": 548420,
+    "event_time": "2026-05-07T23:14:26.000000Z"
+  },
+  {
+    "event_id": "EVT-007616-PAID",
+    "order_id": "ORD-007616",
+    "customer_id": "CUST0011",
+    "channel": "web",
+    "total_cents": 837385,
+    "event_time": "2026-04-16T21:48:08.000000Z"
+  },
+  {
+    "event_id": "EVT-007952-PAID",
+    "order_id": "ORD-007952",
+    "customer_id": "CUST0622",
+    "channel": "web",
+    "total_cents": 503210,
+    "event_time": "2026-07-21T01:59:31.000000Z"
+  },
+  {
+    "event_id": "EVT-008082-PAID",
+    "order_id": "ORD-008082",
+    "customer_id": "CUST0141",
+    "channel": "movil",
+    "total_cents": 553545,
+    "event_time": "2026-07-30T01:22:09.000000Z"
+  },
+  {
+    "event_id": "EVT-008137-PAID",
+    "order_id": "ORD-008137",
+    "customer_id": "CUST0723",
+    "channel": "tienda",
+    "total_cents": 556305,
+    "event_time": "2026-05-14T05:49:39.000000Z"
+  },
+  {
+    "event_id": "EVT-008160-PAID",
+    "order_id": "ORD-008160",
+    "customer_id": "CUST0061",
+    "channel": "movil",
+    "total_cents": 563120,
+    "event_time": "2026-06-10T14:05:22.000000Z"
+  },
+  {
+    "event_id": "EVT-008188-PAID",
+    "order_id": "ORD-008188",
+    "customer_id": "CUST0015",
+    "channel": "web",
+    "total_cents": 573160,
+    "event_time": "2026-08-15T13:00:03.000000Z"
+  },
+  {
+    "event_id": "EVT-008231-PAID",
+    "order_id": "ORD-008231",
+    "customer_id": "CUST0046",
+    "channel": "tienda",
+    "total_cents": 693760,
+    "event_time": "2026-07-09T11:45:09.000000Z"
+  },
+  {
+    "event_id": "EVT-008358-PAID",
+    "order_id": "ORD-008358",
+    "customer_id": "CUST0045",
+    "channel": "web",
+    "total_cents": 597800,
+    "event_time": "2026-04-08T14:13:14.000000Z"
+  },
+  {
+    "event_id": "EVT-008419-PAID",
+    "order_id": "ORD-008419",
+    "customer_id": "CUST0858",
+    "channel": "web",
+    "total_cents": 520280,
+    "event_time": "2026-06-06T15:27:47.000000Z"
+  },
+  {
+    "event_id": "EVT-008501-PAID",
+    "order_id": "ORD-008501",
+    "customer_id": "CUST0977",
+    "channel": "web",
+    "total_cents": 614470,
+    "event_time": "2026-08-22T11:53:29.000000Z"
+  },
+  {
+    "event_id": "EVT-008541-PAID",
+    "order_id": "ORD-008541",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 779510,
+    "event_time": "2026-07-19T21:10:44.000000Z"
+  },
+  {
+    "event_id": "EVT-008644-PAID",
+    "order_id": "ORD-008644",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 623040,
+    "event_time": "2026-08-05T09:46:19.000000Z"
+  },
+  {
+    "event_id": "EVT-008741-PAID",
+    "order_id": "ORD-008741",
+    "customer_id": "CUST0026",
+    "channel": "movil",
+    "total_cents": 646220,
+    "event_time": "2026-06-11T06:49:44.000000Z"
+  },
+  {
+    "event_id": "EVT-008753-PAID",
+    "order_id": "ORD-008753",
+    "customer_id": "CUST0035",
+    "channel": "movil",
+    "total_cents": 633100,
+    "event_time": "2026-06-08T02:07:15.000000Z"
+  },
+  {
+    "event_id": "EVT-008774-PAID",
+    "order_id": "ORD-008774",
+    "customer_id": "CUST0003",
+    "channel": "tienda",
+    "total_cents": 618170,
+    "event_time": "2026-06-08T00:32:25.000000Z"
+  },
+  {
+    "event_id": "EVT-008915-PAID",
+    "order_id": "ORD-008915",
+    "customer_id": "CUST0022",
+    "channel": "movil",
+    "total_cents": 562150,
+    "event_time": "2026-07-04T11:57:26.000000Z"
+  },
+  {
+    "event_id": "EVT-009069-PAID",
+    "order_id": "ORD-009069",
+    "customer_id": "CUST0164",
+    "channel": "web",
+    "total_cents": 688840,
+    "event_time": "2026-07-10T12:15:44.000000Z"
+  },
+  {
+    "event_id": "EVT-009278-PAID",
+    "order_id": "ORD-009278",
+    "customer_id": "CUST0019",
+    "channel": "tienda",
+    "total_cents": 656800,
+    "event_time": "2026-04-11T14:18:18.000000Z"
+  },
+  {
+    "event_id": "EVT-009482-PAID",
+    "order_id": "ORD-009482",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 502100,
+    "event_time": "2026-08-04T06:01:30.000000Z"
+  },
+  {
+    "event_id": "EVT-009500-PAID",
+    "order_id": "ORD-009500",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 592570,
+    "event_time": "2026-06-07T03:25:48.000000Z"
+  },
+  {
+    "event_id": "EVT-009543-PAID",
+    "order_id": "ORD-009543",
+    "customer_id": "CUST0006",
+    "channel": "movil",
+    "total_cents": 626400,
+    "event_time": "2026-06-25T01:16:26.000000Z"
+  },
+  {
+    "event_id": "EVT-009590-PAID",
+    "order_id": "ORD-009590",
+    "customer_id": "CUST0018",
+    "channel": "web",
+    "total_cents": 575345,
+    "event_time": "2026-09-13T10:49:17.000000Z"
+  },
+  {
+    "event_id": "EVT-009628-PAID",
+    "order_id": "ORD-009628",
+    "customer_id": "CUST0679",
+    "channel": "web",
+    "total_cents": 514800,
+    "event_time": "2026-07-19T19:31:38.000000Z"
+  },
+  {
+    "event_id": "EVT-009722-PAID",
+    "order_id": "ORD-009722",
+    "customer_id": "CUST0025",
+    "channel": "tienda",
+    "total_cents": 609620,
+    "event_time": "2026-09-01T01:36:08.000000Z"
+  },
+  {
+    "event_id": "EVT-009835-PAID",
+    "order_id": "ORD-009835",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 711650,
+    "event_time": "2026-07-22T07:13:04.000000Z"
+  },
+  {
+    "event_id": "EVT-009940-PAID",
+    "order_id": "ORD-009940",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 583680,
+    "event_time": "2026-06-07T23:59:26.000000Z"
+  },
+  {
+    "event_id": "EVT-010025-PAID",
+    "order_id": "ORD-010025",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 673000,
+    "event_time": "2026-04-11T22:57:43.000000Z"
+  },
+  {
+    "event_id": "EVT-010186-PAID",
+    "order_id": "ORD-010186",
+    "customer_id": "CUST0015",
+    "channel": "tienda",
+    "total_cents": 571200,
+    "event_time": "2026-07-27T09:12:26.000000Z"
+  },
+  {
+    "event_id": "EVT-010270-PAID",
+    "order_id": "ORD-010270",
+    "customer_id": "CUST0014",
+    "channel": "web",
+    "total_cents": 566225,
+    "event_time": "2026-08-25T12:55:49.000000Z"
+  },
+  {
+    "event_id": "EVT-010315-PAID",
+    "order_id": "ORD-010315",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 539360,
+    "event_time": "2026-04-22T00:54:46.000000Z"
+  },
+  {
+    "event_id": "EVT-010409-PAID",
+    "order_id": "ORD-010409",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 555100,
+    "event_time": "2026-07-20T17:12:49.000000Z"
+  },
+  {
+    "event_id": "EVT-010548-PAID",
+    "order_id": "ORD-010548",
+    "customer_id": "CUST0097",
+    "channel": "movil",
+    "total_cents": 644540,
+    "event_time": "2026-04-22T01:22:39.000000Z"
+  },
+  {
+    "event_id": "EVT-010550-PAID",
+    "order_id": "ORD-010550",
+    "customer_id": "CUST0108",
+    "channel": "web",
+    "total_cents": 564295,
+    "event_time": "2026-08-18T19:21:44.000000Z"
+  },
+  {
+    "event_id": "EVT-010660-PAID",
+    "order_id": "ORD-010660",
+    "customer_id": "CUST0018",
+    "channel": "web",
+    "total_cents": 759675,
+    "event_time": "2026-04-12T14:28:31.000000Z"
+  },
+  {
+    "event_id": "EVT-010732-PAID",
+    "order_id": "ORD-010732",
+    "customer_id": "CUST0059",
+    "channel": "movil",
+    "total_cents": 683270,
+    "event_time": "2026-06-28T12:15:20.000000Z"
+  },
+  {
+    "event_id": "EVT-010937-PAID",
+    "order_id": "ORD-010937",
+    "customer_id": "CUST0013",
+    "channel": "tienda",
+    "total_cents": 586760,
+    "event_time": "2026-07-14T20:52:59.000000Z"
+  },
+  {
+    "event_id": "EVT-010973-PAID",
+    "order_id": "ORD-010973",
+    "customer_id": "CUST0625",
+    "channel": "tienda",
+    "total_cents": 579160,
+    "event_time": "2026-06-27T11:37:53.000000Z"
+  },
+  {
+    "event_id": "EVT-011051-PAID",
+    "order_id": "ORD-011051",
+    "customer_id": "CUST0018",
+    "channel": "web",
+    "total_cents": 649720,
+    "event_time": "2026-06-22T14:16:38.000000Z"
+  },
+  {
+    "event_id": "EVT-011056-PAID",
+    "order_id": "ORD-011056",
+    "customer_id": "CUST0404",
+    "channel": "movil",
+    "total_cents": 501920,
+    "event_time": "2026-08-20T23:22:34.000000Z"
+  },
+  {
+    "event_id": "EVT-011070-PAID",
+    "order_id": "ORD-011070",
+    "customer_id": "CUST0039",
+    "channel": "web",
+    "total_cents": 534270,
+    "event_time": "2026-08-22T10:28:52.000000Z"
+  },
+  {
+    "event_id": "EVT-011087-PAID",
+    "order_id": "ORD-011087",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 654620,
+    "event_time": "2026-06-26T01:41:12.000000Z"
+  },
+  {
+    "event_id": "EVT-011124-PAID",
+    "order_id": "ORD-011124",
+    "customer_id": "CUST0119",
+    "channel": "movil",
+    "total_cents": 503680,
+    "event_time": "2026-09-01T01:28:18.000000Z"
+  },
+  {
+    "event_id": "EVT-011193-PAID",
+    "order_id": "ORD-011193",
+    "customer_id": "CUST0042",
+    "channel": "movil",
+    "total_cents": 559140,
+    "event_time": "2026-05-05T07:03:51.000000Z"
+  },
+  {
+    "event_id": "EVT-011267-PAID",
+    "order_id": "ORD-011267",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 509660,
+    "event_time": "2026-09-04T09:20:12.000000Z"
+  },
+  {
+    "event_id": "EVT-011325-PAID",
+    "order_id": "ORD-011325",
+    "customer_id": "CUST0018",
+    "channel": "movil",
+    "total_cents": 508470,
+    "event_time": "2026-05-20T14:14:38.000000Z"
+  },
+  {
+    "event_id": "EVT-011346-PAID",
+    "order_id": "ORD-011346",
+    "customer_id": "CUST0511",
+    "channel": "web",
+    "total_cents": 540545,
+    "event_time": "2026-04-03T08:18:55.000000Z"
+  },
+  {
+    "event_id": "EVT-011493-PAID",
+    "order_id": "ORD-011493",
+    "customer_id": "CUST0027",
+    "channel": "movil",
+    "total_cents": 501750,
+    "event_time": "2026-05-20T03:10:19.000000Z"
+  },
+  {
+    "event_id": "EVT-011572-PAID",
+    "order_id": "ORD-011572",
+    "customer_id": "CUST0014",
+    "channel": "movil",
+    "total_cents": 541300,
+    "event_time": "2026-09-09T00:24:27.000000Z"
+  },
+  {
+    "event_id": "EVT-011799-PAID",
+    "order_id": "ORD-011799",
+    "customer_id": "CUST0611",
+    "channel": "web",
+    "total_cents": 517090,
+    "event_time": "2026-08-07T23:59:32.000000Z"
+  },
+  {
+    "event_id": "EVT-011943-PAID",
+    "order_id": "ORD-011943",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 528060,
+    "event_time": "2026-07-07T07:00:09.000000Z"
+  },
+  {
+    "event_id": "EVT-011946-PAID",
+    "order_id": "ORD-011946",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 519160,
+    "event_time": "2026-06-29T15:27:16.000000Z"
+  },
+  {
+    "event_id": "EVT-012158-PAID",
+    "order_id": "ORD-012158",
+    "customer_id": "CUST0034",
+    "channel": "tienda",
+    "total_cents": 502600,
+    "event_time": "2026-04-30T01:09:22.000000Z"
+  },
+  {
+    "event_id": "EVT-012203-PAID",
+    "order_id": "ORD-012203",
+    "customer_id": "CUST0030",
+    "channel": "movil",
+    "total_cents": 522780,
+    "event_time": "2026-08-23T16:50:50.000000Z"
+  },
+  {
+    "event_id": "EVT-012361-PAID",
+    "order_id": "ORD-012361",
+    "customer_id": "CUST0188",
+    "channel": "web",
+    "total_cents": 501215,
+    "event_time": "2026-05-11T14:21:46.000000Z"
+  },
+  {
+    "event_id": "EVT-012372-PAID",
+    "order_id": "ORD-012372",
+    "customer_id": "CUST0818",
+    "channel": "web",
+    "total_cents": 754340,
+    "event_time": "2026-09-06T13:11:47.000000Z"
+  },
+  {
+    "event_id": "EVT-012411-PAID",
+    "order_id": "ORD-012411",
+    "customer_id": "CUST0070",
+    "channel": "tienda",
+    "total_cents": 587310,
+    "event_time": "2026-08-17T07:05:04.000000Z"
+  },
+  {
+    "event_id": "EVT-012768-PAID",
+    "order_id": "ORD-012768",
+    "customer_id": "CUST0011",
+    "channel": "web",
+    "total_cents": 521205,
+    "event_time": "2026-04-15T03:54:20.000000Z"
+  },
+  {
+    "event_id": "EVT-000120-PAID",
+    "order_id": "ORD-000120",
+    "customer_id": "CUST0120",
+    "channel": "movil",
+    "total_cents": 611225,
+    "event_time": "2026-08-19T01:22:01.000000Z"
+  },
+  {
+    "event_id": "EVT-000235-PAID",
+    "order_id": "ORD-000235",
+    "customer_id": "CUST0235",
+    "channel": "movil",
+    "total_cents": 516100,
+    "event_time": "2026-09-06T14:30:10.000000Z"
+  },
+  {
+    "event_id": "EVT-000250-PAID",
+    "order_id": "ORD-000250",
+    "customer_id": "CUST0250",
+    "channel": "tienda",
+    "total_cents": 608700,
+    "event_time": "2026-04-30T13:38:25.000000Z"
+  },
+  {
+    "event_id": "EVT-000358-PAID",
+    "order_id": "ORD-000358",
+    "customer_id": "CUST0358",
+    "channel": "movil",
+    "total_cents": 611050,
+    "event_time": "2026-07-02T01:50:30.000000Z"
+  },
+  {
+    "event_id": "EVT-000572-PAID",
+    "order_id": "ORD-000572",
+    "customer_id": "CUST0572",
+    "channel": "web",
+    "total_cents": 862600,
+    "event_time": "2026-04-26T11:50:57.000000Z"
+  },
+  {
+    "event_id": "EVT-000679-PAID",
+    "order_id": "ORD-000679",
+    "customer_id": "CUST0679",
+    "channel": "movil",
+    "total_cents": 550505,
+    "event_time": "2026-04-27T16:17:26.000000Z"
+  },
+  {
+    "event_id": "EVT-000681-PAID",
+    "order_id": "ORD-000681",
+    "customer_id": "CUST0681",
+    "channel": "movil",
+    "total_cents": 705100,
+    "event_time": "2026-06-13T05:11:20.000000Z"
+  },
+  {
+    "event_id": "EVT-000722-PAID",
+    "order_id": "ORD-000722",
+    "customer_id": "CUST0722",
+    "channel": "web",
+    "total_cents": 645730,
+    "event_time": "2026-08-06T08:13:23.000000Z"
+  },
+  {
+    "event_id": "EVT-000987-PAID",
+    "order_id": "ORD-000987",
+    "customer_id": "CUST0987",
+    "channel": "web",
+    "total_cents": 619860,
+    "event_time": "2026-04-05T09:12:17.000000Z"
+  },
+  {
+    "event_id": "EVT-001007-PAID",
+    "order_id": "ORD-001007",
+    "customer_id": "CUST0021",
+    "channel": "movil",
+    "total_cents": 545060,
+    "event_time": "2026-07-22T13:24:24.000000Z"
+  },
+  {
+    "event_id": "EVT-001076-PAID",
+    "order_id": "ORD-001076",
+    "customer_id": "CUST0027",
+    "channel": "movil",
+    "total_cents": 519540,
+    "event_time": "2026-05-15T00:55:20.000000Z"
+  },
+  {
+    "event_id": "EVT-001112-PAID",
+    "order_id": "ORD-001112",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 589410,
+    "event_time": "2026-08-01T23:10:58.000000Z"
+  },
+  {
+    "event_id": "EVT-001142-PAID",
+    "order_id": "ORD-001142",
+    "customer_id": "CUST0137",
+    "channel": "web",
+    "total_cents": 531800,
+    "event_time": "2026-08-02T16:14:22.000000Z"
+  },
+  {
+    "event_id": "EVT-001333-PAID",
+    "order_id": "ORD-001333",
+    "customer_id": "CUST0505",
+    "channel": "web",
+    "total_cents": 535080,
+    "event_time": "2026-05-18T22:53:58.000000Z"
+  },
+  {
+    "event_id": "EVT-001404-PAID",
+    "order_id": "ORD-001404",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 525420,
+    "event_time": "2026-06-09T00:23:13.000000Z"
+  },
+  {
+    "event_id": "EVT-001471-PAID",
+    "order_id": "ORD-001471",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 606320,
+    "event_time": "2026-08-17T23:38:20.000000Z"
+  },
+  {
+    "event_id": "EVT-001520-PAID",
+    "order_id": "ORD-001520",
+    "customer_id": "CUST0075",
+    "channel": "web",
+    "total_cents": 580400,
+    "event_time": "2026-04-10T11:49:08.000000Z"
+  },
+  {
+    "event_id": "EVT-001568-PAID",
+    "order_id": "ORD-001568",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 564140,
+    "event_time": "2026-06-02T13:25:17.000000Z"
+  },
+  {
+    "event_id": "EVT-001689-PAID",
+    "order_id": "ORD-001689",
+    "customer_id": "CUST0072",
+    "channel": "movil",
+    "total_cents": 680060,
+    "event_time": "2026-04-25T03:59:04.000000Z"
+  },
+  {
+    "event_id": "EVT-001881-PAID",
+    "order_id": "ORD-001881",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 897930,
+    "event_time": "2026-04-29T19:24:11.000000Z"
+  },
+  {
+    "event_id": "EVT-001905-PAID",
+    "order_id": "ORD-001905",
+    "customer_id": "CUST0378",
+    "channel": "movil",
+    "total_cents": 611990,
+    "event_time": "2026-04-14T14:18:44.000000Z"
+  },
+  {
+    "event_id": "EVT-001924-PAID",
+    "order_id": "ORD-001924",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 540835,
+    "event_time": "2026-07-04T01:38:27.000000Z"
+  },
+  {
+    "event_id": "EVT-001928-PAID",
+    "order_id": "ORD-001928",
+    "customer_id": "CUST0058",
+    "channel": "movil",
+    "total_cents": 540720,
+    "event_time": "2026-04-22T03:00:09.000000Z"
+  },
+  {
+    "event_id": "EVT-001965-PAID",
+    "order_id": "ORD-001965",
+    "customer_id": "CUST0193",
+    "channel": "tienda",
+    "total_cents": 513750,
+    "event_time": "2026-05-21T03:42:35.000000Z"
+  },
+  {
+    "event_id": "EVT-002023-PAID",
+    "order_id": "ORD-002023",
+    "customer_id": "CUST0218",
+    "channel": "tienda",
+    "total_cents": 608455,
+    "event_time": "2026-04-03T00:58:52.000000Z"
+  },
+  {
+    "event_id": "EVT-002097-PAID",
+    "order_id": "ORD-002097",
+    "customer_id": "CUST0065",
+    "channel": "web",
+    "total_cents": 503500,
+    "event_time": "2026-05-15T13:38:58.000000Z"
+  },
+  {
+    "event_id": "EVT-002126-PAID",
+    "order_id": "ORD-002126",
+    "customer_id": "CUST0017",
+    "channel": "movil",
+    "total_cents": 530830,
+    "event_time": "2026-06-03T20:47:06.000000Z"
+  },
+  {
+    "event_id": "EVT-002165-PAID",
+    "order_id": "ORD-002165",
+    "customer_id": "CUST0133",
+    "channel": "movil",
+    "total_cents": 530470,
+    "event_time": "2026-05-21T02:58:13.000000Z"
+  },
+  {
+    "event_id": "EVT-002168-PAID",
+    "order_id": "ORD-002168",
+    "customer_id": "CUST0056",
+    "channel": "tienda",
+    "total_cents": 503220,
+    "event_time": "2026-07-14T04:14:41.000000Z"
+  },
+  {
+    "event_id": "EVT-002169-PAID",
+    "order_id": "ORD-002169",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 557705,
+    "event_time": "2026-04-04T10:36:24.000000Z"
+  },
+  {
+    "event_id": "EVT-002207-PAID",
+    "order_id": "ORD-002207",
+    "customer_id": "CUST0620",
+    "channel": "movil",
+    "total_cents": 599480,
+    "event_time": "2026-08-29T04:48:00.000000Z"
+  },
+  {
+    "event_id": "EVT-002305-PAID",
+    "order_id": "ORD-002305",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 660820,
+    "event_time": "2026-05-01T17:41:16.000000Z"
+  },
+  {
+    "event_id": "EVT-002365-PAID",
+    "order_id": "ORD-002365",
+    "customer_id": "CUST0048",
+    "channel": "web",
+    "total_cents": 554055,
+    "event_time": "2026-05-24T01:54:58.000000Z"
+  },
+  {
+    "event_id": "EVT-002383-PAID",
+    "order_id": "ORD-002383",
+    "customer_id": "CUST0102",
+    "channel": "web",
+    "total_cents": 501280,
+    "event_time": "2026-09-13T16:18:53.000000Z"
+  },
+  {
+    "event_id": "EVT-002471-PAID",
+    "order_id": "ORD-002471",
+    "customer_id": "CUST0011",
+    "channel": "web",
+    "total_cents": 667280,
+    "event_time": "2026-08-21T20:17:30.000000Z"
+  },
+  {
+    "event_id": "EVT-002553-PAID",
+    "order_id": "ORD-002553",
+    "customer_id": "CUST0338",
+    "channel": "web",
+    "total_cents": 693560,
+    "event_time": "2026-07-14T10:02:38.000000Z"
+  },
+  {
+    "event_id": "EVT-002562-PAID",
+    "order_id": "ORD-002562",
+    "customer_id": "CUST0361",
+    "channel": "movil",
+    "total_cents": 549665,
+    "event_time": "2026-08-17T12:19:06.000000Z"
+  },
+  {
+    "event_id": "EVT-002634-PAID",
+    "order_id": "ORD-002634",
+    "customer_id": "CUST0043",
+    "channel": "web",
+    "total_cents": 559040,
+    "event_time": "2026-04-12T15:22:27.000000Z"
+  },
+  {
+    "event_id": "EVT-002822-PAID",
+    "order_id": "ORD-002822",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 511450,
+    "event_time": "2026-05-09T21:21:51.000000Z"
+  },
+  {
+    "event_id": "EVT-002854-PAID",
+    "order_id": "ORD-002854",
+    "customer_id": "CUST0101",
+    "channel": "web",
+    "total_cents": 698955,
+    "event_time": "2026-07-21T12:20:50.000000Z"
+  },
+  {
+    "event_id": "EVT-002887-PAID",
+    "order_id": "ORD-002887",
+    "customer_id": "CUST0021",
+    "channel": "movil",
+    "total_cents": 663710,
+    "event_time": "2026-05-03T14:41:43.000000Z"
+  },
+  {
+    "event_id": "EVT-003142-PAID",
+    "order_id": "ORD-003142",
+    "customer_id": "CUST0046",
+    "channel": "movil",
+    "total_cents": 512000,
+    "event_time": "2026-05-24T18:46:21.000000Z"
+  },
+  {
+    "event_id": "EVT-003190-PAID",
+    "order_id": "ORD-003190",
+    "customer_id": "CUST0035",
+    "channel": "movil",
+    "total_cents": 589940,
+    "event_time": "2026-04-13T00:18:43.000000Z"
+  },
+  {
+    "event_id": "EVT-003267-PAID",
+    "order_id": "ORD-003267",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 716480,
+    "event_time": "2026-06-23T10:38:28.000000Z"
+  },
+  {
+    "event_id": "EVT-003320-PAID",
+    "order_id": "ORD-003320",
+    "customer_id": "CUST0653",
+    "channel": "web",
+    "total_cents": 685200,
+    "event_time": "2026-05-02T18:31:00.000000Z"
+  },
+  {
+    "event_id": "EVT-003322-PAID",
+    "order_id": "ORD-003322",
+    "customer_id": "CUST0020",
+    "channel": "tienda",
+    "total_cents": 546400,
+    "event_time": "2026-08-15T07:24:10.000000Z"
+  },
+  {
+    "event_id": "EVT-003369-PAID",
+    "order_id": "ORD-003369",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 552400,
+    "event_time": "2026-07-30T13:09:26.000000Z"
+  },
+  {
+    "event_id": "EVT-003374-PAID",
+    "order_id": "ORD-003374",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 508560,
+    "event_time": "2026-09-10T02:57:33.000000Z"
+  },
+  {
+    "event_id": "EVT-003484-PAID",
+    "order_id": "ORD-003484",
+    "customer_id": "CUST0078",
+    "channel": "web",
+    "total_cents": 699860,
+    "event_time": "2026-05-18T23:53:42.000000Z"
+  },
+  {
+    "event_id": "EVT-003513-PAID",
+    "order_id": "ORD-003513",
+    "customer_id": "CUST0079",
+    "channel": "web",
+    "total_cents": 561435,
+    "event_time": "2026-04-21T13:05:11.000000Z"
+  },
+  {
+    "event_id": "EVT-003684-PAID",
+    "order_id": "ORD-003684",
+    "customer_id": "CUST0361",
+    "channel": "web",
+    "total_cents": 503120,
+    "event_time": "2026-07-05T01:21:17.000000Z"
+  },
+  {
+    "event_id": "EVT-003825-PAID",
+    "order_id": "ORD-003825",
+    "customer_id": "CUST0474",
+    "channel": "web",
+    "total_cents": 527600,
+    "event_time": "2026-06-03T02:41:13.000000Z"
+  },
+  {
+    "event_id": "EVT-003827-PAID",
+    "order_id": "ORD-003827",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 549975,
+    "event_time": "2026-08-10T22:52:34.000000Z"
+  },
+  {
+    "event_id": "EVT-003855-PAID",
+    "order_id": "ORD-003855",
+    "customer_id": "CUST0113",
+    "channel": "movil",
+    "total_cents": 582260,
+    "event_time": "2026-05-09T23:41:23.000000Z"
+  },
+  {
+    "event_id": "EVT-003882-PAID",
+    "order_id": "ORD-003882",
+    "customer_id": "CUST0055",
+    "channel": "movil",
+    "total_cents": 598200,
+    "event_time": "2026-06-25T18:59:17.000000Z"
+  },
+  {
+    "event_id": "EVT-003902-PAID",
+    "order_id": "ORD-003902",
+    "customer_id": "CUST0873",
+    "channel": "tienda",
+    "total_cents": 523980,
+    "event_time": "2026-07-31T12:41:40.000000Z"
+  },
+  {
+    "event_id": "EVT-004037-PAID",
+    "order_id": "ORD-004037",
+    "customer_id": "CUST0029",
+    "channel": "web",
+    "total_cents": 513560,
+    "event_time": "2026-08-21T10:35:25.000000Z"
+  },
+  {
+    "event_id": "EVT-004058-PAID",
+    "order_id": "ORD-004058",
+    "customer_id": "CUST0955",
+    "channel": "web",
+    "total_cents": 555560,
+    "event_time": "2026-07-28T14:16:49.000000Z"
+  },
+  {
+    "event_id": "EVT-004112-PAID",
+    "order_id": "ORD-004112",
+    "customer_id": "CUST0338",
+    "channel": "movil",
+    "total_cents": 519260,
+    "event_time": "2026-09-03T10:03:43.000000Z"
+  },
+  {
+    "event_id": "EVT-004126-PAID",
+    "order_id": "ORD-004126",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 577375,
+    "event_time": "2026-06-19T01:08:55.000000Z"
+  },
+  {
+    "event_id": "EVT-004249-PAID",
+    "order_id": "ORD-004249",
+    "customer_id": "CUST0014",
+    "channel": "movil",
+    "total_cents": 585500,
+    "event_time": "2026-07-31T18:49:39.000000Z"
+  },
+  {
+    "event_id": "EVT-004270-PAID",
+    "order_id": "ORD-004270",
+    "customer_id": "CUST0019",
+    "channel": "movil",
+    "total_cents": 523010,
+    "event_time": "2026-06-22T14:19:52.000000Z"
+  },
+  {
+    "event_id": "EVT-004272-PAID",
+    "order_id": "ORD-004272",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 529760,
+    "event_time": "2026-06-15T10:47:01.000000Z"
+  },
+  {
+    "event_id": "EVT-004298-PAID",
+    "order_id": "ORD-004298",
+    "customer_id": "CUST0363",
+    "channel": "web",
+    "total_cents": 546280,
+    "event_time": "2026-05-28T12:06:40.000000Z"
+  },
+  {
+    "event_id": "EVT-004362-PAID",
+    "order_id": "ORD-004362",
+    "customer_id": "CUST0010",
+    "channel": "movil",
+    "total_cents": 576100,
+    "event_time": "2026-05-03T11:10:31.000000Z"
+  },
+  {
+    "event_id": "EVT-004501-PAID",
+    "order_id": "ORD-004501",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 579000,
+    "event_time": "2026-06-14T09:39:13.000000Z"
+  },
+  {
+    "event_id": "EVT-004642-PAID",
+    "order_id": "ORD-004642",
+    "customer_id": "CUST0096",
+    "channel": "movil",
+    "total_cents": 536430,
+    "event_time": "2026-04-14T08:31:09.000000Z"
+  },
+  {
+    "event_id": "EVT-004708-PAID",
+    "order_id": "ORD-004708",
+    "customer_id": "CUST0006",
+    "channel": "tienda",
+    "total_cents": 593620,
+    "event_time": "2026-04-04T18:54:35.000000Z"
+  },
+  {
+    "event_id": "EVT-004809-PAID",
+    "order_id": "ORD-004809",
+    "customer_id": "CUST0202",
+    "channel": "web",
+    "total_cents": 682320,
+    "event_time": "2026-06-11T20:07:48.000000Z"
+  },
+  {
+    "event_id": "EVT-004850-PAID",
+    "order_id": "ORD-004850",
+    "customer_id": "CUST0192",
+    "channel": "movil",
+    "total_cents": 506140,
+    "event_time": "2026-04-03T08:22:51.000000Z"
+  },
+  {
+    "event_id": "EVT-004974-PAID",
+    "order_id": "ORD-004974",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 553220,
+    "event_time": "2026-08-18T13:14:08.000000Z"
+  },
+  {
+    "event_id": "EVT-005032-PAID",
+    "order_id": "ORD-005032",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 560500,
+    "event_time": "2026-04-27T18:19:49.000000Z"
+  },
+  {
+    "event_id": "EVT-005078-PAID",
+    "order_id": "ORD-005078",
+    "customer_id": "CUST0518",
+    "channel": "movil",
+    "total_cents": 514240,
+    "event_time": "2026-08-15T14:45:28.000000Z"
+  },
+  {
+    "event_id": "EVT-005096-PAID",
+    "order_id": "ORD-005096",
+    "customer_id": "CUST0027",
+    "channel": "web",
+    "total_cents": 546490,
+    "event_time": "2026-06-07T22:23:23.000000Z"
+  },
+  {
+    "event_id": "EVT-005140-PAID",
+    "order_id": "ORD-005140",
+    "customer_id": "CUST0002",
+    "channel": "tienda",
+    "total_cents": 513600,
+    "event_time": "2026-04-25T06:06:35.000000Z"
+  },
+  {
+    "event_id": "EVT-005354-PAID",
+    "order_id": "ORD-005354",
+    "customer_id": "CUST0009",
+    "channel": "tienda",
+    "total_cents": 621020,
+    "event_time": "2026-06-14T07:49:39.000000Z"
+  },
+  {
+    "event_id": "EVT-005395-PAID",
+    "order_id": "ORD-005395",
+    "customer_id": "CUST0012",
+    "channel": "movil",
+    "total_cents": 759700,
+    "event_time": "2026-05-24T18:04:13.000000Z"
+  },
+  {
+    "event_id": "EVT-005491-PAID",
+    "order_id": "ORD-005491",
+    "customer_id": "CUST0089",
+    "channel": "web",
+    "total_cents": 710570,
+    "event_time": "2026-08-16T20:55:55.000000Z"
+  },
+  {
+    "event_id": "EVT-005498-PAID",
+    "order_id": "ORD-005498",
+    "customer_id": "CUST0028",
+    "channel": "web",
+    "total_cents": 713565,
+    "event_time": "2026-06-26T00:51:05.000000Z"
+  },
+  {
+    "event_id": "EVT-005525-PAID",
+    "order_id": "ORD-005525",
+    "customer_id": "CUST0017",
+    "channel": "tienda",
+    "total_cents": 528520,
+    "event_time": "2026-05-06T23:30:35.000000Z"
+  },
+  {
+    "event_id": "EVT-005619-PAID",
+    "order_id": "ORD-005619",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 580720,
+    "event_time": "2026-04-19T03:36:51.000000Z"
+  },
+  {
+    "event_id": "EVT-005665-PAID",
+    "order_id": "ORD-005665",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 652580,
+    "event_time": "2026-08-21T04:27:04.000000Z"
+  },
+  {
+    "event_id": "EVT-005670-PAID",
+    "order_id": "ORD-005670",
+    "customer_id": "CUST0580",
+    "channel": "movil",
+    "total_cents": 547140,
+    "event_time": "2026-09-08T12:20:21.000000Z"
+  },
+  {
+    "event_id": "EVT-005946-PAID",
+    "order_id": "ORD-005946",
+    "customer_id": "CUST0373",
+    "channel": "movil",
+    "total_cents": 526380,
+    "event_time": "2026-07-30T17:20:19.000000Z"
+  },
+  {
+    "event_id": "EVT-005956-PAID",
+    "order_id": "ORD-005956",
+    "customer_id": "CUST0091",
+    "channel": "web",
+    "total_cents": 608220,
+    "event_time": "2026-07-23T18:10:31.000000Z"
+  },
+  {
+    "event_id": "EVT-006044-PAID",
+    "order_id": "ORD-006044",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 530185,
+    "event_time": "2026-05-05T02:25:49.000000Z"
+  },
+  {
+    "event_id": "EVT-006109-PAID",
+    "order_id": "ORD-006109",
+    "customer_id": "CUST0079",
+    "channel": "tienda",
+    "total_cents": 534680,
+    "event_time": "2026-07-28T11:44:55.000000Z"
+  },
+  {
+    "event_id": "EVT-006156-PAID",
+    "order_id": "ORD-006156",
+    "customer_id": "CUST0001",
+    "channel": "tienda",
+    "total_cents": 617180,
+    "event_time": "2026-06-03T06:39:04.000000Z"
+  },
+  {
+    "event_id": "EVT-006219-PAID",
+    "order_id": "ORD-006219",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 661160,
+    "event_time": "2026-04-17T20:56:20.000000Z"
+  },
+  {
+    "event_id": "EVT-006263-PAID",
+    "order_id": "ORD-006263",
+    "customer_id": "CUST0002",
+    "channel": "tienda",
+    "total_cents": 701420,
+    "event_time": "2026-05-11T15:13:34.000000Z"
+  },
+  {
+    "event_id": "EVT-006289-PAID",
+    "order_id": "ORD-006289",
+    "customer_id": "CUST0011",
+    "channel": "movil",
+    "total_cents": 638580,
+    "event_time": "2026-06-26T13:33:48.000000Z"
+  },
+  {
+    "event_id": "EVT-006308-PAID",
+    "order_id": "ORD-006308",
+    "customer_id": "CUST0114",
+    "channel": "web",
+    "total_cents": 555930,
+    "event_time": "2026-07-23T22:53:29.000000Z"
+  },
+  {
+    "event_id": "EVT-006462-PAID",
+    "order_id": "ORD-006462",
+    "customer_id": "CUST0009",
+    "channel": "tienda",
+    "total_cents": 526310,
+    "event_time": "2026-04-16T22:42:30.000000Z"
+  },
+  {
+    "event_id": "EVT-006709-PAID",
+    "order_id": "ORD-006709",
+    "customer_id": "CUST0028",
+    "channel": "movil",
+    "total_cents": 538000,
+    "event_time": "2026-06-29T10:19:44.000000Z"
+  },
+  {
+    "event_id": "EVT-006803-PAID",
+    "order_id": "ORD-006803",
+    "customer_id": "CUST0056",
+    "channel": "movil",
+    "total_cents": 773215,
+    "event_time": "2026-06-11T06:38:08.000000Z"
+  },
+  {
+    "event_id": "EVT-007002-PAID",
+    "order_id": "ORD-007002",
+    "customer_id": "CUST0174",
+    "channel": "web",
+    "total_cents": 506420,
+    "event_time": "2026-07-25T11:13:28.000000Z"
+  },
+  {
+    "event_id": "EVT-007315-PAID",
+    "order_id": "ORD-007315",
+    "customer_id": "CUST0178",
+    "channel": "movil",
+    "total_cents": 699780,
+    "event_time": "2026-05-12T02:06:16.000000Z"
+  },
+  {
+    "event_id": "EVT-007385-PAID",
+    "order_id": "ORD-007385",
+    "customer_id": "CUST0165",
+    "channel": "tienda",
+    "total_cents": 511000,
+    "event_time": "2026-09-12T10:57:25.000000Z"
+  },
+  {
+    "event_id": "EVT-007472-PAID",
+    "order_id": "ORD-007472",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 576800,
+    "event_time": "2026-09-08T18:10:40.000000Z"
+  },
+  {
+    "event_id": "EVT-007608-PAID",
+    "order_id": "ORD-007608",
+    "customer_id": "CUST0233",
+    "channel": "tienda",
+    "total_cents": 614250,
+    "event_time": "2026-05-26T06:05:05.000000Z"
+  },
+  {
+    "event_id": "EVT-007693-PAID",
+    "order_id": "ORD-007693",
+    "customer_id": "CUST0423",
+    "channel": "web",
+    "total_cents": 529755,
+    "event_time": "2026-05-14T00:49:02.000000Z"
+  },
+  {
+    "event_id": "EVT-007717-PAID",
+    "order_id": "ORD-007717",
+    "customer_id": "CUST0054",
+    "channel": "web",
+    "total_cents": 529900,
+    "event_time": "2026-07-15T17:14:57.000000Z"
+  },
+  {
+    "event_id": "EVT-007724-PAID",
+    "order_id": "ORD-007724",
+    "customer_id": "CUST0131",
+    "channel": "tienda",
+    "total_cents": 588720,
+    "event_time": "2026-04-11T15:21:53.000000Z"
+  },
+  {
+    "event_id": "EVT-007730-PAID",
+    "order_id": "ORD-007730",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 550430,
+    "event_time": "2026-05-29T22:04:43.000000Z"
+  },
+  {
+    "event_id": "EVT-007737-PAID",
+    "order_id": "ORD-007737",
+    "customer_id": "CUST0095",
+    "channel": "web",
+    "total_cents": 581720,
+    "event_time": "2026-05-12T04:19:08.000000Z"
+  },
+  {
+    "event_id": "EVT-007776-PAID",
+    "order_id": "ORD-007776",
+    "customer_id": "CUST0014",
+    "channel": "web",
+    "total_cents": 515800,
+    "event_time": "2026-05-12T18:23:46.000000Z"
+  },
+  {
+    "event_id": "EVT-007934-PAID",
+    "order_id": "ORD-007934",
+    "customer_id": "CUST0084",
+    "channel": "web",
+    "total_cents": 591620,
+    "event_time": "2026-04-22T12:18:23.000000Z"
+  },
+  {
+    "event_id": "EVT-007951-PAID",
+    "order_id": "ORD-007951",
+    "customer_id": "CUST0059",
+    "channel": "movil",
+    "total_cents": 552190,
+    "event_time": "2026-08-04T02:28:35.000000Z"
+  },
+  {
+    "event_id": "EVT-008143-PAID",
+    "order_id": "ORD-008143",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 536480,
+    "event_time": "2026-08-06T19:43:36.000000Z"
+  },
+  {
+    "event_id": "EVT-008262-PAID",
+    "order_id": "ORD-008262",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 535730,
+    "event_time": "2026-05-11T04:24:50.000000Z"
+  },
+  {
+    "event_id": "EVT-008498-PAID",
+    "order_id": "ORD-008498",
+    "customer_id": "CUST0419",
+    "channel": "web",
+    "total_cents": 566560,
+    "event_time": "2026-06-12T18:22:48.000000Z"
+  },
+  {
+    "event_id": "EVT-008599-PAID",
+    "order_id": "ORD-008599",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 650220,
+    "event_time": "2026-05-27T05:12:42.000000Z"
+  },
+  {
+    "event_id": "EVT-008719-PAID",
+    "order_id": "ORD-008719",
+    "customer_id": "CUST0072",
+    "channel": "movil",
+    "total_cents": 532240,
+    "event_time": "2026-09-08T16:12:21.000000Z"
+  },
+  {
+    "event_id": "EVT-008724-PAID",
+    "order_id": "ORD-008724",
+    "customer_id": "CUST0035",
+    "channel": "web",
+    "total_cents": 625400,
+    "event_time": "2026-04-29T00:31:25.000000Z"
+  },
+  {
+    "event_id": "EVT-008783-PAID",
+    "order_id": "ORD-008783",
+    "customer_id": "CUST0093",
+    "channel": "movil",
+    "total_cents": 742800,
+    "event_time": "2026-08-30T01:05:42.000000Z"
+  },
+  {
+    "event_id": "EVT-008806-PAID",
+    "order_id": "ORD-008806",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 555595,
+    "event_time": "2026-08-03T04:54:27.000000Z"
+  },
+  {
+    "event_id": "EVT-008825-PAID",
+    "order_id": "ORD-008825",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 740140,
+    "event_time": "2026-08-30T09:35:47.000000Z"
+  },
+  {
+    "event_id": "EVT-009168-PAID",
+    "order_id": "ORD-009168",
+    "customer_id": "CUST0003",
+    "channel": "tienda",
+    "total_cents": 527740,
+    "event_time": "2026-08-29T10:10:40.000000Z"
+  },
+  {
+    "event_id": "EVT-009181-PAID",
+    "order_id": "ORD-009181",
+    "customer_id": "CUST0089",
+    "channel": "web",
+    "total_cents": 506980,
+    "event_time": "2026-05-25T00:31:08.000000Z"
+  },
+  {
+    "event_id": "EVT-009257-PAID",
+    "order_id": "ORD-009257",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 511870,
+    "event_time": "2026-05-26T22:41:23.000000Z"
+  },
+  {
+    "event_id": "EVT-009299-PAID",
+    "order_id": "ORD-009299",
+    "customer_id": "CUST0006",
+    "channel": "tienda",
+    "total_cents": 523200,
+    "event_time": "2026-04-16T00:45:15.000000Z"
+  },
+  {
+    "event_id": "EVT-009328-PAID",
+    "order_id": "ORD-009328",
+    "customer_id": "CUST0032",
+    "channel": "web",
+    "total_cents": 545240,
+    "event_time": "2026-08-06T00:00:46.000000Z"
+  },
+  {
+    "event_id": "EVT-009456-PAID",
+    "order_id": "ORD-009456",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 535370,
+    "event_time": "2026-08-18T06:03:43.000000Z"
+  },
+  {
+    "event_id": "EVT-009463-PAID",
+    "order_id": "ORD-009463",
+    "customer_id": "CUST0033",
+    "channel": "web",
+    "total_cents": 586655,
+    "event_time": "2026-08-19T09:36:58.000000Z"
+  },
+  {
+    "event_id": "EVT-009476-PAID",
+    "order_id": "ORD-009476",
+    "customer_id": "CUST0392",
+    "channel": "movil",
+    "total_cents": 527600,
+    "event_time": "2026-08-12T02:43:47.000000Z"
+  },
+  {
+    "event_id": "EVT-009683-PAID",
+    "order_id": "ORD-009683",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 502080,
+    "event_time": "2026-04-02T23:02:24.000000Z"
+  },
+  {
+    "event_id": "EVT-009846-PAID",
+    "order_id": "ORD-009846",
+    "customer_id": "CUST0172",
+    "channel": "movil",
+    "total_cents": 607020,
+    "event_time": "2026-06-06T02:58:27.000000Z"
+  },
+  {
+    "event_id": "EVT-009920-PAID",
+    "order_id": "ORD-009920",
+    "customer_id": "CUST0168",
+    "channel": "movil",
+    "total_cents": 642380,
+    "event_time": "2026-06-07T01:22:12.000000Z"
+  },
+  {
+    "event_id": "EVT-009935-PAID",
+    "order_id": "ORD-009935",
+    "customer_id": "CUST0055",
+    "channel": "web",
+    "total_cents": 628460,
+    "event_time": "2026-04-03T13:34:53.000000Z"
+  },
+  {
+    "event_id": "EVT-010078-PAID",
+    "order_id": "ORD-010078",
+    "customer_id": "CUST0030",
+    "channel": "movil",
+    "total_cents": 613340,
+    "event_time": "2026-09-07T02:27:19.000000Z"
+  },
+  {
+    "event_id": "EVT-010123-PAID",
+    "order_id": "ORD-010123",
+    "customer_id": "CUST0016",
+    "channel": "movil",
+    "total_cents": 681570,
+    "event_time": "2026-07-22T23:42:43.000000Z"
+  },
+  {
+    "event_id": "EVT-010161-PAID",
+    "order_id": "ORD-010161",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 529280,
+    "event_time": "2026-08-06T17:07:44.000000Z"
+  },
+  {
+    "event_id": "EVT-010297-PAID",
+    "order_id": "ORD-010297",
+    "customer_id": "CUST0047",
+    "channel": "movil",
+    "total_cents": 535880,
+    "event_time": "2026-08-29T22:10:53.000000Z"
+  },
+  {
+    "event_id": "EVT-010316-PAID",
+    "order_id": "ORD-010316",
+    "customer_id": "CUST0029",
+    "channel": "tienda",
+    "total_cents": 527080,
+    "event_time": "2026-09-12T18:08:22.000000Z"
+  },
+  {
+    "event_id": "EVT-010790-PAID",
+    "order_id": "ORD-010790",
+    "customer_id": "CUST0011",
+    "channel": "tienda",
+    "total_cents": 548570,
+    "event_time": "2026-08-23T18:01:23.000000Z"
+  },
+  {
+    "event_id": "EVT-010844-PAID",
+    "order_id": "ORD-010844",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 709010,
+    "event_time": "2026-08-15T07:04:01.000000Z"
+  },
+  {
+    "event_id": "EVT-010874-PAID",
+    "order_id": "ORD-010874",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 508515,
+    "event_time": "2026-05-16T11:31:05.000000Z"
+  },
+  {
+    "event_id": "EVT-011071-PAID",
+    "order_id": "ORD-011071",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 655270,
+    "event_time": "2026-05-27T01:17:28.000000Z"
+  },
+  {
+    "event_id": "EVT-011110-PAID",
+    "order_id": "ORD-011110",
+    "customer_id": "CUST0961",
+    "channel": "movil",
+    "total_cents": 525970,
+    "event_time": "2026-04-25T17:21:53.000000Z"
+  },
+  {
+    "event_id": "EVT-011215-PAID",
+    "order_id": "ORD-011215",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 581445,
+    "event_time": "2026-08-30T23:48:09.000000Z"
+  },
+  {
+    "event_id": "EVT-011417-PAID",
+    "order_id": "ORD-011417",
+    "customer_id": "CUST0146",
+    "channel": "web",
+    "total_cents": 530310,
+    "event_time": "2026-08-20T21:57:40.000000Z"
+  },
+  {
+    "event_id": "EVT-011611-PAID",
+    "order_id": "ORD-011611",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 686685,
+    "event_time": "2026-08-01T22:45:36.000000Z"
+  },
+  {
+    "event_id": "EVT-011653-PAID",
+    "order_id": "ORD-011653",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 521700,
+    "event_time": "2026-06-25T17:38:19.000000Z"
+  },
+  {
+    "event_id": "EVT-011786-PAID",
+    "order_id": "ORD-011786",
+    "customer_id": "CUST0521",
+    "channel": "web",
+    "total_cents": 534700,
+    "event_time": "2026-06-13T20:03:53.000000Z"
+  },
+  {
+    "event_id": "EVT-011951-PAID",
+    "order_id": "ORD-011951",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 547190,
+    "event_time": "2026-07-24T08:27:43.000000Z"
+  },
+  {
+    "event_id": "EVT-011965-PAID",
+    "order_id": "ORD-011965",
+    "customer_id": "CUST0001",
+    "channel": "tienda",
+    "total_cents": 501310,
+    "event_time": "2026-06-12T01:19:03.000000Z"
+  },
+  {
+    "event_id": "EVT-012171-PAID",
+    "order_id": "ORD-012171",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 557840,
+    "event_time": "2026-07-23T08:12:27.000000Z"
+  },
+  {
+    "event_id": "EVT-012195-PAID",
+    "order_id": "ORD-012195",
+    "customer_id": "CUST0002",
+    "channel": "tienda",
+    "total_cents": 622910,
+    "event_time": "2026-09-02T18:19:33.000000Z"
+  },
+  {
+    "event_id": "EVT-012215-PAID",
+    "order_id": "ORD-012215",
+    "customer_id": "CUST0313",
+    "channel": "web",
+    "total_cents": 503955,
+    "event_time": "2026-07-13T13:38:01.000000Z"
+  },
+  {
+    "event_id": "EVT-012356-PAID",
+    "order_id": "ORD-012356",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 654115,
+    "event_time": "2026-05-30T01:07:07.000000Z"
+  },
+  {
+    "event_id": "EVT-012461-PAID",
+    "order_id": "ORD-012461",
+    "customer_id": "CUST0137",
+    "channel": "movil",
+    "total_cents": 551535,
+    "event_time": "2026-07-11T16:42:30.000000Z"
+  },
+  {
+    "event_id": "EVT-012485-PAID",
+    "order_id": "ORD-012485",
+    "customer_id": "CUST0015",
+    "channel": "movil",
+    "total_cents": 655680,
+    "event_time": "2026-08-25T06:11:45.000000Z"
+  },
+  {
+    "event_id": "EVT-012499-PAID",
+    "order_id": "ORD-012499",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 609245,
+    "event_time": "2026-05-23T11:33:38.000000Z"
+  },
+  {
+    "event_id": "EVT-012534-PAID",
+    "order_id": "ORD-012534",
+    "customer_id": "CUST0011",
+    "channel": "movil",
+    "total_cents": 630480,
+    "event_time": "2026-06-18T11:18:48.000000Z"
+  },
+  {
+    "event_id": "EVT-012667-PAID",
+    "order_id": "ORD-012667",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 710120,
+    "event_time": "2026-07-06T02:12:38.000000Z"
+  },
+  {
+    "event_id": "EVT-012670-PAID",
+    "order_id": "ORD-012670",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 533220,
+    "event_time": "2026-05-03T07:26:34.000000Z"
+  },
+  {
+    "event_id": "EVT-012686-PAID",
+    "order_id": "ORD-012686",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 531700,
+    "event_time": "2026-06-22T17:12:40.000000Z"
+  },
+  {
+    "event_id": "EVT-012689-PAID",
+    "order_id": "ORD-012689",
+    "customer_id": "CUST0006",
+    "channel": "movil",
+    "total_cents": 582435,
+    "event_time": "2026-08-16T11:25:29.000000Z"
+  },
+  {
+    "event_id": "EVT-000198-PAID",
+    "order_id": "ORD-000198",
+    "customer_id": "CUST0198",
+    "channel": "movil",
+    "total_cents": 574260,
+    "event_time": "2026-08-02T13:29:18.000000Z"
+  },
+  {
+    "event_id": "EVT-000201-PAID",
+    "order_id": "ORD-000201",
+    "customer_id": "CUST0201",
+    "channel": "web",
+    "total_cents": 634090,
+    "event_time": "2026-06-17T00:01:56.000000Z"
+  },
+  {
+    "event_id": "EVT-000352-PAID",
+    "order_id": "ORD-000352",
+    "customer_id": "CUST0352",
+    "channel": "movil",
+    "total_cents": 514400,
+    "event_time": "2026-04-15T20:13:13.000000Z"
+  },
+  {
+    "event_id": "EVT-000403-PAID",
+    "order_id": "ORD-000403",
+    "customer_id": "CUST0403",
+    "channel": "movil",
+    "total_cents": 649945,
+    "event_time": "2026-04-10T05:41:03.000000Z"
+  },
+  {
+    "event_id": "EVT-000423-PAID",
+    "order_id": "ORD-000423",
+    "customer_id": "CUST0423",
+    "channel": "web",
+    "total_cents": 618700,
+    "event_time": "2026-08-13T17:45:46.000000Z"
+  },
+  {
+    "event_id": "EVT-000538-PAID",
+    "order_id": "ORD-000538",
+    "customer_id": "CUST0538",
+    "channel": "web",
+    "total_cents": 540170,
+    "event_time": "2026-07-01T23:37:56.000000Z"
+  },
+  {
+    "event_id": "EVT-000702-PAID",
+    "order_id": "ORD-000702",
+    "customer_id": "CUST0702",
+    "channel": "tienda",
+    "total_cents": 550940,
+    "event_time": "2026-08-31T05:55:49.000000Z"
+  },
+  {
+    "event_id": "EVT-000747-PAID",
+    "order_id": "ORD-000747",
+    "customer_id": "CUST0747",
+    "channel": "movil",
+    "total_cents": 731300,
+    "event_time": "2026-09-05T09:24:23.000000Z"
+  },
+  {
+    "event_id": "EVT-000838-PAID",
+    "order_id": "ORD-000838",
+    "customer_id": "CUST0838",
+    "channel": "tienda",
+    "total_cents": 652500,
+    "event_time": "2026-04-26T08:54:55.000000Z"
+  },
+  {
+    "event_id": "EVT-000898-PAID",
+    "order_id": "ORD-000898",
+    "customer_id": "CUST0898",
+    "channel": "web",
+    "total_cents": 625200,
+    "event_time": "2026-05-07T06:53:33.000000Z"
+  },
+  {
+    "event_id": "EVT-001040-PAID",
+    "order_id": "ORD-001040",
+    "customer_id": "CUST0036",
+    "channel": "movil",
+    "total_cents": 528800,
+    "event_time": "2026-08-22T19:05:50.000000Z"
+  },
+  {
+    "event_id": "EVT-001082-PAID",
+    "order_id": "ORD-001082",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 596460,
+    "event_time": "2026-06-27T09:53:40.000000Z"
+  },
+  {
+    "event_id": "EVT-001123-PAID",
+    "order_id": "ORD-001123",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 505040,
+    "event_time": "2026-07-28T01:30:39.000000Z"
+  },
+  {
+    "event_id": "EVT-001365-PAID",
+    "order_id": "ORD-001365",
+    "customer_id": "CUST0007",
+    "channel": "movil",
+    "total_cents": 550415,
+    "event_time": "2026-05-12T11:33:33.000000Z"
+  },
+  {
+    "event_id": "EVT-001400-PAID",
+    "order_id": "ORD-001400",
+    "customer_id": "CUST0012",
+    "channel": "tienda",
+    "total_cents": 523500,
+    "event_time": "2026-05-13T15:59:54.000000Z"
+  },
+  {
+    "event_id": "EVT-001674-PAID",
+    "order_id": "ORD-001674",
+    "customer_id": "CUST0002",
+    "channel": "movil",
+    "total_cents": 528600,
+    "event_time": "2026-05-22T04:05:04.000000Z"
+  },
+  {
+    "event_id": "EVT-001785-PAID",
+    "order_id": "ORD-001785",
+    "customer_id": "CUST0166",
+    "channel": "movil",
+    "total_cents": 509000,
+    "event_time": "2026-05-11T05:04:20.000000Z"
+  },
+  {
+    "event_id": "EVT-001900-PAID",
+    "order_id": "ORD-001900",
+    "customer_id": "CUST0084",
+    "channel": "tienda",
+    "total_cents": 561450,
+    "event_time": "2026-08-20T22:50:38.000000Z"
+  },
+  {
+    "event_id": "EVT-001912-PAID",
+    "order_id": "ORD-001912",
+    "customer_id": "CUST0013",
+    "channel": "web",
+    "total_cents": 515150,
+    "event_time": "2026-08-09T08:01:07.000000Z"
+  },
+  {
+    "event_id": "EVT-001968-PAID",
+    "order_id": "ORD-001968",
+    "customer_id": "CUST0029",
+    "channel": "tienda",
+    "total_cents": 505500,
+    "event_time": "2026-04-28T06:49:22.000000Z"
+  },
+  {
+    "event_id": "EVT-002072-PAID",
+    "order_id": "ORD-002072",
+    "customer_id": "CUST0033",
+    "channel": "tienda",
+    "total_cents": 592185,
+    "event_time": "2026-04-30T12:13:30.000000Z"
+  },
+  {
+    "event_id": "EVT-002295-PAID",
+    "order_id": "ORD-002295",
+    "customer_id": "CUST0015",
+    "channel": "web",
+    "total_cents": 521450,
+    "event_time": "2026-07-24T02:38:20.000000Z"
+  },
+  {
+    "event_id": "EVT-002311-PAID",
+    "order_id": "ORD-002311",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 603100,
+    "event_time": "2026-09-11T06:20:18.000000Z"
+  },
+  {
+    "event_id": "EVT-002526-PAID",
+    "order_id": "ORD-002526",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 501920,
+    "event_time": "2026-07-22T19:27:24.000000Z"
+  },
+  {
+    "event_id": "EVT-002654-PAID",
+    "order_id": "ORD-002654",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 523620,
+    "event_time": "2026-05-03T10:06:09.000000Z"
+  },
+  {
+    "event_id": "EVT-002890-PAID",
+    "order_id": "ORD-002890",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 694920,
+    "event_time": "2026-06-13T23:37:52.000000Z"
+  },
+  {
+    "event_id": "EVT-003037-PAID",
+    "order_id": "ORD-003037",
+    "customer_id": "CUST0389",
+    "channel": "movil",
+    "total_cents": 716800,
+    "event_time": "2026-09-13T22:54:02.000000Z"
+  },
+  {
+    "event_id": "EVT-003068-PAID",
+    "order_id": "ORD-003068",
+    "customer_id": "CUST0025",
+    "channel": "web",
+    "total_cents": 534430,
+    "event_time": "2026-05-19T10:49:43.000000Z"
+  },
+  {
+    "event_id": "EVT-003122-PAID",
+    "order_id": "ORD-003122",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 501940,
+    "event_time": "2026-07-27T09:09:07.000000Z"
+  },
+  {
+    "event_id": "EVT-003177-PAID",
+    "order_id": "ORD-003177",
+    "customer_id": "CUST0075",
+    "channel": "movil",
+    "total_cents": 510220,
+    "event_time": "2026-06-04T20:29:07.000000Z"
+  },
+  {
+    "event_id": "EVT-003502-PAID",
+    "order_id": "ORD-003502",
+    "customer_id": "CUST0057",
+    "channel": "movil",
+    "total_cents": 581700,
+    "event_time": "2026-09-03T19:07:07.000000Z"
+  },
+  {
+    "event_id": "EVT-003526-PAID",
+    "order_id": "ORD-003526",
+    "customer_id": "CUST0015",
+    "channel": "web",
+    "total_cents": 683160,
+    "event_time": "2026-07-26T18:53:38.000000Z"
+  },
+  {
+    "event_id": "EVT-003604-PAID",
+    "order_id": "ORD-003604",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 586170,
+    "event_time": "2026-06-05T00:23:37.000000Z"
+  },
+  {
+    "event_id": "EVT-003672-PAID",
+    "order_id": "ORD-003672",
+    "customer_id": "CUST0006",
+    "channel": "movil",
+    "total_cents": 522910,
+    "event_time": "2026-04-22T12:13:04.000000Z"
+  },
+  {
+    "event_id": "EVT-003674-PAID",
+    "order_id": "ORD-003674",
+    "customer_id": "CUST0001",
+    "channel": "tienda",
+    "total_cents": 524230,
+    "event_time": "2026-06-06T17:49:33.000000Z"
+  },
+  {
+    "event_id": "EVT-003699-PAID",
+    "order_id": "ORD-003699",
+    "customer_id": "CUST0133",
+    "channel": "web",
+    "total_cents": 537010,
+    "event_time": "2026-07-19T00:53:28.000000Z"
+  },
+  {
+    "event_id": "EVT-003809-PAID",
+    "order_id": "ORD-003809",
+    "customer_id": "CUST0419",
+    "channel": "web",
+    "total_cents": 610720,
+    "event_time": "2026-06-15T21:30:13.000000Z"
+  },
+  {
+    "event_id": "EVT-004007-PAID",
+    "order_id": "ORD-004007",
+    "customer_id": "CUST0073",
+    "channel": "movil",
+    "total_cents": 560465,
+    "event_time": "2026-05-10T01:29:42.000000Z"
+  },
+  {
+    "event_id": "EVT-004072-PAID",
+    "order_id": "ORD-004072",
+    "customer_id": "CUST0046",
+    "channel": "movil",
+    "total_cents": 620165,
+    "event_time": "2026-04-25T16:48:25.000000Z"
+  },
+  {
+    "event_id": "EVT-004079-PAID",
+    "order_id": "ORD-004079",
+    "customer_id": "CUST0018",
+    "channel": "movil",
+    "total_cents": 662480,
+    "event_time": "2026-06-05T02:10:03.000000Z"
+  },
+  {
+    "event_id": "EVT-004171-PAID",
+    "order_id": "ORD-004171",
+    "customer_id": "CUST0006",
+    "channel": "movil",
+    "total_cents": 663120,
+    "event_time": "2026-04-10T16:02:56.000000Z"
+  },
+  {
+    "event_id": "EVT-004276-PAID",
+    "order_id": "ORD-004276",
+    "customer_id": "CUST0078",
+    "channel": "movil",
+    "total_cents": 539055,
+    "event_time": "2026-08-04T21:23:39.000000Z"
+  },
+  {
+    "event_id": "EVT-004388-PAID",
+    "order_id": "ORD-004388",
+    "customer_id": "CUST0004",
+    "channel": "web",
+    "total_cents": 547820,
+    "event_time": "2026-09-07T10:30:54.000000Z"
+  },
+  {
+    "event_id": "EVT-004467-PAID",
+    "order_id": "ORD-004467",
+    "customer_id": "CUST0040",
+    "channel": "movil",
+    "total_cents": 525130,
+    "event_time": "2026-07-29T12:51:03.000000Z"
+  },
+  {
+    "event_id": "EVT-004504-PAID",
+    "order_id": "ORD-004504",
+    "customer_id": "CUST0046",
+    "channel": "web",
+    "total_cents": 731890,
+    "event_time": "2026-05-02T11:08:47.000000Z"
+  },
+  {
+    "event_id": "EVT-004600-PAID",
+    "order_id": "ORD-004600",
+    "customer_id": "CUST0045",
+    "channel": "web",
+    "total_cents": 529175,
+    "event_time": "2026-04-03T11:17:41.000000Z"
+  },
+  {
+    "event_id": "EVT-004601-PAID",
+    "order_id": "ORD-004601",
+    "customer_id": "CUST0017",
+    "channel": "web",
+    "total_cents": 613900,
+    "event_time": "2026-04-21T11:30:24.000000Z"
+  },
+  {
+    "event_id": "EVT-004717-PAID",
+    "order_id": "ORD-004717",
+    "customer_id": "CUST0105",
+    "channel": "movil",
+    "total_cents": 590240,
+    "event_time": "2026-06-17T23:55:04.000000Z"
+  },
+  {
+    "event_id": "EVT-004719-PAID",
+    "order_id": "ORD-004719",
+    "customer_id": "CUST0250",
+    "channel": "tienda",
+    "total_cents": 522100,
+    "event_time": "2026-08-18T20:28:12.000000Z"
+  },
+  {
+    "event_id": "EVT-004730-PAID",
+    "order_id": "ORD-004730",
+    "customer_id": "CUST0383",
+    "channel": "movil",
+    "total_cents": 517695,
+    "event_time": "2026-04-12T10:01:21.000000Z"
+  },
+  {
+    "event_id": "EVT-004852-PAID",
+    "order_id": "ORD-004852",
+    "customer_id": "CUST0146",
+    "channel": "web",
+    "total_cents": 516560,
+    "event_time": "2026-07-12T16:29:47.000000Z"
+  },
+  {
+    "event_id": "EVT-004921-PAID",
+    "order_id": "ORD-004921",
+    "customer_id": "CUST0352",
+    "channel": "movil",
+    "total_cents": 525940,
+    "event_time": "2026-05-03T09:20:04.000000Z"
+  },
+  {
+    "event_id": "EVT-004950-PAID",
+    "order_id": "ORD-004950",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 823380,
+    "event_time": "2026-05-22T13:31:51.000000Z"
+  },
+  {
+    "event_id": "EVT-004981-PAID",
+    "order_id": "ORD-004981",
+    "customer_id": "CUST0084",
+    "channel": "web",
+    "total_cents": 548620,
+    "event_time": "2026-08-20T04:57:35.000000Z"
+  },
+  {
+    "event_id": "EVT-005080-PAID",
+    "order_id": "ORD-005080",
+    "customer_id": "CUST0015",
+    "channel": "tienda",
+    "total_cents": 559260,
+    "event_time": "2026-05-26T04:57:11.000000Z"
+  },
+  {
+    "event_id": "EVT-005174-PAID",
+    "order_id": "ORD-005174",
+    "customer_id": "CUST0054",
+    "channel": "movil",
+    "total_cents": 599400,
+    "event_time": "2026-04-07T20:52:19.000000Z"
+  },
+  {
+    "event_id": "EVT-005229-PAID",
+    "order_id": "ORD-005229",
+    "customer_id": "CUST0008",
+    "channel": "web",
+    "total_cents": 517020,
+    "event_time": "2026-05-13T07:16:53.000000Z"
+  },
+  {
+    "event_id": "EVT-005251-PAID",
+    "order_id": "ORD-005251",
+    "customer_id": "CUST0011",
+    "channel": "movil",
+    "total_cents": 743540,
+    "event_time": "2026-08-10T17:35:23.000000Z"
+  },
+  {
+    "event_id": "EVT-005255-PAID",
+    "order_id": "ORD-005255",
+    "customer_id": "CUST0033",
+    "channel": "web",
+    "total_cents": 515300,
+    "event_time": "2026-08-27T17:23:00.000000Z"
+  },
+  {
+    "event_id": "EVT-005397-PAID",
+    "order_id": "ORD-005397",
+    "customer_id": "CUST0041",
+    "channel": "tienda",
+    "total_cents": 582040,
+    "event_time": "2026-08-20T00:24:14.000000Z"
+  },
+  {
+    "event_id": "EVT-005406-PAID",
+    "order_id": "ORD-005406",
+    "customer_id": "CUST0193",
+    "channel": "movil",
+    "total_cents": 573025,
+    "event_time": "2026-07-02T10:29:00.000000Z"
+  },
+  {
+    "event_id": "EVT-005579-PAID",
+    "order_id": "ORD-005579",
+    "customer_id": "CUST0030",
+    "channel": "web",
+    "total_cents": 514840,
+    "event_time": "2026-06-28T09:50:51.000000Z"
+  },
+  {
+    "event_id": "EVT-005648-PAID",
+    "order_id": "ORD-005648",
+    "customer_id": "CUST0002",
+    "channel": "web",
+    "total_cents": 522400,
+    "event_time": "2026-06-19T07:27:47.000000Z"
+  },
+  {
+    "event_id": "EVT-005817-PAID",
+    "order_id": "ORD-005817",
+    "customer_id": "CUST0035",
+    "channel": "web",
+    "total_cents": 617765,
+    "event_time": "2026-04-09T07:22:52.000000Z"
+  },
+  {
+    "event_id": "EVT-005923-PAID",
+    "order_id": "ORD-005923",
+    "customer_id": "CUST0268",
+    "channel": "movil",
+    "total_cents": 526220,
+    "event_time": "2026-09-01T15:22:58.000000Z"
+  },
+  {
+    "event_id": "EVT-005944-PAID",
+    "order_id": "ORD-005944",
+    "customer_id": "CUST0028",
+    "channel": "movil",
+    "total_cents": 537890,
+    "event_time": "2026-07-03T19:58:56.000000Z"
+  },
+  {
+    "event_id": "EVT-005972-PAID",
+    "order_id": "ORD-005972",
+    "customer_id": "CUST0037",
+    "channel": "web",
+    "total_cents": 796520,
+    "event_time": "2026-08-14T15:09:31.000000Z"
+  },
+  {
+    "event_id": "EVT-006027-PAID",
+    "order_id": "ORD-006027",
+    "customer_id": "CUST0001",
+    "channel": "tienda",
+    "total_cents": 503750,
+    "event_time": "2026-05-11T13:43:17.000000Z"
+  },
+  {
+    "event_id": "EVT-006058-PAID",
+    "order_id": "ORD-006058",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 666905,
+    "event_time": "2026-08-07T23:19:27.000000Z"
+  },
+  {
+    "event_id": "EVT-006106-PAID",
+    "order_id": "ORD-006106",
+    "customer_id": "CUST0049",
+    "channel": "movil",
+    "total_cents": 507530,
+    "event_time": "2026-04-12T09:07:05.000000Z"
+  },
+  {
+    "event_id": "EVT-006172-PAID",
+    "order_id": "ORD-006172",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 813190,
+    "event_time": "2026-09-06T08:06:17.000000Z"
+  },
+  {
+    "event_id": "EVT-006179-PAID",
+    "order_id": "ORD-006179",
+    "customer_id": "CUST0012",
+    "channel": "movil",
+    "total_cents": 659680,
+    "event_time": "2026-05-02T23:32:59.000000Z"
+  },
+  {
+    "event_id": "EVT-006222-PAID",
+    "order_id": "ORD-006222",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 565620,
+    "event_time": "2026-06-12T21:49:19.000000Z"
+  },
+  {
+    "event_id": "EVT-006247-PAID",
+    "order_id": "ORD-006247",
+    "customer_id": "CUST0007",
+    "channel": "tienda",
+    "total_cents": 629380,
+    "event_time": "2026-09-05T19:07:40.000000Z"
+  },
+  {
+    "event_id": "EVT-006398-PAID",
+    "order_id": "ORD-006398",
+    "customer_id": "CUST0235",
+    "channel": "web",
+    "total_cents": 592485,
+    "event_time": "2026-06-26T10:31:36.000000Z"
+  },
+  {
+    "event_id": "EVT-006405-PAID",
+    "order_id": "ORD-006405",
+    "customer_id": "CUST0049",
+    "channel": "tienda",
+    "total_cents": 537340,
+    "event_time": "2026-05-02T19:41:39.000000Z"
+  },
+  {
+    "event_id": "EVT-006587-PAID",
+    "order_id": "ORD-006587",
+    "customer_id": "CUST0044",
+    "channel": "web",
+    "total_cents": 514590,
+    "event_time": "2026-05-07T22:04:34.000000Z"
+  },
+  {
+    "event_id": "EVT-006691-PAID",
+    "order_id": "ORD-006691",
+    "customer_id": "CUST0231",
+    "channel": "tienda",
+    "total_cents": 717360,
+    "event_time": "2026-05-21T11:59:38.000000Z"
+  },
+  {
+    "event_id": "EVT-006822-PAID",
+    "order_id": "ORD-006822",
+    "customer_id": "CUST0099",
+    "channel": "web",
+    "total_cents": 512300,
+    "event_time": "2026-05-30T09:16:37.000000Z"
+  },
+  {
+    "event_id": "EVT-006846-PAID",
+    "order_id": "ORD-006846",
+    "customer_id": "CUST0892",
+    "channel": "web",
+    "total_cents": 588100,
+    "event_time": "2026-09-10T07:04:52.000000Z"
+  },
+  {
+    "event_id": "EVT-006932-PAID",
+    "order_id": "ORD-006932",
+    "customer_id": "CUST0003",
+    "channel": "tienda",
+    "total_cents": 552700,
+    "event_time": "2026-06-30T23:19:17.000000Z"
+  },
+  {
+    "event_id": "EVT-007094-PAID",
+    "order_id": "ORD-007094",
+    "customer_id": "CUST0028",
+    "channel": "web",
+    "total_cents": 500100,
+    "event_time": "2026-06-08T04:39:12.000000Z"
+  },
+  {
+    "event_id": "EVT-007132-PAID",
+    "order_id": "ORD-007132",
+    "customer_id": "CUST0006",
+    "channel": "web",
+    "total_cents": 712880,
+    "event_time": "2026-07-09T12:46:48.000000Z"
+  },
+  {
+    "event_id": "EVT-007136-PAID",
+    "order_id": "ORD-007136",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 522230,
+    "event_time": "2026-08-05T05:15:44.000000Z"
+  },
+  {
+    "event_id": "EVT-007213-PAID",
+    "order_id": "ORD-007213",
+    "customer_id": "CUST0001",
+    "channel": "movil",
+    "total_cents": 527530,
+    "event_time": "2026-06-24T20:18:23.000000Z"
+  },
+  {
+    "event_id": "EVT-007304-PAID",
+    "order_id": "ORD-007304",
+    "customer_id": "CUST0032",
+    "channel": "web",
+    "total_cents": 583660,
+    "event_time": "2026-06-21T07:57:00.000000Z"
+  },
+  {
+    "event_id": "EVT-007313-PAID",
+    "order_id": "ORD-007313",
+    "customer_id": "CUST0140",
+    "channel": "movil",
+    "total_cents": 528660,
+    "event_time": "2026-09-11T06:58:56.000000Z"
+  },
+  {
+    "event_id": "EVT-007337-PAID",
+    "order_id": "ORD-007337",
+    "customer_id": "CUST0151",
+    "channel": "movil",
+    "total_cents": 552310,
+    "event_time": "2026-05-21T14:31:40.000000Z"
+  },
+  {
+    "event_id": "EVT-007354-PAID",
+    "order_id": "ORD-007354",
+    "customer_id": "CUST0005",
+    "channel": "tienda",
+    "total_cents": 505680,
+    "event_time": "2026-05-24T17:17:03.000000Z"
+  },
+  {
+    "event_id": "EVT-007393-PAID",
+    "order_id": "ORD-007393",
+    "customer_id": "CUST0009",
+    "channel": "movil",
+    "total_cents": 720505,
+    "event_time": "2026-06-02T16:02:33.000000Z"
+  },
+  {
+    "event_id": "EVT-007428-PAID",
+    "order_id": "ORD-007428",
+    "customer_id": "CUST0041",
+    "channel": "tienda",
+    "total_cents": 530100,
+    "event_time": "2026-06-27T01:30:57.000000Z"
+  },
+  {
+    "event_id": "EVT-007455-PAID",
+    "order_id": "ORD-007455",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 647150,
+    "event_time": "2026-06-19T08:19:30.000000Z"
+  },
+  {
+    "event_id": "EVT-007517-PAID",
+    "order_id": "ORD-007517",
+    "customer_id": "CUST0001",
+    "channel": "web",
+    "total_cents": 539220,
+    "event_time": "2026-07-10T23:46:10.000000Z"
+  },
+  {
+    "event_id": "EVT-007583-PAID",
+    "order_id": "ORD-007583",
+    "customer_id": "CUST0141",
+    "channel": "movil",
+    "total_cents": 585690,
+    "event_time": "2026-06-27T04:17:01.000000Z"
+  },
+  {
+    "event_id": "EVT-007705-PAID",
+    "order_id": "ORD-007705",
+    "customer_id": "CUST0011",
+    "channel": "web",
+    "total_cents": 616820,
+    "event_time": "2026-07-13T21:50:27.000000Z"
+  },
+  {
+    "event_id": "EVT-007714-PAID",
+    "order_id": "ORD-007714",
+    "customer_id": "CUST0062",
+    "channel": "tienda",
+    "total_cents": 519270,
+    "event_time": "2026-05-21T17:48:34.000000Z"
+  },
+  {
+    "event_id": "EVT-007725-PAID",
+    "order_id": "ORD-007725",
+    "customer_id": "CUST0039",
+    "channel": "movil",
+    "total_cents": 580110,
+    "event_time": "2026-04-01T02:27:48.000000Z"
+  },
+  {
+    "event_id": "EVT-007782-PAID",
+    "order_id": "ORD-007782",
+    "customer_id": "CUST0040",
+    "channel": "web",
+    "total_cents": 503780,
+    "event_time": "2026-08-23T17:18:49.000000Z"
+  },
+  {
+    "event_id": "EVT-007793-PAID",
+    "order_id": "ORD-007793",
+    "customer_id": "CUST0040",
+    "channel": "web",
+    "total_cents": 552870,
+    "event_time": "2026-09-01T00:33:17.000000Z"
+  },
+  {
+    "event_id": "EVT-008001-PAID",
+    "order_id": "ORD-008001",
+    "customer_id": "CUST0065",
+    "channel": "web",
+    "total_cents": 528380,
+    "event_time": "2026-05-28T22:36:53.000000Z"
+  },
+  {
+    "event_id": "EVT-008004-PAID",
+    "order_id": "ORD-008004",
+    "customer_id": "CUST0025",
+    "channel": "movil",
+    "total_cents": 529590,
+    "event_time": "2026-05-21T05:03:03.000000Z"
+  },
+  {
+    "event_id": "EVT-008183-PAID",
+    "order_id": "ORD-008183",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 579120,
+    "event_time": "2026-09-05T09:11:04.000000Z"
+  },
+  {
+    "event_id": "EVT-008265-PAID",
+    "order_id": "ORD-008265",
+    "customer_id": "CUST0064",
+    "channel": "web",
+    "total_cents": 573165,
+    "event_time": "2026-04-13T23:21:04.000000Z"
+  },
+  {
+    "event_id": "EVT-008299-PAID",
+    "order_id": "ORD-008299",
+    "customer_id": "CUST0168",
+    "channel": "web",
+    "total_cents": 613210,
+    "event_time": "2026-07-26T19:38:47.000000Z"
+  },
+  {
+    "event_id": "EVT-008517-PAID",
+    "order_id": "ORD-008517",
+    "customer_id": "CUST0037",
+    "channel": "movil",
+    "total_cents": 606600,
+    "event_time": "2026-07-15T12:30:12.000000Z"
+  },
+  {
+    "event_id": "EVT-008701-PAID",
+    "order_id": "ORD-008701",
+    "customer_id": "CUST0014",
+    "channel": "web",
+    "total_cents": 517300,
+    "event_time": "2026-06-14T01:04:38.000000Z"
+  },
+  {
+    "event_id": "EVT-008759-PAID",
+    "order_id": "ORD-008759",
+    "customer_id": "CUST0016",
+    "channel": "web",
+    "total_cents": 500510,
+    "event_time": "2026-08-23T16:29:52.000000Z"
+  },
+  {
+    "event_id": "EVT-008817-PAID",
+    "order_id": "ORD-008817",
+    "customer_id": "CUST0338",
+    "channel": "web",
+    "total_cents": 571285,
+    "event_time": "2026-07-23T00:05:16.000000Z"
+  },
+  {
+    "event_id": "EVT-008831-PAID",
+    "order_id": "ORD-008831",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 572035,
+    "event_time": "2026-05-14T00:26:19.000000Z"
+  },
+  {
+    "event_id": "EVT-008891-PAID",
+    "order_id": "ORD-008891",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 521990,
+    "event_time": "2026-04-04T00:11:28.000000Z"
+  },
+  {
+    "event_id": "EVT-008928-PAID",
+    "order_id": "ORD-008928",
+    "customer_id": "CUST0018",
+    "channel": "tienda",
+    "total_cents": 545860,
+    "event_time": "2026-07-18T13:54:54.000000Z"
+  },
+  {
+    "event_id": "EVT-008951-PAID",
+    "order_id": "ORD-008951",
+    "customer_id": "CUST0008",
+    "channel": "movil",
+    "total_cents": 612570,
+    "event_time": "2026-07-28T13:50:53.000000Z"
+  },
+  {
+    "event_id": "EVT-008968-PAID",
+    "order_id": "ORD-008968",
+    "customer_id": "CUST0244",
+    "channel": "web",
+    "total_cents": 584770,
+    "event_time": "2026-04-20T15:13:58.000000Z"
+  },
+  {
+    "event_id": "EVT-009058-PAID",
+    "order_id": "ORD-009058",
+    "customer_id": "CUST0633",
+    "channel": "web",
+    "total_cents": 543860,
+    "event_time": "2026-07-05T17:34:08.000000Z"
+  },
+  {
+    "event_id": "EVT-009082-PAID",
+    "order_id": "ORD-009082",
+    "customer_id": "CUST0154",
+    "channel": "movil",
+    "total_cents": 545845,
+    "event_time": "2026-05-16T09:20:49.000000Z"
+  },
+  {
+    "event_id": "EVT-009128-PAID",
+    "order_id": "ORD-009128",
+    "customer_id": "CUST0010",
+    "channel": "web",
+    "total_cents": 586080,
+    "event_time": "2026-04-12T16:16:38.000000Z"
+  },
+  {
+    "event_id": "EVT-009160-PAID",
+    "order_id": "ORD-009160",
+    "customer_id": "CUST0219",
+    "channel": "web",
+    "total_cents": 632440,
+    "event_time": "2026-08-10T09:26:15.000000Z"
+  },
+  {
+    "event_id": "EVT-009166-PAID",
+    "order_id": "ORD-009166",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 542080,
+    "event_time": "2026-05-10T00:36:02.000000Z"
+  },
+  {
+    "event_id": "EVT-009242-PAID",
+    "order_id": "ORD-009242",
+    "customer_id": "CUST0003",
+    "channel": "movil",
+    "total_cents": 529040,
+    "event_time": "2026-04-20T02:56:16.000000Z"
+  },
+  {
+    "event_id": "EVT-009396-PAID",
+    "order_id": "ORD-009396",
+    "customer_id": "CUST0004",
+    "channel": "movil",
+    "total_cents": 597900,
+    "event_time": "2026-06-21T20:45:31.000000Z"
+  },
+  {
+    "event_id": "EVT-009409-PAID",
+    "order_id": "ORD-009409",
+    "customer_id": "CUST0013",
+    "channel": "web",
+    "total_cents": 596750,
+    "event_time": "2026-08-24T01:01:14.000000Z"
+  },
+  {
+    "event_id": "EVT-009418-PAID",
+    "order_id": "ORD-009418",
+    "customer_id": "CUST0283",
+    "channel": "web",
+    "total_cents": 504240,
+    "event_time": "2026-06-08T23:18:24.000000Z"
+  },
+  {
+    "event_id": "EVT-009433-PAID",
+    "order_id": "ORD-009433",
+    "customer_id": "CUST0006",
+    "channel": "tienda",
+    "total_cents": 716815,
+    "event_time": "2026-07-20T14:03:05.000000Z"
+  },
+  {
+    "event_id": "EVT-009575-PAID",
+    "order_id": "ORD-009575",
+    "customer_id": "CUST0291",
+    "channel": "movil",
+    "total_cents": 537660,
+    "event_time": "2026-06-21T16:42:20.000000Z"
+  },
+  {
+    "event_id": "EVT-009737-PAID",
+    "order_id": "ORD-009737",
+    "customer_id": "CUST0127",
+    "channel": "web",
+    "total_cents": 546030,
+    "event_time": "2026-06-13T21:29:27.000000Z"
+  },
+  {
+    "event_id": "EVT-009750-PAID",
+    "order_id": "ORD-009750",
+    "customer_id": "CUST0024",
+    "channel": "web",
+    "total_cents": 569695,
+    "event_time": "2026-07-28T18:23:36.000000Z"
+  },
+  {
+    "event_id": "EVT-009766-PAID",
+    "order_id": "ORD-009766",
+    "customer_id": "CUST0047",
+    "channel": "movil",
+    "total_cents": 613600,
+    "event_time": "2026-09-02T09:36:04.000000Z"
+  },
+  {
+    "event_id": "EVT-009787-PAID",
+    "order_id": "ORD-009787",
+    "customer_id": "CUST0041",
+    "channel": "movil",
+    "total_cents": 687945,
+    "event_time": "2026-08-16T15:09:17.000000Z"
+  },
+  {
+    "event_id": "EVT-009987-PAID",
+    "order_id": "ORD-009987",
+    "customer_id": "CUST0037",
+    "channel": "movil",
+    "total_cents": 506140,
+    "event_time": "2026-05-03T04:35:49.000000Z"
+  },
+  {
+    "event_id": "EVT-010021-PAID",
+    "order_id": "ORD-010021",
+    "customer_id": "CUST0018",
+    "channel": "tienda",
+    "total_cents": 573960,
+    "event_time": "2026-08-21T17:39:15.000000Z"
+  },
+  {
+    "event_id": "EVT-010098-PAID",
+    "order_id": "ORD-010098",
+    "customer_id": "CUST0005",
+    "channel": "web",
+    "total_cents": 527060,
+    "event_time": "2026-04-18T05:51:45.000000Z"
+  },
+  {
+    "event_id": "EVT-010379-PAID",
+    "order_id": "ORD-010379",
+    "customer_id": "CUST0021",
+    "channel": "web",
+    "total_cents": 523775,
+    "event_time": "2026-09-05T19:51:05.000000Z"
+  },
+  {
+    "event_id": "EVT-010380-PAID",
+    "order_id": "ORD-010380",
+    "customer_id": "CUST0085",
+    "channel": "tienda",
+    "total_cents": 513140,
+    "event_time": "2026-08-15T14:58:14.000000Z"
+  },
+  {
+    "event_id": "EVT-010427-PAID",
+    "order_id": "ORD-010427",
+    "customer_id": "CUST0005",
+    "channel": "movil",
+    "total_cents": 515780,
+    "event_time": "2026-07-23T06:18:06.000000Z"
+  },
+  {
+    "event_id": "EVT-010436-PAID",
+    "order_id": "ORD-010436",
+    "customer_id": "CUST0171",
+    "channel": "web",
+    "total_cents": 706200,
+    "event_time": "2026-04-03T18:45:27.000000Z"
+  },
+  {
+    "event_id": "EVT-010463-PAID",
+    "order_id": "ORD-010463",
+    "customer_id": "CUST0983",
+    "channel": "movil",
+    "total_cents": 504170,
+    "event_time": "2026-05-13T23:59:24.000000Z"
+  },
+  {
+    "event_id": "EVT-010530-PAID",
+    "order_id": "ORD-010530",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 525560,
+    "event_time": "2026-09-06T14:16:54.000000Z"
+  },
+  {
+    "event_id": "EVT-010622-PAID",
+    "order_id": "ORD-010622",
+    "customer_id": "CUST0374",
+    "channel": "tienda",
+    "total_cents": 569300,
+    "event_time": "2026-06-07T14:52:38.000000Z"
+  },
+  {
+    "event_id": "EVT-010739-PAID",
+    "order_id": "ORD-010739",
+    "customer_id": "CUST0218",
+    "channel": "movil",
+    "total_cents": 615740,
+    "event_time": "2026-07-20T14:29:02.000000Z"
+  },
+  {
+    "event_id": "EVT-010852-PAID",
+    "order_id": "ORD-010852",
+    "customer_id": "CUST0094",
+    "channel": "web",
+    "total_cents": 506980,
+    "event_time": "2026-06-02T04:10:34.000000Z"
+  },
+  {
+    "event_id": "EVT-010926-PAID",
+    "order_id": "ORD-010926",
+    "customer_id": "CUST0012",
+    "channel": "movil",
+    "total_cents": 584455,
+    "event_time": "2026-07-03T21:33:04.000000Z"
+  },
+  {
+    "event_id": "EVT-010964-PAID",
+    "order_id": "ORD-010964",
+    "customer_id": "CUST0003",
+    "channel": "web",
+    "total_cents": 523980,
+    "event_time": "2026-04-09T04:02:34.000000Z"
+  },
+  {
+    "event_id": "EVT-010991-PAID",
+    "order_id": "ORD-010991",
+    "customer_id": "CUST0040",
+    "channel": "web",
+    "total_cents": 581220,
+    "event_time": "2026-09-07T09:25:53.000000Z"
+  },
+  {
+    "event_id": "EVT-011050-PAID",
+    "order_id": "ORD-011050",
+    "customer_id": "CUST0348",
+    "channel": "web",
+    "total_cents": 514590,
+    "event_time": "2026-05-30T09:53:35.000000Z"
+  },
+  {
+    "event_id": "EVT-011113-PAID",
+    "order_id": "ORD-011113",
+    "customer_id": "CUST0117",
+    "channel": "movil",
+    "total_cents": 526520,
+    "event_time": "2026-05-20T12:32:02.000000Z"
+  },
+  {
+    "event_id": "EVT-011298-PAID",
+    "order_id": "ORD-011298",
+    "customer_id": "CUST0003",
+    "channel": "tienda",
+    "total_cents": 535990,
+    "event_time": "2026-07-05T07:35:15.000000Z"
+  },
+  {
+    "event_id": "EVT-011478-PAID",
+    "order_id": "ORD-011478",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 548900,
+    "event_time": "2026-08-08T04:23:14.000000Z"
+  },
+  {
+    "event_id": "EVT-011607-PAID",
+    "order_id": "ORD-011607",
+    "customer_id": "CUST0009",
+    "channel": "movil",
+    "total_cents": 559100,
+    "event_time": "2026-07-04T12:06:00.000000Z"
+  },
+  {
+    "event_id": "EVT-011626-PAID",
+    "order_id": "ORD-011626",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 512755,
+    "event_time": "2026-06-16T20:41:18.000000Z"
+  },
+  {
+    "event_id": "EVT-011684-PAID",
+    "order_id": "ORD-011684",
+    "customer_id": "CUST0325",
+    "channel": "web",
+    "total_cents": 542340,
+    "event_time": "2026-07-26T06:06:53.000000Z"
+  },
+  {
+    "event_id": "EVT-011763-PAID",
+    "order_id": "ORD-011763",
+    "customer_id": "CUST0303",
+    "channel": "movil",
+    "total_cents": 522530,
+    "event_time": "2026-06-11T21:56:39.000000Z"
+  },
+  {
+    "event_id": "EVT-012040-PAID",
+    "order_id": "ORD-012040",
+    "customer_id": "CUST0007",
+    "channel": "web",
+    "total_cents": 503760,
+    "event_time": "2026-05-07T21:39:13.000000Z"
+  },
+  {
+    "event_id": "EVT-012098-PAID",
+    "order_id": "ORD-012098",
+    "customer_id": "CUST0170",
+    "channel": "movil",
+    "total_cents": 506310,
+    "event_time": "2026-05-14T12:41:03.000000Z"
+  },
+  {
+    "event_id": "EVT-012244-PAID",
+    "order_id": "ORD-012244",
+    "customer_id": "CUST0179",
+    "channel": "web",
+    "total_cents": 543225,
+    "event_time": "2026-05-22T15:14:16.000000Z"
+  },
+  {
+    "event_id": "EVT-012253-PAID",
+    "order_id": "ORD-012253",
+    "customer_id": "CUST0014",
+    "channel": "web",
+    "total_cents": 576900,
+    "event_time": "2026-06-30T14:31:13.000000Z"
+  },
+  {
+    "event_id": "EVT-012314-PAID",
+    "order_id": "ORD-012314",
+    "customer_id": "CUST0014",
+    "channel": "movil",
+    "total_cents": 672440,
+    "event_time": "2026-09-02T10:51:55.000000Z"
+  },
+  {
+    "event_id": "EVT-012329-PAID",
+    "order_id": "ORD-012329",
+    "customer_id": "CUST0009",
+    "channel": "web",
+    "total_cents": 507960,
+    "event_time": "2026-08-19T02:35:53.000000Z"
+  },
+  {
+    "event_id": "EVT-012460-PAID",
+    "order_id": "ORD-012460",
+    "customer_id": "CUST0013",
+    "channel": "web",
+    "total_cents": 649805,
+    "event_time": "2026-04-10T05:53:31.000000Z"
+  },
+  {
+    "event_id": "EVT-012484-PAID",
+    "order_id": "ORD-012484",
+    "customer_id": "CUST0056",
+    "channel": "web",
+    "total_cents": 514800,
+    "event_time": "2026-05-20T18:32:46.000000Z"
+  },
+  {
+    "event_id": "EVT-012496-PAID",
+    "order_id": "ORD-012496",
+    "customer_id": "CUST0009",
+    "channel": "movil",
+    "total_cents": 562140,
+    "event_time": "2026-05-11T19:50:17.000000Z"
+  },
+  {
+    "event_id": "EVT-012705-PAID",
+    "order_id": "ORD-012705",
+    "customer_id": "CUST0074",
+    "channel": "movil",
+    "total_cents": 647665,
+    "event_time": "2026-06-18T18:18:28.000000Z"
+  },
+  {
+    "event_id": "EVT-012752-PAID",
+    "order_id": "ORD-012752",
+    "customer_id": "CUST0017",
+    "channel": "tienda",
+    "total_cents": 556925,
+    "event_time": "2026-06-01T19:35:46.000000Z"
+  },
+  {
+    "event_id": "EVT-012796-PAID",
+    "order_id": "ORD-012796",
+    "customer_id": "CUST0012",
+    "channel": "web",
+    "total_cents": 524630,
+    "event_time": "2026-08-19T12:44:39.000000Z"
+  }
+]

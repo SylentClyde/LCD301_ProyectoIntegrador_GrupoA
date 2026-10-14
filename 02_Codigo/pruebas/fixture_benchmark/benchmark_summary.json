@@ -1,0 +1,139 @@
+{
+  "environment": {
+    "version": "PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 2, GenuineIntel",
+    "parameters": {
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-10-01T00:00:00Z",
+      "as_of": "2026-10-01T00:00:00Z"
+    },
+    "measured_at": "2026-10-09T23:25:36.481514+00:00",
+    "row_counts": {
+      "event_rows": 3,
+      "line_rows": 3
+    },
+    "partitions": [
+      {
+        "tablename": "fact_event_202604"
+      },
+      {
+        "tablename": "fact_event_202605"
+      },
+      {
+        "tablename": "fact_event_line"
+      },
+      {
+        "tablename": "fact_event_line_202604"
+      },
+      {
+        "tablename": "fact_event_line_202605"
+      }
+    ],
+    "cache_note": "Primera medición no garantiza caché fría. Repeticiones consecutivas suelen aprovechar caché. Sin comparación antes/después."
+  },
+  "queries": [
+    {
+      "query": "Q1_ingresos_canal",
+      "result_rows": 2,
+      "first_client_ms": 3.8933998439460993,
+      "repetitions_ms": [
+        1.9595001358538866,
+        1.9014999270439148,
+        1.4498999807983637,
+        0.8098999969661236,
+        1.2182998470962048
+      ],
+      "median_client_ms": 1.4498999807983637,
+      "min_client_ms": 0.8098999969661236,
+      "max_client_ms": 1.9595001358538866,
+      "server_execution_ms": 0.103,
+      "server_planning_ms": 0.353
+    },
+    {
+      "query": "Q2_ranking_productos",
+      "result_rows": 1,
+      "first_client_ms": 2.2094000596553087,
+      "repetitions_ms": [
+        1.6938999760895967,
+        1.491399947553873,
+        1.253899885341525,
+        1.3997000642120838,
+        2.3471000604331493
+      ],
+      "median_client_ms": 1.491399947553873,
+      "min_client_ms": 1.253899885341525,
+      "max_client_ms": 2.3471000604331493,
+      "server_execution_ms": 0.134,
+      "server_planning_ms": 0.457
+    },
+    {
+      "query": "Q3_ticket_promedio",
+      "result_rows": 1,
+      "first_client_ms": 2.944899955764413,
+      "repetitions_ms": [
+        1.6361000016331673,
+        1.0997999925166368,
+        0.8867001160979271,
+        1.1992999352514744,
+        3.2440999057143927
+      ],
+      "median_client_ms": 1.1992999352514744,
+      "min_client_ms": 0.8867001160979271,
+      "max_client_ms": 3.2440999057143927,
+      "server_execution_ms": 0.124,
+      "server_planning_ms": 0.412
+    },
+    {
+      "query": "Q4_cancelacion_cohortes",
+      "result_rows": 1,
+      "first_client_ms": 1.8548001535236835,
+      "repetitions_ms": [
+        1.4488000888377428,
+        1.1656999122351408,
+        1.0563998948782682,
+        1.0705001186579466,
+        1.0840999893844128
+      ],
+      "median_client_ms": 1.0840999893844128,
+      "min_client_ms": 1.0563998948782682,
+      "max_client_ms": 1.4488000888377428,
+      "server_execution_ms": 0.079,
+      "server_planning_ms": 0.344
+    },
+    {
+      "query": "Q5_devoluciones_30dias",
+      "result_rows": 1,
+      "first_client_ms": 3.6585999187082052,
+      "repetitions_ms": [
+        2.177199814468622,
+        1.9992999732494354,
+        1.8275000620633364,
+        1.620299881324172,
+        1.6811999958008528
+      ],
+      "median_client_ms": 1.8275000620633364,
+      "min_client_ms": 1.620299881324172,
+      "max_client_ms": 2.177199814468622,
+      "server_execution_ms": 0.277,
+      "server_planning_ms": 0.965
+    },
+    {
+      "query": "Q6_valor_repeticion_clientes",
+      "result_rows": 1,
+      "first_client_ms": 1.339700073003769,
+      "repetitions_ms": [
+        2.1562001202255487,
+        1.5137000009417534,
+        0.7193000055849552,
+        0.6482999306172132,
+        0.7553000468760729
+      ],
+      "median_client_ms": 0.7553000468760729,
+      "min_client_ms": 0.6482999306172132,
+      "max_client_ms": 2.1562001202255487,
+      "server_execution_ms": 0.067,
+      "server_planning_ms": 0.248
+    }
+  ]
+}

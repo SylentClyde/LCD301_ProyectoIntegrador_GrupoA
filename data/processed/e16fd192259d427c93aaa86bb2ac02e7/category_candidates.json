@@ -1,0 +1,27 @@
+[
+  {
+    "category": "hogar",
+    "candidate_net_cents": 605567970,
+    "lines": 15000
+  },
+  {
+    "category": "belleza",
+    "candidate_net_cents": 449864445,
+    "lines": 14662
+  },
+  {
+    "category": "electronica",
+    "candidate_net_cents": 461976119,
+    "lines": 14983
+  },
+  {
+    "category": "ropa",
+    "candidate_net_cents": 476013895,
+    "lines": 15157
+  },
+  {
+    "category": "deportes",
+    "candidate_net_cents": 644689515,
+    "lines": 14979
+  }
+]

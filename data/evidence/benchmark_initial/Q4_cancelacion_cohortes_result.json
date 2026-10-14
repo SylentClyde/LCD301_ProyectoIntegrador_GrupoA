@@ -1,0 +1,146 @@
+[
+  {
+    "creation_month": "2026-04-01",
+    "channel": "movil",
+    "created_orders": 921,
+    "cancelled_orders": 81,
+    "cancellation_rate": "0.08794788273615635179",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-04-01",
+    "channel": "tienda",
+    "created_orders": 419,
+    "cancelled_orders": 33,
+    "cancellation_rate": "0.07875894988066825776",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-04-01",
+    "channel": "web",
+    "created_orders": 1413,
+    "cancelled_orders": 111,
+    "cancellation_rate": "0.07855626326963906582",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-05-01",
+    "channel": "movil",
+    "created_orders": 960,
+    "cancelled_orders": 88,
+    "cancellation_rate": "0.09166666666666666667",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-05-01",
+    "channel": "tienda",
+    "created_orders": 410,
+    "cancelled_orders": 36,
+    "cancellation_rate": "0.08780487804878048780",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-05-01",
+    "channel": "web",
+    "created_orders": 1424,
+    "cancelled_orders": 124,
+    "cancellation_rate": "0.08707865168539325843",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-06-01",
+    "channel": "movil",
+    "created_orders": 947,
+    "cancelled_orders": 81,
+    "cancellation_rate": "0.08553326293558606125",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-06-01",
+    "channel": "tienda",
+    "created_orders": 421,
+    "cancelled_orders": 37,
+    "cancellation_rate": "0.08788598574821852732",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-06-01",
+    "channel": "web",
+    "created_orders": 1391,
+    "cancelled_orders": 104,
+    "cancellation_rate": "0.07476635514018691589",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-07-01",
+    "channel": "movil",
+    "created_orders": 870,
+    "cancelled_orders": 69,
+    "cancellation_rate": "0.07931034482758620690",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-07-01",
+    "channel": "tienda",
+    "created_orders": 433,
+    "cancelled_orders": 36,
+    "cancellation_rate": "0.08314087759815242494",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-07-01",
+    "channel": "web",
+    "created_orders": 1421,
+    "cancelled_orders": 93,
+    "cancellation_rate": "0.06544686840253342716",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-08-01",
+    "channel": "movil",
+    "created_orders": 921,
+    "cancelled_orders": 84,
+    "cancellation_rate": "0.09120521172638436482",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-08-01",
+    "channel": "tienda",
+    "created_orders": 447,
+    "cancelled_orders": 43,
+    "cancellation_rate": "0.09619686800894854586",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-08-01",
+    "channel": "web",
+    "created_orders": 1424,
+    "cancelled_orders": 100,
+    "cancellation_rate": "0.07022471910112359551",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-09-01",
+    "channel": "movil",
+    "created_orders": 398,
+    "cancelled_orders": 20,
+    "cancellation_rate": "0.05025125628140703518",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-09-01",
+    "channel": "tienda",
+    "created_orders": 169,
+    "cancelled_orders": 13,
+    "cancellation_rate": "0.07692307692307692308",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  },
+  {
+    "creation_month": "2026-09-01",
+    "channel": "web",
+    "created_orders": 611,
+    "cancelled_orders": 47,
+    "cancellation_rate": "0.07692307692307692308",
+    "cutoff_at": "2026-10-01 00:00:00+00:00"
+  }
+]

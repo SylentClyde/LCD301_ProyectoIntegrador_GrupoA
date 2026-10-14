@@ -1,0 +1,230 @@
+{
+  "environment": {
+    "version": "PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 2, GenuineIntel",
+    "parameters": {
+      "start": "2026-04-01T00:00:00Z",
+      "end": "2026-10-01T00:00:00Z",
+      "as_of": "2026-10-01T00:00:00Z"
+    },
+    "measured_at": "2026-10-09T23:49:49.846989+00:00",
+    "background_activity": "Dashboard activo y host compartido; el respaldo final terminó antes de esta medición. Sin aislamiento de CPU/E/S.",
+    "row_counts": {
+      "event_rows": 31007,
+      "line_rows": 71807
+    },
+    "partitions": [
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202604"
+      },
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202605"
+      },
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202606"
+      },
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202607"
+      },
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202608"
+      },
+      {
+        "parent": "fact_event",
+        "partition": "fact_event_202609"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202604"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202605"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202606"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202607"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202608"
+      },
+      {
+        "parent": "fact_event_line",
+        "partition": "fact_event_line_202609"
+      }
+    ],
+    "indexes": [
+      {
+        "tablename": "event_registry",
+        "indexname": "event_registry_pkey",
+        "indexdef": "CREATE UNIQUE INDEX event_registry_pkey ON ecommerce.event_registry USING btree (event_id)"
+      },
+      {
+        "tablename": "event_registry",
+        "indexname": "one_cancel_per_order",
+        "indexdef": "CREATE UNIQUE INDEX one_cancel_per_order ON ecommerce.event_registry USING btree (order_id) WHERE (event_type = 'cancelled'::text)"
+      },
+      {
+        "tablename": "event_registry",
+        "indexname": "one_created_per_order",
+        "indexdef": "CREATE UNIQUE INDEX one_created_per_order ON ecommerce.event_registry USING btree (order_id) WHERE (event_type = 'created'::text)"
+      },
+      {
+        "tablename": "event_registry",
+        "indexname": "one_payment_per_order",
+        "indexdef": "CREATE UNIQUE INDEX one_payment_per_order ON ecommerce.event_registry USING btree (order_id) WHERE (event_type = 'paid'::text)"
+      },
+      {
+        "tablename": "event_registry",
+        "indexname": "registry_order",
+        "indexdef": "CREATE INDEX registry_order ON ecommerce.event_registry USING btree (order_id, event_time)"
+      },
+      {
+        "tablename": "fact_event",
+        "indexname": "fact_event_order",
+        "indexdef": "CREATE INDEX fact_event_order ON ONLY ecommerce.fact_event USING btree (order_id)"
+      },
+      {
+        "tablename": "fact_event",
+        "indexname": "fact_event_pkey",
+        "indexdef": "CREATE UNIQUE INDEX fact_event_pkey ON ONLY ecommerce.fact_event USING btree (event_month, event_id)"
+      },
+      {
+        "tablename": "fact_event",
+        "indexname": "fact_event_time_channel",
+        "indexdef": "CREATE INDEX fact_event_time_channel ON ONLY ecommerce.fact_event USING btree (event_time, channel)"
+      },
+      {
+        "tablename": "fact_event_line",
+        "indexname": "event_line_date_product",
+        "indexdef": "CREATE INDEX event_line_date_product ON ONLY ecommerce.fact_event_line USING btree (event_time, product_id)"
+      },
+      {
+        "tablename": "fact_event_line",
+        "indexname": "event_line_payment",
+        "indexdef": "CREATE INDEX event_line_payment ON ONLY ecommerce.fact_event_line USING btree (original_payment_id, order_line_id)"
+      },
+      {
+        "tablename": "fact_event_line",
+        "indexname": "fact_event_line_pkey",
+        "indexdef": "CREATE UNIQUE INDEX fact_event_line_pkey ON ONLY ecommerce.fact_event_line USING btree (event_month, event_id, order_line_id)"
+      }
+    ],
+    "cache_note": "Primera medición no garantiza caché fría. Repeticiones consecutivas suelen aprovechar caché. Sin comparación antes/después."
+  },
+  "queries": [
+    {
+      "query": "Q1_ingresos_canal",
+      "result_rows": 536,
+      "first_client_ms": 44.32650003582239,
+      "repetitions_ms": [
+        37.91159996762872,
+        45.576300006359816,
+        35.98390007391572,
+        39.50929990969598,
+        36.3963998388499
+      ],
+      "median_client_ms": 37.91159996762872,
+      "min_client_ms": 35.98390007391572,
+      "max_client_ms": 45.576300006359816,
+      "server_execution_ms": 36.016,
+      "server_planning_ms": 1.031
+    },
+    {
+      "query": "Q2_ranking_productos",
+      "result_rows": 100,
+      "first_client_ms": 132.5219999998808,
+      "repetitions_ms": [
+        116.24390003271401,
+        114.43739989772439,
+        130.31150004826486,
+        172.57549986243248,
+        126.82910007424653
+      ],
+      "median_client_ms": 126.82910007424653,
+      "min_client_ms": 114.43739989772439,
+      "max_client_ms": 172.57549986243248,
+      "server_execution_ms": 151.538,
+      "server_planning_ms": 0.919
+    },
+    {
+      "query": "Q3_ticket_promedio",
+      "result_rows": 3,
+      "first_client_ms": 34.3444999307394,
+      "repetitions_ms": [
+        28.85300014168024,
+        24.033800000324845,
+        36.15539986640215,
+        30.03080002963543,
+        28.644199948757887
+      ],
+      "median_client_ms": 28.85300014168024,
+      "min_client_ms": 24.033800000324845,
+      "max_client_ms": 36.15539986640215,
+      "server_execution_ms": 27.522,
+      "server_planning_ms": 0.671
+    },
+    {
+      "query": "Q4_cancelacion_cohortes",
+      "result_rows": 18,
+      "first_client_ms": 37.94680000282824,
+      "repetitions_ms": [
+        32.27990004234016,
+        32.696800073608756,
+        32.456899993121624,
+        35.27690004557371,
+        34.40869995392859
+      ],
+      "median_client_ms": 32.696800073608756,
+      "min_client_ms": 32.27990004234016,
+      "max_client_ms": 35.27690004557371,
+      "server_execution_ms": 37.371,
+      "server_planning_ms": 1.418
+    },
+    {
+      "query": "Q5_devoluciones_30dias",
+      "result_rows": 100,
+      "first_client_ms": 234.31000020354986,
+      "repetitions_ms": [
+        224.63169996626675,
+        192.48640001751482,
+        214.13779980503023,
+        182.75930010713637,
+        173.14459988847375
+      ],
+      "median_client_ms": 192.48640001751482,
+      "min_client_ms": 173.14459988847375,
+      "max_client_ms": 224.63169996626675,
+      "server_execution_ms": 242.986,
+      "server_planning_ms": 1.437
+    },
+    {
+      "query": "Q6_valor_repeticion_clientes",
+      "result_rows": 1000,
+      "first_client_ms": 35.83170007914305,
+      "repetitions_ms": [
+        34.566499991342425,
+        31.65869996882975,
+        35.10540002025664,
+        30.67509992979467,
+        27.37989998422563
+      ],
+      "median_client_ms": 31.65869996882975,
+      "min_client_ms": 27.37989998422563,
+      "max_client_ms": 35.10540002025664,
+      "server_execution_ms": 33.035,
+      "server_planning_ms": 0.762
+    }
+  ]
+}

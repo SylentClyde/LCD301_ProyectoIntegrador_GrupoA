@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "batch_id": "base",
+  "input_events": 31065,
+  "landing_events": 31045,
+  "schema_rejected_events": 20,
+  "catalog_rejections": 1,
+  "all_occurrences_reconciled": true,
+  "payloads_unchanged_except_metadata": true,
+  "closed_manifest_hashes_verified": true
+}

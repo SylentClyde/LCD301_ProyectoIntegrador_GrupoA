@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": 31015,
+  "initial_accepted": 31000,
+  "delta_accepted": 7,
+  "orders_after_delta": 15003,
+  "paid_orders_after_delta": 12803,
+  "duplicates_verified": 25,
+  "schema_validation": {
+    "schema_rejections": 20,
+    "valid_records_verified": 31007
+  },
+  "initial_net_cents": 2638136945,
+  "after_delta_net_cents": 2638164945
+}

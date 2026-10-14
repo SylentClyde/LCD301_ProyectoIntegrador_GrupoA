@@ -1,0 +1,148 @@
+{
+  "passed": true,
+  "verified_at": "2026-10-09T23:59:32.403812+00:00",
+  "application_timeout_ms": 12000,
+  "query_change": "Creation cohort filtered before aggregation; joins unique paid/cancelled events through existing indexes",
+  "diagnostic_old_plan_analyzed": false,
+  "fixed_server_execution_ms": 239.28,
+  "maximum_client_ms": 106.06590006500483,
+  "cases": [
+    {
+      "channel": "web",
+      "category": "belleza",
+      "result": {
+        "created_orders": 3087,
+        "cancelled_orders": 221
+      },
+      "client_ms": 106.06590006500483
+    },
+    {
+      "channel": "web",
+      "category": "deportes",
+      "result": {
+        "created_orders": 3178,
+        "cancelled_orders": 236
+      },
+      "client_ms": 98.74869999475777
+    },
+    {
+      "channel": "web",
+      "category": "electronica",
+      "result": {
+        "created_orders": 3178,
+        "cancelled_orders": 243
+      },
+      "client_ms": 83.62839999608696
+    },
+    {
+      "channel": "web",
+      "category": "hogar",
+      "result": {
+        "created_orders": 3125,
+        "cancelled_orders": 227
+      },
+      "client_ms": 79.57810000516474
+    },
+    {
+      "channel": "web",
+      "category": "ropa",
+      "result": {
+        "created_orders": 3220,
+        "cancelled_orders": 244
+      },
+      "client_ms": 70.82700007595122
+    },
+    {
+      "channel": "movil",
+      "category": "belleza",
+      "result": {
+        "created_orders": 2036,
+        "cancelled_orders": 177
+      },
+      "client_ms": 65.39929984137416
+    },
+    {
+      "channel": "movil",
+      "category": "deportes",
+      "result": {
+        "created_orders": 2056,
+        "cancelled_orders": 184
+      },
+      "client_ms": 69.71530010923743
+    },
+    {
+      "channel": "movil",
+      "category": "electronica",
+      "result": {
+        "created_orders": 2134,
+        "cancelled_orders": 169
+      },
+      "client_ms": 78.61059997230768
+    },
+    {
+      "channel": "movil",
+      "category": "hogar",
+      "result": {
+        "created_orders": 2089,
+        "cancelled_orders": 187
+      },
+      "client_ms": 80.35930013284087
+    },
+    {
+      "channel": "movil",
+      "category": "ropa",
+      "result": {
+        "created_orders": 2014,
+        "cancelled_orders": 175
+      },
+      "client_ms": 75.0345999840647
+    },
+    {
+      "channel": "tienda",
+      "category": "belleza",
+      "result": {
+        "created_orders": 952,
+        "cancelled_orders": 89
+      },
+      "client_ms": 75.64930012449622
+    },
+    {
+      "channel": "tienda",
+      "category": "deportes",
+      "result": {
+        "created_orders": 949,
+        "cancelled_orders": 83
+      },
+      "client_ms": 63.021899899467826
+    },
+    {
+      "channel": "tienda",
+      "category": "electronica",
+      "result": {
+        "created_orders": 914,
+        "cancelled_orders": 79
+      },
+      "client_ms": 58.00759978592396
+    },
+    {
+      "channel": "tienda",
+      "category": "hogar",
+      "result": {
+        "created_orders": 960,
+        "cancelled_orders": 84
+      },
+      "client_ms": 65.2905001770705
+    },
+    {
+      "channel": "tienda",
+      "category": "ropa",
+      "result": {
+        "created_orders": 948,
+        "cancelled_orders": 83
+      },
+      "client_ms": 57.2561000008136
+    }
+  ],
+  "no_fact_data_mutations": true,
+  "no_indexes_changed": true
+}

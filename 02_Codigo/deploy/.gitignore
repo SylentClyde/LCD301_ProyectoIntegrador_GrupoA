@@ -1,0 +1,4 @@
+.env
+docker_evidence/
+__pycache__/
+

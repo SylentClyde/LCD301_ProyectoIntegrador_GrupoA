@@ -1,0 +1,12 @@
+[
+  {
+    "category": "hogar",
+    "product_id": "PRD001",
+    "product_name": "Control",
+    "sold_units": 2,
+    "refunded_units": 1,
+    "gross_bob": "100.0000000000000000",
+    "refund_bob": "50.0000000000000000",
+    "net_bob": "50.0000000000000000"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "quality.stage" : "ingesta",
+  "json.validation.errors" : "[/event_type: does not have a value in the enumeration [\"created\", \"paid\", \"cancelled\", \"refunded\"]]",
+  "quality.original_filename" : "71a47bc0-fd69-4174-a845-25455e7462aa",
+  "quality.reason" : "[/event_type: does not have a value in the enumeration [\"created\", \"paid\", \"cancelled\", \"refunded\"]]",
+  "batch_id" : "base",
+  "quality.at" : "2026-10-09T23:26:04.542Z",
+  "source" : "rest_api",
+  "quality.csv_reason" : ""
+}

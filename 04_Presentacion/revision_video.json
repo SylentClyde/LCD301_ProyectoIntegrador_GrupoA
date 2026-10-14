@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "verified_at_utc": "2026-10-10T00:15:03.860Z",
+  "file": "Demostracion_GrupoA.mp4",
+  "duration_seconds": 142,
+  "codec": "h264",
+  "width": 1920,
+  "height": 1080,
+  "frames_per_second": 25,
+  "audio": false,
+  "full_video_decoded_without_errors": true,
+  "representative_frames_visually_reviewed": true,
+  "issues": [],
+  "scope": "Demostración guiada con diapositivas y capturas reales; no grabación continua."
+}
