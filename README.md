@@ -47,4 +47,4 @@ Servicios de laboratorio: [Dashboard](http://127.0.0.1:18050), [API y Swagger](h
 
 El procesamiento es batch: las vistas se actualizan cada 15 segundos al publicarse los lotes. No se afirma procesamiento distribuido ni streaming continuo. El despliegue Docker se suministra como extra y no se ejecutó en este entorno; la evidencia es de ejecución nativa Windows. El video utiliza capturas reales como demostración guiada.
 
-`MANIFEST_SHA256.json` inventaría todos los archivos distribuibles. La entrega se llama **LCD301_ProyectoIntegrador_GrupoA.zip**. Subir a OneDrive/Drive/Git y comprobar un enlace con permiso de visualización para el instructor. Una ruta dentro de OneDrive no demuestra por sí sola sincronización ni acceso externo.
+`MANIFEST_SHA256.json` inventaría todos los archivos distribuibles. La entrega se llama **LCD301_ProyectoIntegrador_GrupoA.zip** y está publicada en este repositorio público. Se comprobaron el acceso sin iniciar sesión, las huellas de todos los archivos y la descarga íntegra del ZIP. El archivo **LCD301_ProyectoIntegrador_GrupoA.url** abre el repositorio y puede enviarse al instructor.

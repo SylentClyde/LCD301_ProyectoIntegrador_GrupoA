@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-14T20:00:17.810677+00:00",
+  "created_at_utc": "2026-10-14T20:09:49.392275+00:00",
   "algorithm": "SHA256",
   "note": "Inventario de archivos incluidos; excluye este inventario para evitar autorreferencia.",
   "files": [
@@ -1445,8 +1445,8 @@
     },
     {
       "path": "ESTADO_VALIDACION.json",
-      "bytes": 1646,
-      "sha256": "51b42cab00e32a13532752fd75690e6d598f02970d974c614d7cac45655e23d8"
+      "bytes": 1985,
+      "sha256": "be8a0ad80b5170911f685107ae63a564c9a27e16d204ff9219210afcf0eac2bd"
     },
     {
       "path": "LCD301_ProyectoIntegrador_GrupoA.url",
@@ -1455,8 +1455,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5149,
-      "sha256": "0d569c3962d270a4516521bb3675e504f7c14877a43368b7e5a78d3065407f24"
+      "bytes": 5224,
+      "sha256": "2692382d6c39c865eea737e08531af0861a0ec53e55251e23b219a2ef59dbafb"
     }
   ]
 }
