@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-16T21:58:50.552692+00:00",
+  "created_at_utc": "2026-10-16T22:11:14.143667+00:00",
   "algorithm": "SHA256",
   "note": "Inventario de archivos incluidos; excluye este inventario para evitar autorreferencia.",
   "files": [
@@ -655,8 +655,8 @@
     },
     {
       "path": "04_Presentacion/Guion_Demostracion.md",
-      "bytes": 5147,
-      "sha256": "641c3f28131b5696939ad760ffd318dd67bc7c123d8e892999e4ffe9c4a7af50"
+      "bytes": 11729,
+      "sha256": "9875f80190992d7578decc7e7e4961dcf86da96a7bc577992e8e4ed725b4604a"
     },
     {
       "path": "04_Presentacion/revision_video.json",
@@ -1446,7 +1446,7 @@
     {
       "path": "ESTADO_VALIDACION.json",
       "bytes": 1985,
-      "sha256": "a9852db9d44af76b3e1ca3286ac70443ffb515d821f7eedd1f24deefd2c27519"
+      "sha256": "a561386e3c0d8441a9ed24ea5c6cfa3b4567c81d7a385cbd09ba57ae68397363"
     },
     {
       "path": "LCD301_ProyectoIntegrador_GrupoA.url",
