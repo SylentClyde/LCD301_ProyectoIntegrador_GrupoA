@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-16T21:33:58.949277+00:00",
+  "created_at_utc": "2026-10-16T21:36:05.950204+00:00",
   "algorithm": "SHA256",
   "note": "Inventario de archivos incluidos; excluye este inventario para evitar autorreferencia.",
   "files": [
@@ -15,13 +15,13 @@
     },
     {
       "path": "01_Documentacion/Informe_Tecnico_GrupoA.pdf",
-      "bytes": 162363,
-      "sha256": "09faab30f629cc28416c008b9a39eb3d258755aa737ed17a1b4e1f95771ca784"
+      "bytes": 12639281,
+      "sha256": "d00e5f20b01662181fe8a77479666880b07c66bc5e5a570ed4dbf921655e3400"
     },
     {
       "path": "01_Documentacion/Manual_Ejecucion_GrupoA.pdf",
-      "bytes": 104840,
-      "sha256": "a87753e6f970b7dbc05b9f19c59aef45bb1bbe7711843351dd25dcb553c46dc0"
+      "bytes": 5174654,
+      "sha256": "8ee83fb5bd9eb3f5997dc735d8e1edde46d8ee38349bbb9e32a52caafa111b8d"
     },
     {
       "path": "01_Documentacion/revision_visual.json",
@@ -1446,7 +1446,7 @@
     {
       "path": "ESTADO_VALIDACION.json",
       "bytes": 1985,
-      "sha256": "a7834d137ce36cb4a505b28d352298066c93b5904e0560e42a49023795528dd8"
+      "sha256": "b6f246363b0bf20c03a353bbeba51bc02c7195069e1813c46ca36bfd2a54d21f"
     },
     {
       "path": "LCD301_ProyectoIntegrador_GrupoA.url",
