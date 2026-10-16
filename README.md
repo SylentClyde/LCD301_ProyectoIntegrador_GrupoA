@@ -4,7 +4,7 @@ E-commerce de ventas, devoluciones y clientes. Dos fuentes independientes (REST 
 
 ## Índice de entrega
 
-Repositorio de entrega: [LCD301_ProyectoIntegrador_GrupoA](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA). El instructor puede consultar los archivos desde el navegador. [Descargar el ZIP con el nombre solicitado](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA/raw/refs/heads/main/LCD301_ProyectoIntegrador_GrupoA.zip) · [Descargar el acceso directo .url](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA/raw/refs/heads/main/LCD301_ProyectoIntegrador_GrupoA.url).
+Repositorio de entrega: [LCD301_ProyectoIntegrador_GrupoA](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA). El instructor puede consultar los archivos desde el navegador. Para descargar el contenido, utiliza **Code → Download ZIP**. [Descargar el acceso directo .url](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA/raw/refs/heads/main/LCD301_ProyectoIntegrador_GrupoA.url).
 
 | Carpeta | Abrir primero |
 |---|---|
@@ -33,6 +33,8 @@ La evidencia de PostgreSQL debe coincidir con este cálculo independiente de la 
 
 Requisitos: Python 3.12, Java 21, NiFi 2.12.0, PostgreSQL 17.6 y JDBC PostgreSQL 42.7.7. Instalar las dependencias Python de `02_Codigo/requirements.txt`. Los motores externos y sus credenciales no se incluyen en el ZIP.
 
+**Para otro usuario o computadora Windows:** sigue el [guion con preparación, comandos y resultados esperados](04_Presentacion/Guion_Demostracion.md). Prepara una copia limpia y una base nueva para demostrar BASE y DELTA desde cero, usando las rutas y credenciales de tu instalación.
+
 1. Crear la base/usuario de laboratorio; configurar `DATABASE_URL` y `JAVA_HOME`.
 2. Iniciar NiFi y definir `NIFI_RUNTIME` o sus credenciales en variables de entorno.
 3. Iniciar API y dashboard con `02_Codigo/iniciar_aplicaciones.ps1`.
@@ -47,4 +49,4 @@ Servicios de laboratorio: [Dashboard](http://127.0.0.1:18050), [API y Swagger](h
 
 El procesamiento es batch: las vistas se actualizan cada 15 segundos al publicarse los lotes. No se afirma procesamiento distribuido ni streaming continuo. El despliegue Docker se suministra como extra y no se ejecutó en este entorno; la evidencia es de ejecución nativa Windows. El video utiliza capturas reales como demostración guiada.
 
-`MANIFEST_SHA256.json` inventaría todos los archivos distribuibles. La entrega se llama **LCD301_ProyectoIntegrador_GrupoA.zip** y está publicada en este repositorio público. Se comprobaron el acceso sin iniciar sesión, las huellas de todos los archivos y la descarga íntegra del ZIP. El archivo **LCD301_ProyectoIntegrador_GrupoA.url** abre el repositorio y puede enviarse al instructor.
+`MANIFEST_SHA256.json` inventaría los archivos distribuibles del proyecto. Los archivos se publican en este repositorio y el paquete **LCD301_ProyectoIntegrador_GrupoA.zip** se entrega por separado. La descarga automática de GitHub usa su propio nombre y carpeta contenedora. El archivo **LCD301_ProyectoIntegrador_GrupoA.url** abre el repositorio y puede enviarse al instructor.

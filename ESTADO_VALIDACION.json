@@ -1,5 +1,5 @@
 {
-  "verified_at_utc": "2026-10-16T22:11:12.411412+00:00",
+  "verified_at_utc": "2026-10-16T22:30:11.408470+00:00",
   "team": "Grupo A",
   "scenario": "E-commerce: ventas, devoluciones y clientes",
   "local_delivery_ready": true,
@@ -38,8 +38,8 @@
     "url": "https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA",
     "visibility": "public",
     "teacher_login_required": false,
-    "initial_publication_verified_at_utc": "2026-10-16T22:01:51.699849+00:00",
-    "initial_publication_commit": "a94117d7a5ebb898a77171626aa82fb823ebb9a0",
+    "initial_publication_verified_at_utc": "2026-10-16T22:15:56.596033+00:00",
+    "initial_publication_commit": "3918578305d62a82c09a59c9ec23c85a4becde9b",
     "shortcut": "LCD301_ProyectoIntegrador_GrupoA.url"
   }
 }

@@ -1,81 +1,136 @@
 # Guion de presentación y ejecución | LCD301 · Grupo A
 
-Ejecuta los bloques en orden y utiliza las frases **Explica** como apoyo. Los comandos están preparados para el equipo donde construimos el proyecto; las instalaciones se dejan listas antes de grabar.
+Guía para un integrante del equipo que ejecuta el proyecto en **Windows con PowerShell**, con su propio usuario. Primero prepara el equipo; durante el video sigue los pasos 1 a 8 y utiliza las frases **Explica** como apoyo. No necesitas las carpetas privadas ni las credenciales del autor.
 
-**Situación actual:** BASE y DELTA ya están publicados. Al repetir la ingesta puede aparecer `already_closed` y Spark debe publicar cero hechos nuevos. Eso demuestra el control de duplicados. Para mostrar por primera vez el aumento de 31.000 a 31.007 se necesita otro entorno de demostración vacío; este recorrido conserva la base entregada.
+## Preparación antes de grabar — una sola vez
 
-## 1. Presentar el proyecto y preparar la terminal
+**Requisitos:** instala Python 3.12 con el lanzador `py`, Java JDK 21, Apache NiFi 2.12.0 y PostgreSQL 17. Spark 4.0.1 se instala con las dependencias Python. Los motores no vienen dentro del ZIP. Descargas oficiales: [Python](https://www.python.org/downloads/windows/), [Java 21](https://adoptium.net/temurin/releases/?version=21), [NiFi](https://nifi.apache.org/download/) y [PostgreSQL para Windows](https://www.postgresql.org/download/windows/). Versiones utilizadas y alcance: [DEPENDENCIAS.md](../02_Codigo/DEPENDENCIAS.md).
+
+Usa una instalación local de NiFi reservada para esta demostración, sin un grupo anterior del proyecto, y deja activo el servicio de PostgreSQL desde **Servicios de Windows**. Necesitas conocer su puerto, usuario y contraseña; el usuario debe poder crear bases, también para la prueba de restauración. En una instalación de clase puedes usar el usuario `postgres` con la contraseña que elegiste al instalarlo. Los puertos 8443, 18080 y 18050 deben estar disponibles.
+
+### A. Obtener el proyecto y preparar una copia limpia
+
+En el [repositorio del equipo](https://github.com/SylentClyde/LCD301_ProyectoIntegrador_GrupoA), selecciona **Code → Download ZIP** y extráelo. También puedes usar el ZIP de entrega compartido por tu compañero. Localiza la carpeta que contiene `README.md`, `02_Codigo` y `data`. Copia su ruta desde el Explorador; cuando se soliciten rutas, pégalas **sin comillas exteriores**.
+
+Abre PowerShell. Este bloque crea a su lado una carpeta nueva llamada `LCD301_Demo_GrupoA`. Copia únicamente código, dashboard y fuentes; así no reutiliza manifiestos, datos procesados ni identificadores NiFi de la entrega.
+
+```powershell
+$ErrorActionPreference = 'Stop'
+$taskSource = (Resolve-Path -LiteralPath (Read-Host 'Ruta de la carpeta extraida que contiene README.md')).Path
+if (!(Test-Path -LiteralPath "$taskSource/02_Codigo/requirements.txt")) { throw 'Selecciona la raiz del proyecto extraido.' }
+$taskProject = Join-Path (Split-Path $taskSource -Parent) 'LCD301_Demo_GrupoA'
+if (Test-Path -LiteralPath $taskProject) { throw 'LCD301_Demo_GrupoA ya existe. Conserva esa ejecucion o elige otro nombre para una demostracion nueva.' }
+New-Item -ItemType Directory -Path "$taskProject/data", "$taskProject/03_Visualizaciones" -Force | Out-Null
+Copy-Item -LiteralPath "$taskSource/02_Codigo" -Destination $taskProject -Recurse
+Copy-Item -LiteralPath "$taskSource/data/source" -Destination "$taskProject/data" -Recurse
+Copy-Item -LiteralPath "$taskSource/03_Visualizaciones/dashboard" -Destination "$taskProject/03_Visualizaciones" -Recurse
+Set-Location -LiteralPath $taskProject
+```
+
+### B. Instalar dependencias y configurar las rutas propias
+
+Cuando se soliciten las rutas, indica la carpeta **JDK que contiene `bin/java.exe`**, la carpeta **NiFi que contiene `bin/nifi.cmd`** y la carpeta **`bin` de PostgreSQL que contiene `psql.exe`**. Por ejemplo, esta última suele ser `C:/Program Files/PostgreSQL/17/bin`; utiliza la que exista en tu computadora.
+
+```powershell
+py -3.12 -m venv .venv
+if ($LASTEXITCODE -ne 0) { throw 'Instala Python 3.12 con el lanzador py.' }
+$taskPython = (Resolve-Path -LiteralPath '.venv/Scripts/python.exe').Path
+& $taskPython -m pip install -r '02_Codigo/requirements.txt'
+if ($LASTEXITCODE -ne 0) { throw 'Revisa la instalacion de dependencias antes de continuar.' }
+$env:JAVA_HOME = (Resolve-Path -LiteralPath (Read-Host 'Ruta de la carpeta JDK 21')).Path
+$env:NIFI_RUNTIME = (Resolve-Path -LiteralPath (Read-Host 'Ruta de la carpeta NiFi 2.12.0')).Path
+$taskPgBin = (Resolve-Path -LiteralPath (Read-Host 'Ruta de la carpeta bin de PostgreSQL 17')).Path
+foreach ($taskFile in @("$env:JAVA_HOME/bin/java.exe", "$env:NIFI_RUNTIME/bin/nifi.cmd", "$taskPgBin/psql.exe")) {
+    if (!(Test-Path -LiteralPath $taskFile)) { throw "Revisa la ruta: $taskFile" }
+}
+$env:PATH = "$env:JAVA_HOME/bin;$env:PATH"
+$env:PYTHONPATH = "$taskProject/02_Codigo"
+$env:PYSPARK_PYTHON = $taskPython
+$env:PROJECT_ROOT = $taskProject
+$env:LCD301_PROJECT_ROOT = $taskProject
+$env:DATA_ROOT = "$taskProject/data"
+$env:SOURCE_DATA_DIR = "$taskProject/data/source"
+$env:NIFI_URL = 'https://localhost:8443/nifi-api'
+$env:DASH_HOST = '127.0.0.1'
+$env:DASH_PORT = '18050'
+New-Item -ItemType Directory -Path 'drivers', 'data/logs/presentacion' -Force | Out-Null
+$taskJdbc = Join-Path $taskProject 'drivers/postgresql-42.7.7.jar'
+Invoke-WebRequest 'https://jdbc.postgresql.org/download/postgresql-42.7.7.jar' -OutFile $taskJdbc
+```
+
+El último comando descarga el [driver JDBC oficial 42.7.7](https://jdbc.postgresql.org/download/) usado en el proyecto. La instalación puede tardar y requiere conexión a Internet. No necesitas activar el entorno Python: los comandos usan `$taskPython` directamente.
+
+### C. Crear la base nueva y sus tablas
+
+Utiliza el puerto y las credenciales **de tu instalación**, no las del equipo original. En una instalación estándar el puerto suele ser 5432. Este bloque crea `lcd301_grupoa_demo`; si ya existe, se detiene para evitar mezclar ejecuciones. No borra ninguna base.
+
+```powershell
+$taskPgPort = Read-Host 'Puerto PostgreSQL (Enter para 5432)'
+if (!$taskPgPort) { $taskPgPort = '5432' }
+$taskPgUser = Read-Host 'Usuario PostgreSQL (Enter para postgres)'
+if (!$taskPgUser) { $taskPgUser = 'postgres' }
+$taskPgSecret = Read-Host 'Contrasena de PostgreSQL' -AsSecureString
+$taskPgPassword = ([System.Net.NetworkCredential]::new('', $taskPgSecret)).Password
+$taskDatabase = 'lcd301_grupoa_demo'
+$env:PGPASSWORD = $taskPgPassword
+try {
+    & "$taskPgBin/createdb.exe" -h 127.0.0.1 -p $taskPgPort -U $taskPgUser $taskDatabase
+    if ($LASTEXITCODE -ne 0) { throw 'No se creo la base. Revisa servicio, puerto, credenciales y que el nombre no exista.' }
+} finally { Remove-Item Env:PGPASSWORD -ErrorAction SilentlyContinue }
+$taskDbUser = [uri]::EscapeDataString($taskPgUser)
+$taskDbPassword = [uri]::EscapeDataString($taskPgPassword)
+$env:DATABASE_URL = "postgresql://${taskDbUser}:${taskDbPassword}@127.0.0.1:${taskPgPort}/${taskDatabase}"
+Remove-Variable taskPgPassword, taskPgSecret, taskDbPassword
+& "$taskPgBin/psql.exe" -d $env:DATABASE_URL -v ON_ERROR_STOP=1 -f '02_Codigo/sql/00_schema.sql'
+if ($LASTEXITCODE -ne 0) { throw 'Revisa la creacion de tablas antes de iniciar la ingesta.' }
+```
+
+**Conserva esta terminal abierta** para todos los pasos siguientes: contiene las rutas y la conexión, sin guardar la contraseña en el documento. La preparación se hace una vez por demostración nueva; para continuar una ejecución existente se reutilizan su carpeta y su base. No repitas la creación para volver a procesar BASE.
+
+## 1. Presentar el proyecto
 
 **Explica:** «Integramos ventas, devoluciones y clientes de una tienda. Recibimos eventos de una API REST y un catálogo CSV, validamos con NiFi, procesamos con Spark y almacenamos en PostgreSQL. Los dashboards presentan indicadores de negocio y operación. Los datos son sintéticos, en BOB».
 
-Abre PowerShell y ejecuta este bloque una vez. Las rutas `tmp` pertenecen a la instalación local y no se incluyen en el repositorio; en otro equipo hay que adaptar las rutas a los motores y dependencias instalados.
-
-```powershell
-Set-Location 'C:/Users/wolf1/OneDrive/Documents/ChatGPT/Document Creation'
-$taskWorkspace = (Get-Location).Path
-$taskProject = (Resolve-Path 'output/LCD301_ProyectoIntegrador_GrupoA').Path
-$taskRuntime = (Resolve-Path 'tmp/lcd301_runtime').Path
-$taskPython = 'C:/Users/wolf1/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe'
-$taskJdbc = Join-Path $taskRuntime 'postgresql-42.7.7.jar'
-$taskPgBin = Join-Path $taskRuntime 'pgsql/bin'
-$env:JAVA_HOME = (Resolve-Path 'tmp/nifi-runtime/jdk-21.0.12.1+1').Path
-$env:NIFI_RUNTIME = (Resolve-Path 'tmp/nifi-runtime/nifi-2.12.0').Path
-$env:PYTHONPATH = "$taskRuntime/db_python;$taskRuntime/python;$taskProject/02_Codigo"
-$env:PYSPARK_PYTHON = $taskPython
-$env:PATH = "$env:JAVA_HOME/bin;$env:PATH"
-$env:DATABASE_URL = 'postgresql://lcd301:lcd301_local@127.0.0.1:55432/lcd301'
-$env:PROJECT_ROOT = $taskProject
-$env:LCD301_PROJECT_ROOT = $taskProject
-$env:DASH_HOST = '127.0.0.1'
-$env:DASH_PORT = '18050'
-Set-Location $taskProject
-New-Item -ItemType Directory -Path 'data/logs/presentacion' -Force | Out-Null
-```
-
-**Explica:** «Configuramos las rutas de los programas y la conexión de laboratorio. Los informes nuevos se guardarán aparte, conservando las evidencias originales».
-
-Mantén esta terminal abierta. Si abres otra para ejecutar estos comandos, repite la preparación.
+La copia de demostración parte de cero. **BASE** es el historial inicial; **DELTA** es un lote posterior de operaciones nuevas. Al repetir un lote procesado se deben publicar cero hechos nuevos.
 
 ## 2. Iniciar y comprobar los servicios
 
-Comprueba PostgreSQL:
-
-```powershell
-& "$taskPgBin/pg_ctl.exe" status -D "$taskRuntime/pgdata"
-```
-
-Solo si PostgreSQL está detenido, ejecuta:
-
-```powershell
-& "$taskPgBin/pg_ctl.exe" start -D "$taskRuntime/pgdata" -l "$taskRuntime/postgres_presentacion.log"
-```
-
-Abre `https://localhost:8443/nifi/`. Solo si NiFi está detenido, inícialo y espera a que termine de arrancar:
+Inicia NiFi solo si está detenido:
 
 ```powershell
 & "$env:NIFI_RUNTIME/bin/nifi.cmd" start
 ```
 
-Abre `http://127.0.0.1:18080/health` y `http://127.0.0.1:18050/`. Si la API o el dashboard ya responden, omite su arranque. Para iniciar únicamente la aplicación que falte:
+Espera a que abra `https://localhost:8443/nifi/` e inicia sesión. En una instalación nueva con autenticación predeterminada, las credenciales generadas se consultan en `logs/nifi-app.log` dentro de la carpeta NiFi. Consúltalas antes de grabar. El cliente del proyecto las lee de ese mismo archivo. Si configuraste credenciales propias, indícalas en esta terminal:
 
 ```powershell
-# Solo si la API no está activa:
-Start-Process -FilePath $taskPython -ArgumentList @('-m','uvicorn','api.main:app','--host','127.0.0.1','--port','18080') -WorkingDirectory "$taskProject/02_Codigo" -WindowStyle Hidden
+# Solo si sustituiste las credenciales generadas de NiFi:
+$env:NIFI_USERNAME = Read-Host 'Usuario de NiFi'
+$taskNifiSecret = Read-Host 'Contrasena de NiFi' -AsSecureString
+$env:NIFI_PASSWORD = ([System.Net.NetworkCredential]::new('', $taskNifiSecret)).Password
+Remove-Variable taskNifiSecret
+```
+
+La autenticación predeterminada se describe en la [guía oficial de NiFi](https://nifi.apache.org/nifi-docs/administration-guide.html#single-user). Si aparece una advertencia de certificado, comprueba que corresponde a tu NiFi local en `localhost`.
+
+Inicia la API y el dashboard. Ejecuta cada bloque **solo si ese servicio no está ya activo para esta copia**. Si los puertos pertenecen a otra ejecución, detén esas aplicaciones antes de comenzar.
+
+```powershell
+Start-Process -FilePath $taskPython -ArgumentList @('-m','uvicorn','api.main:app','--host','127.0.0.1','--port','18080') -WorkingDirectory "$taskProject/02_Codigo" -WindowStyle Hidden -RedirectStandardOutput "$taskProject/data/logs/presentacion/api.log" -RedirectStandardError "$taskProject/data/logs/presentacion/api_error.log"
 ```
 
 ```powershell
-# Solo si el dashboard no está activo:
-Start-Process -FilePath $taskPython -ArgumentList @('-u','app.py') -WorkingDirectory "$taskProject/03_Visualizaciones/dashboard" -WindowStyle Hidden
+Start-Process -FilePath $taskPython -ArgumentList @('-u','app.py') -WorkingDirectory "$taskProject/03_Visualizaciones/dashboard" -WindowStyle Hidden -RedirectStandardOutput "$taskProject/data/logs/presentacion/dashboard.log" -RedirectStandardError "$taskProject/data/logs/presentacion/dashboard_error.log"
 ```
 
-Comprueba que estén disponibles:
+Espera unos segundos y comprueba:
 
 ```powershell
 Invoke-RestMethod 'http://127.0.0.1:18080/health'
 Invoke-RestMethod 'http://127.0.0.1:18050/health'
 ```
 
-**Muestra:** API con `source_available: true` y dashboard conectado a PostgreSQL. La base final debe tener 31.007 eventos.
+**Muestra:** API con `source_available: true` y dashboard conectado a PostgreSQL. Antes de procesar BASE, la base nueva tiene cero eventos. Si un servicio no responde, revisa su archivo `*_error.log` en `data/logs/presentacion`.
 
 ## 3. Mostrar las fuentes y el flujo propio
 
@@ -121,7 +176,7 @@ Get-Content 'data/logs/presentacion/base.json'
 
 **Señala en el resumen:** `input_count`, `published_count`, `duplicate_count`, `rejected_count`, `pending_count` y `duration_seconds`.
 
-En una primera carga se publican 31.000 eventos. En esta base ya cargada se esperan **cero publicaciones nuevas**. Para mostrar el resultado original abre `data/evidence/initial_run.json`, identificándolo como ejecución registrada. El job puede tardar; puedes recortar la espera conservando el resultado.
+En esta primera carga se esperan **31.000 eventos publicados**. Abre el dashboard y muestra los KPIs de BASE antes de continuar con DELTA. El job puede tardar; puedes recortar la espera conservando el resultado. Si da cero, comprueba si ya habías procesado este lote en la misma base.
 
 ## 6. Repetir BASE y procesar DELTA
 
@@ -143,9 +198,9 @@ Abre `http://127.0.0.1:18080/events/delta?cursor=0&limit=10` y ejecuta:
 Get-Content 'data/logs/presentacion/delta.json'
 ```
 
-**Explica:** «DELTA contiene operaciones posteriores: tres creaciones, tres pagos y una devolución. Su primera publicación añadió siete eventos y 280 BOB netos».
+**Explica:** «DELTA contiene operaciones posteriores: tres creaciones, tres pagos y una devolución. Su primera publicación añade siete eventos y 280 BOB netos».
 
-Como DELTA ya está publicado, esta repetición también debe conservar el total. Muestra `data/evidence/delta_run.json` o las capturas `negocio_base.jpg` y `negocio_delta.jpg` para explicar el cambio original:
+Muestra el resumen de DELTA y espera la actualización del dashboard. En la copia nueva se esperan `published_count: 7` y estos cambios; si vuelves a ejecutarlo, debe publicar cero y conservar los totales:
 
 | Indicador | BASE | Después de DELTA |
 | --- | ---: | ---: |
@@ -184,7 +239,7 @@ Para comprobar otro respaldo y restauración en una base separada:
 & $taskPython '02_Codigo/almacenamiento/backup_restore.py' --db-url $env:DATABASE_URL --pg-bin $taskPgBin --backup-dir 'data/logs/presentacion/backup'
 ```
 
-**Resultado:** `verified: true`; compara ocho tablas e importes sin reemplazar la base principal. Puedes preparar esta ejecución antes de grabar y mostrar `data/logs/presentacion/backup/restore_verification.json`, o utilizar la evidencia original `data/evidence/backup_verification_after_delta.json` indicando su fecha.
+**Resultado:** `verified: true`; compara ocho tablas e importes sin reemplazar la base principal. Muestra `data/logs/presentacion/backup/restore_verification.json`. La prueba crea una base adicional de restauración y requiere permiso para crear bases, como en la preparación.
 
 ## 8. Mostrar dashboards y cerrar
 
@@ -195,8 +250,8 @@ Abre `http://127.0.0.1:18050/`:
 3. Selecciona una categoría, un producto y un pedido para mostrar su historial. La tabla muestra importes del producto; el historial, el pedido completo.
 4. En **Operación**, señala rendimiento, latencia, errores, colas y ejecuciones recientes. Una repetición puede mostrar cero publicados por segundo: no creó hechos nuevos.
 
-**Explica:** «El dashboard consulta PostgreSQL cada 15 segundos. La latencia se mide desde la marca individual en NiFi, después de SplitJson, hasta la persistencia e incluye la espera batch». Las métricas operacionales abarcan las últimas 24 horas: las repeticiones actuales no recrean las latencias de los eventos antiguos. Si faltan observaciones, explica la ventana y muestra `03_Visualizaciones/capturas/operacion_final.jpg` como evidencia registrada.
+**Explica:** «El dashboard consulta PostgreSQL cada 15 segundos. La latencia se mide desde la marca individual en NiFi, después de SplitJson, hasta la persistencia e incluye la espera batch». Las métricas operacionales abarcan las últimas 24 horas: las repeticiones actuales no recrean las latencias de los eventos antiguos. En una ejecución nueva sí deben generarse observaciones actuales; si presentas otro día, explica la ventana. Las capturas históricas siguen en `03_Visualizaciones/capturas` de la carpeta original descargada, y deben identificarse como evidencia registrada.
 
 **Cierre:** «Completamos ingesta, procesamiento, almacenamiento, análisis y visualización. La entrega final contiene 31.007 eventos y 26.381.649,45 BOB netos, con controles de calidad, repetición sin duplicados y respaldo restaurado».
 
-Indica que se utilizó Spark batch local en Windows; Docker tuvo validación estática, sin ejecución en el laboratorio. Termina mostrando el README del repositorio y el ZIP `LCD301_ProyectoIntegrador_GrupoA.zip`.
+Indica que se utilizó Spark batch local en Windows; Docker tuvo validación estática, sin ejecución en el laboratorio. Termina mostrando el README del repositorio y el ZIP `LCD301_ProyectoIntegrador_GrupoA.zip`. Los documentos y evidencias originales permanecen en la carpeta descargada (`$taskSource`); los resultados que acabas de ejecutar están en la copia de demostración (`$taskProject`).
