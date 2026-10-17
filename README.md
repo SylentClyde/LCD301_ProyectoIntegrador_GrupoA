@@ -12,7 +12,7 @@ Repositorio de entrega: [LCD301_ProyectoIntegrador_GrupoA](https://github.com/Sy
 | Código | [Dependencias](02_Codigo/DEPENDENCIAS.md) · [Fuentes](02_Codigo/fuentes/README.md) · [API](02_Codigo/api/README.md) · [Ingesta](02_Codigo/ingesta/README.md) · [Procesamiento](02_Codigo/procesamiento/README.md) |
 | Almacenamiento y análisis | [Esquema SQL](02_Codigo/sql/00_schema.sql) · [Q1](02_Codigo/sql/Q1_ingresos_canal.sql) · [Q2](02_Codigo/sql/Q2_ranking_productos.sql) · [Q3](02_Codigo/sql/Q3_ticket_promedio.sql) · [Q4](02_Codigo/sql/Q4_cancelacion_cohortes.sql) · [Q5](02_Codigo/sql/Q5_devoluciones_30dias.sql) · [Q6](02_Codigo/sql/Q6_valor_repeticion_clientes.sql) |
 | Visualización | [Dashboard](03_Visualizaciones/dashboard/README.md) · [Capturas reales](03_Visualizaciones/capturas/) · [Evidencias NiFi](03_Visualizaciones/evidencias/) |
-| Presentación | [Slides](04_Presentacion/Entrega/Presentacion_GrupoA.pptx) · [Video](04_Presentacion/Demostracion_GrupoA.mp4) · [Guion](04_Presentacion/Guion_Demostracion.md) |
+| Presentación | [Slides](04_Presentacion/Entrega/Presentacion_GrupoA.pptx) · [Video]([04_Presentacion/Demostracion_GrupoA.mp4](https://estintecedu-my.sharepoint.com/:v:/g/personal/1126460_est_intec_edu_do/IQDzF5leTp5WTLrMXmK1zTumAY8jtalahXkPQHoQAPEes1Q?e=XUwCtc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) · [Guion](04_Presentacion/Guion_Demostracion.md) |
 | Despliegue opcional | [Docker Compose y estado de validación](02_Codigo/deploy/README.md) |
 
 ## Qué comprobar
