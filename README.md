@@ -47,6 +47,4 @@ Servicios de laboratorio: [Dashboard](http://127.0.0.1:18050), [API y Swagger](h
 
 ## Alcance y entrega
 
-El procesamiento es batch: las vistas se actualizan cada 15 segundos al publicarse los lotes. No se afirma procesamiento distribuido ni streaming continuo. El despliegue Docker se suministra como extra y no se ejecutó en este entorno; la evidencia es de ejecución nativa Windows. El video utiliza capturas reales como demostración guiada.
-
-`MANIFEST_SHA256.json` inventaría los archivos distribuibles del proyecto. Los archivos se publican en este repositorio y el paquete **LCD301_ProyectoIntegrador_GrupoA.zip** se entrega por separado. La descarga automática de GitHub usa su propio nombre y carpeta contenedora. El archivo **LCD301_ProyectoIntegrador_GrupoA.url** abre el repositorio y puede enviarse al instructor.
+El procesamiento es batch: las vistas se actualizan cada 15 segundos al publicarse los lotes. No se afirma procesamiento distribuido ni streaming continuo. El despliegue de Docker se suministra como extra y no se ejecutó en este entorno; la evidencia es de ejecución nativa de Windows. El video utiliza capturas reales como demostración guiada.
